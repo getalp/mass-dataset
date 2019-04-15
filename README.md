@@ -8,7 +8,7 @@ The data and scripts will be uploaded in the upcoming weeks.
 
 ## Pipeline
 
-1) Downloading audio chapters from [bible.is](bible.is).
+### 1) Downloading audio chapters from [bible.is](bible.is).
 
   1.1. The audios used in our work are available in the following links:
   - [Basque data set](https://www.faithcomesbyhearing.com/audio-bibles/download/eus/EUSEABN1DA)
@@ -24,10 +24,10 @@ The data and scripts will be uploaded in the upcoming weeks.
 
   1.3. [This]() script was used to generate the input for the Maus forced aligner (verse information removal).
 
-2) Aligning the data with [Maus forced aligner](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic)
+### 2) Aligning the data with [Maus forced aligner](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic)
 For the covered languages, we make available the output from the Maus forced aligner in LANGUAGE/textgrid/. For new languages, please check the Website.
 
-3) Obtaining speech alignment on a verse level
+### 3) Obtaining speech alignment on a verse level
 For each languages, the audios were sliced in verses considering the raw chapter text and the generated texgrids. More details available [here](https://github.com/getalp/multilingual-speech2speech-dataset/blob/master/scripts/alignment/).
 
 ## Paper Experiments
