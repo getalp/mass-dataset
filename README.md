@@ -9,7 +9,7 @@ The data and scripts will be uploaded in the upcoming weeks.
 ## Pipeline
 
 1) Downloading audio chapters from [bible.is](bible.is).
-1.1. The audios used in our work are available in the following links:
+  1.1. The audios used in our work are available in the following links:
   - [Basque data set](https://www.faithcomesbyhearing.com/audio-bibles/download/eus/EUSEABN1DA)
   - [English data set](https://www.faithcomesbyhearing.com/audio-bibles/download/eng/ENGESVN1DA)
   - [Finnish data set](https://www.faithcomesbyhearing.com/audio-bibles/download/fin/FIN38VN1DA)
@@ -19,8 +19,9 @@ The data and scripts will be uploaded in the upcoming weeks.
   - [Russian data set](https://www.faithcomesbyhearing.com/audio-bibles/download/rus/RUSS76N2DA)
   - [Spanish data set](https://www.faithcomesbyhearing.com/audio-bibles/download/spn/SPNBDAN1DA)
 
-1.2. The audios were converted from multi to single channel by using [this]() script. 
-1.3. [This]() script was used to generate the input for the Maus forced aligner (verse information removal).
+  1.2. The audios were converted from multi to single channel by using [this]() script. 
+
+  1.3. [This]() script was used to generate the input for the Maus forced aligner (verse information removal).
 
 2) Aligning the data with [Maus forced aligner](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic)
 For the covered languages, we make available the output from the Maus forced aligner in LANGUAGE/textgrid/. For new languages, please check the Website.
