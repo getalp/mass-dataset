@@ -9,6 +9,8 @@ The data and scripts will be uploaded in the upcoming weeks.
 ## Pipeline
 
 * 1) Downloading audio chapters from [bible.is](bible.is)
+** Getting the data
+** Going from multi to one channel
 
 * 2) Aligning the data with [Maus forced aligner](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic)
 
