@@ -9,6 +9,8 @@ The data and scripts will be uploaded in the upcoming weeks.
 ## Pipeline
 
 * 1) Downloading audio chapters from [bible.is](bible.is)
+-> Getting the data
+-> Going from multi to one channel
 
 [English data set](https://www.faithcomesbyhearing.com/audio-bibles/download/eng/ENGESVN1DA)
 [French data set](https://www.faithcomesbyhearing.com/audio-bibles/download/frn/FRNTLSN2DA)
@@ -22,6 +24,10 @@ The data and scripts will be uploaded in the upcoming weeks.
 * 2) Aligning the data with [Maus forced aligner](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic)
 
 * 3) Obtaining speech alignment on a verse level
+
+## Paper Experiments
+
+The implementation and models presented in the paper are available [here](https://github.com/getalp/BibleNet).
 
 ## Team and Contact
 
