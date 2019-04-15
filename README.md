@@ -28,7 +28,7 @@ The data and scripts will be uploaded in the upcoming weeks.
 For the covered languages, we make available the output from the Maus forced aligner in LANGUAGE/textgrid/. For new languages, please check the Website.
 
 ### 3) Obtaining speech alignment on a verse level
-For each languages, the audios were sliced in verses considering the raw chapter text and the generated texgrids. More details available [here](https://github.com/getalp/multilingual-speech2speech-dataset/blob/master/scripts/alignment/).
+For each language, the audios were sliced in verses considering the output of 1.3. and the generated texgrids (2.). More details available [here](https://github.com/getalp/multilingual-speech2speech-dataset/blob/master/scripts/alignment/).
 
 ## Paper Experiments
 
