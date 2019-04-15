@@ -2,8 +2,8 @@
 
 ## RUNNING
 
-call: python3 coupe_verset.py --lab <CHAPTER TEXT> --textgrid <TEXGRID> --wav <WAV FILES> \
-        --output <OUTPUT FOLDER> --language <LANGUAGE ID> --force --verbose
+call: 
+python3 coupe_verset.py --lab <CHAPTER TEXT> --textgrid <TEXGRID> --wav <WAV FILES> --output <OUTPUT FOLDER> --language <LANGUAGE ID> --force --verbose
 
 
 ## PARAMETERS
