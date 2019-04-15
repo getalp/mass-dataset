@@ -2,10 +2,6 @@
 
 This is the repository for the CMU multilingual speech extension data set presented on the paper entitled *A Large and Clean Multilingual Corpus of Sentence Aligned Spoken Utterances Extracted from the Bible*.
 
-The data and scripts will be uploaded in the upcoming weeks.
-
-
-
 ## Pipeline
 
 ### 1) Downloading audio chapters from [bible.is](bible.is).
