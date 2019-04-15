@@ -31,12 +31,12 @@ imperfect alignments, you can start by removing this argument; (check DEBUG AND 
 
 ## DEPENDENCIES
 
-* Multiprocessing: The multiprocessing library is used. If not supported by the machine, it can be simply replaced by 
+* *Multiprocessing*: The multiprocessing library is used. If not supported by the machine, it can be simply replaced by 
 removing the commentary on the process function (coupe_verset.py).
 
-* praatio: necessary to process the textgrid input
+* *praatio*: necessary to process the textgrid input
 
-* sox: is used for slicing the audios. If not executed on a linux machine, this command needs to be replaced on the 
+* *sox*: is used for slicing the audios. If not executed on a linux machine, this command needs to be replaced on the 
 slice_audio function (coupe_verset.py).
 
 NOTE: THIS IS A PYTHON 3.5v IMPLEMENTATION. We do not insure the good behavior of this script in different python versions.
@@ -44,15 +44,15 @@ NOTE: THIS IS A PYTHON 3.5v IMPLEMENTATION. We do not insure the good behavior o
 
 ## DEBUG AND ETC 
 
-1) [NAME EXTENSIONS] The script makes some assumptions about file names and extensions. All of these are listed on config.py
+* **[NAME EXTENSIONS]** The script makes some assumptions about file names and extensions. All of these are listed on config.py
 
-2) [ERROR LOG] The script generates a log file when it fails assertion during alignment creation. This log is called 
+* **[ERROR LOG]** The script generates a log file when it fails assertion during alignment creation. This log is called 
 FILE_ID_error_log and it prints the generated alignment, allowing debug.
 
-3) [EXTENSION] Perfect alignment was generated through an iterative process of failed alignment generation and inclusion of 
+* **[EXTENSION]** Perfect alignment was generated through an iterative process of failed alignment generation and inclusion of 
 new regular expressions in the clean function (parser.py) for each one of the covered languages. By adding cases for new 
 languages, the script can be easily extended to new languages.
 
-4) [IMPEFECT ALIGNMENT] We include the imperfect_raw_grid_align function that allows impefect alignment between chapter text 
+* **[IMPEFECT ALIGNMENT]** We include the imperfect_raw_grid_align function that allows impefect alignment between chapter text 
 and textgrid. Please check that function at coupe_verset.py for more details. 
 
