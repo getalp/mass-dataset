@@ -8,13 +8,13 @@ python3 coupe_verset.py --lab <CHAPTER TEXT> --textgrid <TEXGRID> --wav <WAV FIL
 
 ## PARAMETERS
 
---lab: the folder containing the chapters, such as downloaded from the bible.is
+**--lab**: the folder containing the chapters, such as downloaded from the bible.is
 
---textgrid: the folder containing the output of the alignment (THIS FILES DO NOT CONTAIN THE VERSES NUMBER)
+**--textgrid**: the folder containing the output of the alignment (THIS FILES DO NOT CONTAIN THE VERSES NUMBER)
 
---wav: the folder containing the audios, such as downloaded from bible.is 
+**--wav**: the folder containing the audios, such as downloaded from bible.is 
 
---language: Language IDs (config.py). Current covered languages:
+**--language**: Language IDs (config.py). Current covered languages:
      en : English
      es : Spanish
      eu : Basque
@@ -24,9 +24,9 @@ python3 coupe_verset.py --lab <CHAPTER TEXT> --textgrid <TEXGRID> --wav <WAV FIL
      ro : Romanian
      ru : Russian
 
---force: right now the script only works with this option on. If you want to extend the audio slicer by allowing imperfect alignments, you can start by removing this argument; (check DEBUG AND ETC below)
+**--force**: right now the script only works with this option on. If you want to extend the audio slicer by allowing imperfect alignments, you can start by removing this argument; (check DEBUG AND ETC below)
 
---verbose: if you like having a lot of textual output. :)
+**--verbose**: if you like having a lot of textual output. :)
 
 ## DEPENDENCIES
 
@@ -41,11 +41,11 @@ NOTE: THIS IS A PYTHON 3.5v IMPLEMENTATION. We do not insure the good behavior o
 
 ## DEBUG AND ETC 
 
-* **[NAME EXTENSIONS]** The script makes some assumptions about file names and extensions. All of these are listed on config.py
+**[NAME EXTENSIONS]** The script makes some assumptions about file names and extensions. All of these are listed on config.py
 
-* **[ERROR LOG]** The script generates a log file when it fails assertion during alignment creation. This log is called FILE_ID_error_log and it prints the generated alignment, allowing debug.
+**[ERROR LOG]** The script generates a log file when it fails assertion during alignment creation. This log is called FILE_ID_error_log and it prints the generated alignment, allowing debug.
 
-* **[EXTENSION]** Perfect alignment was generated through an iterative process of failed alignment generation and inclusion of new regular expressions in the clean function (parser.py) for each one of the covered languages. By adding cases for new languages, the script can be easily extended to new languages.
+**[EXTENSION]** Perfect alignment was generated through an iterative process of failed alignment generation and inclusion of new regular expressions in the clean function (parser.py) for each one of the covered languages. By adding cases for new languages, the script can be easily extended to new languages.
 
-* **[IMPEFECT ALIGNMENT]** We include the imperfect_raw_grid_align function that allows impefect alignment between chapter text and textgrid. Please check that function at coupe_verset.py for more details. 
+**[IMPEFECT ALIGNMENT]** We include the imperfect_raw_grid_align function that allows impefect alignment between chapter text and textgrid. Please check that function at coupe_verset.py for more details. 
 
