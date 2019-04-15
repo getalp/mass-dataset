@@ -16,6 +16,10 @@ The data and scripts will be uploaded in the upcoming weeks.
 
 * 3) Obtaining speech alignment on a verse level
 
+## Paper Experiments
+
+The implementation and models used in the paper are available [here](https://github.com/getalp/BibleNet).
+
 ## Team and Contact
 
 The people behind the (325) project:
