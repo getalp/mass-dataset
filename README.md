@@ -19,10 +19,10 @@ The audios used in our work are available in the following links:
   - [Russian data set](https://www.faithcomesbyhearing.com/audio-bibles/download/rus/RUSS76N2DA)
   - [Spanish data set](https://www.faithcomesbyhearing.com/audio-bibles/download/spn/SPNBDAN1DA)
 
-The audios were convered from multi to single channel by using [this]() script.
+The audios were convered from multi to single channel by using [this]() script. And [this]() script was used to generated the input for the Maus forced aligner (verse information removal).
 
 2) Aligning the data with [Maus forced aligner](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic)
-For the covered languages, we make available the output from the Maus forced aligner. For new languages, please check the Website.
+For the covered languages, we make available the output from the Maus forced aligner in LANGUAGE/textgrid/. For new languages, please check the Website.
 
 3) Obtaining speech alignment on a verse level
 For each languages, the audios were sliced in verses considering the raw chapter text and the generated texgrids. More details available [here](https://github.com/getalp/multilingual-speech2speech-dataset/blob/master/scripts/alignment/).
