@@ -9,6 +9,7 @@ The data and scripts will be uploaded in the upcoming weeks.
 ## Pipeline
 
 1) Downloading audio chapters from [bible.is](bible.is).
+
   1.1. The audios used in our work are available in the following links:
   - [Basque data set](https://www.faithcomesbyhearing.com/audio-bibles/download/eus/EUSEABN1DA)
   - [English data set](https://www.faithcomesbyhearing.com/audio-bibles/download/eng/ENGESVN1DA)
