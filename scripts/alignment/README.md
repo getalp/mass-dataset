@@ -1,12 +1,12 @@
 # Audio Slicer
 
-=> RUNNING
+## RUNNING
 
 call: python3 coupe_verset.py --lab <CHAPTER TEXT> --textgrid <TEXGRID> --wav <WAV FILES> \
         --output <OUTPUT FOLDER> --language <LANGUAGE ID> --force --verbose
 
 
-=> PARAMETERS
+## PARAMETERS
 
 --lab: the folder containing the chapters, such as downloaded from the bible.is
 
@@ -29,7 +29,7 @@ imperfect alignments, you can start by removing this argument; (check DEBUG AND 
 
 --verbose: if you like having a lot of textual output. :)
 
-=> DEPENDENCIES
+## DEPENDENCIES
 
 * Multiprocessing: The multiprocessing library is used. If not supported by the machine, it can be simply replaced by 
 removing the commentary on the process function (coupe_verset.py).
@@ -42,7 +42,7 @@ slice_audio function (coupe_verset.py).
 NOTE: THIS IS A PYTHON 3.5v IMPLEMENTATION. We do not insure the good behavior of this script in different python versions.
 
 
-=> DEBUG AND ETC 
+## DEBUG AND ETC 
 
 1) [NAME EXTENSIONS] The script makes some assumptions about file names and extensions. All of these are listed on config.py
 
