@@ -19,7 +19,7 @@ The audios used in our work are available in the following links:
   - [Russian data set](https://www.faithcomesbyhearing.com/audio-bibles/download/rus/RUSS76N2DA)
   - [Spanish data set](https://www.faithcomesbyhearing.com/audio-bibles/download/spn/SPNBDAN1DA)
 
-The audios were convered from multi to single channel by using [this]() script. And [this]() script was used to generated the input for the Maus forced aligner (verse information removal).
+The audios were converted from multi to single channel by using [this]() script. [This]() script was used to generate the input for the Maus forced aligner (verse information removal).
 
 2) Aligning the data with [Maus forced aligner](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic)
 For the covered languages, we make available the output from the Maus forced aligner in LANGUAGE/textgrid/. For new languages, please check the Website.
