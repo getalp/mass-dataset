@@ -18,7 +18,7 @@ The data and scripts will be uploaded in the upcoming weeks.
 
 ## Paper Experiments
 
-The implementation and models used in the paper are available [here](https://github.com/getalp/BibleNet).
+The implementation and models presented in the paper are available [here](https://github.com/getalp/BibleNet).
 
 ## Team and Contact
 
