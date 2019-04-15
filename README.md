@@ -18,6 +18,7 @@ The audios used in our work are available in the following links:
   - [Romanian data set](https://www.faithcomesbyhearing.com/audio-bibles/download/ron/RONDCVN1DA)
   - [Russian data set](https://www.faithcomesbyhearing.com/audio-bibles/download/rus/RUSS76N2DA)
   - [Spanish data set](https://www.faithcomesbyhearing.com/audio-bibles/download/spn/SPNBDAN1DA)
+
 The audios were convered from multi to single channel by using [this]() script.
 
 2) Aligning the data with [Maus forced aligner](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic)
