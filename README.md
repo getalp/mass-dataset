@@ -1,4 +1,4 @@
-# Multilingual speech2speech dataset
+# MaSS - Multilingual corpus of Sentence-aligned Spoken utterances
 
 This is the repository for the CMU multilingual speech extension data set presented on the paper entitled *A Large and Clean Multilingual Corpus of Sentence Aligned Spoken Utterances Extracted from the Bible*.
 
@@ -33,10 +33,10 @@ The implementation and models presented in the paper are available [here](https:
 
 The people behind the (325) project:
 
+* Laurent BESACIER
 * Eric Le FERRARD
+* Mahault GARNERIN
 * William N. HAVARD
 * Marcely ZANON BOITO
-* Mahault GARNERIN
-* Laurent BESACIER
 
 You can contact them at first.last-name@univ-grenoble-alpes.fr
