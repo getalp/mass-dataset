@@ -1,4 +1,4 @@
-# Multilingual speech2speech dataset
+# MaSS - Multilingual corpus of Sentence-aligned Spoken utterances
 
 This is the repository for the CMU multilingual speech extension data set presented on the paper entitled *A Large and Clean Multilingual Corpus of Sentence Aligned Spoken Utterances Extracted from the Bible*.
 
@@ -8,6 +8,7 @@ Inside the dataset folder, for each language we provide:
 - Alignment textgrids (from Maus forced aligner)
 - Final textual output
 - Mel Filterbank Spectrograms (such as used in the paper's experiments)
+
 
 ## Pipeline
 
@@ -23,9 +24,8 @@ Inside the dataset folder, for each language we provide:
   - [Russian data set](https://www.faithcomesbyhearing.com/audio-bibles/download/rus/RUSS76N2DA)
   - [Spanish data set](https://www.faithcomesbyhearing.com/audio-bibles/download/spn/SPNBDAN1DA)
 
-  1.2. The audios were converted from multi to single channel by using [this]() script. 
+  1.2. The audios were converted from multi to single channel and forced aligned by using [this](https://github.com/getalp/multilingual-speech2speech-dataset/blob/master/scripts/force-align.py) script. 
 
-  1.3. [This]() script was used to generate the input for the Maus forced aligner (verse information removal).
 
 ### 2) Aligning the data with [Maus forced aligner](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic)
 For the covered languages, we make available the output from the Maus forced aligner in LANGUAGE/textgrid/. For new languages, please check the Website.
