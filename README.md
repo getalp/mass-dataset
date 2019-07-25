@@ -2,9 +2,12 @@
 
 This is the repository for the CMU multilingual speech extension data set presented on the paper entitled *A Large and Clean Multilingual Corpus of Sentence Aligned Spoken Utterances Extracted from the Bible*.
 
-The data and scripts will be uploaded in the upcoming weeks.
-
-
+## Data
+For copyright reasons, we are not allowed to share the audio files however, we provide the extraction pipeline below. We also highlight this pipeline can be used to new languages of interested.
+Inside the dataset folder, for each language we provide:
+- Alignment textgrids (from Maus forced aligner)
+- Final textual output
+- Mel Filterbank Spectrograms (such as used in the paper's experiments)
 
 ## Pipeline
 
@@ -30,18 +33,24 @@ For the covered languages, we make available the output from the Maus forced ali
 ### 3) Obtaining speech alignment on a verse level
 For each language, the audios were sliced in verses considering the output of 1.3. and the generated texgrids (2.). More details available [here](https://github.com/getalp/multilingual-speech2speech-dataset/blob/master/scripts/alignment/).
 
+### 4) ID equivalence across languages
+For translating the IDs in English, we provide the simple python script below.
+~~~~
+python3 scripts/fetch_data.py <language folder> <output folder> <language code>
+~~~~
+
 ## Paper Experiments
 
-The implementation and models presented in the paper are available [here](https://github.com/getalp/BibleNet).
+The speech-to-speech retrieval baseline model proposed at the paper is available [here](https://github.com/getalp/BibleNet).
 
 ## Team and Contact
 
 The people behind the (325) project:
 
-* Eric Le FERRARD
 * William HAVARD
 * Marcely ZANON BOITO
 * Mahault GARNERIN
+* Eric Le FERRARD
 * Laurent BESACIER
 
 You can contact them at first.last-name@univ-grenoble-alpes.fr
