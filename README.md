@@ -47,10 +47,10 @@ The speech-to-speech retrieval baseline model proposed at the paper is available
 
 The people behind the (325) project:
 
-* Marcely ZANON BOITO
-* William N. HAVARD
+* ![ORCiD Logo](https://zenodo.org/static/img/orcid.png) [Marcely ZANON BOITO](https://orcid.org/0000-0003-0134-6719)
+* ![ORCiD Logo](https://zenodo.org/static/img/orcid.png)https://zenodo.org/static/img/orcid.png [William N. HAVARD](https://orcid.org/0000-0002-1226-4156)
 * Mahault GARNERIN
 * Eric Le FERRAND
-* Laurent BESACIER
+* ![ORCiD Logo](https://zenodo.org/static/img/orcid.png) https://zenodo.org/static/img/orcid.png [Laurent BESACIER](https://orcid.org/0000-0001-7411-9125)
 
 You can contact them at first.last-name@univ-grenoble-alpes.fr
