@@ -7,7 +7,7 @@ For copyright reasons, we are not allowed to share the audio files however, we p
 Inside the dataset folder, for each language we provide:
 - Alignment textgrids (from Maus forced aligner)
 - Final textual output
-- Mel Filterbank Spectrograms (such as used in the paper's experiments)
+- [Mel Filterbank Spectrograms (such as used in the paper's experiments)](https://zenodo.org/record/3354711) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3354711.svg)](https://doi.org/10.5281/zenodo.3354711)
 
 
 ## Pipeline
@@ -47,10 +47,10 @@ The speech-to-speech retrieval baseline model proposed at the paper is available
 
 The people behind the (325) project:
 
-* William HAVARD
 * Marcely ZANON BOITO
+* William N. HAVARD
 * Mahault GARNERIN
-* Eric Le FERRARD
+* Eric Le FERRAND
 * Laurent BESACIER
 
 You can contact them at first.last-name@univ-grenoble-alpes.fr
