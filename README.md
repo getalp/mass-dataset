@@ -7,7 +7,7 @@ Utterances Extracted from the Bible](https://arxiv.org/pdf/1907.12895.pdf)*.
 For copyright reasons, we are not allowed to share the audio files however, we provide the extraction pipeline below. We also highlight this pipeline can be used to new languages of interested.
 Inside the dataset folder, for each language we provide:
 - Alignment textgrids (from Maus forced aligner)
-- Final textual output
+- Final textual output and segments textgrids
 - [Mel Filterbank Spectrograms (such as used in the paper's experiments)](https://zenodo.org/record/3354711) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3354711.svg)](https://doi.org/10.5281/zenodo.3354711)
 
 
