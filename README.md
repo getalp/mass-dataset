@@ -1,7 +1,7 @@
 # MaSS - Multilingual corpus of Sentence-aligned Spoken utterances
 
 This is the repository for the CMU multilingual speech extension data set presented on the paper entitled *[MaSS: A Large and Clean Multilingual Corpus of Sentence-aligned Spoken
-Utterances Extracted from the Bible](https://arxiv.org/pdf/1907.12895.pdf)A Large and Clean Multilingual Corpus of Sentence Aligned Spoken Utterances Extracted from the Bible*.
+Utterances Extracted from the Bible](https://arxiv.org/pdf/1907.12895.pdf)*.
 
 ## Data
 For copyright reasons, we are not allowed to share the audio files however, we provide the extraction pipeline below. We also highlight this pipeline can be used to new languages of interested.
