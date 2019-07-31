@@ -1,0 +1,7158 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 109.824000
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 109.824000
+        intervals: size = 351
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.530000
+            text = ""
+        intervals [2]:
+            xmin = 0.530000
+            xmax = 1.070000
+            text = "two"
+        intervals [3]:
+            xmin = 1.070000
+            xmax = 2.150000
+            text = "thessalonians"
+        intervals [4]:
+            xmin = 2.150000
+            xmax = 3.110000
+            text = ""
+        intervals [5]:
+            xmin = 3.110000
+            xmax = 4.430000
+            text = "one"
+        intervals [6]:
+            xmin = 4.430000
+            xmax = 6.130000
+            text = ""
+        intervals [7]:
+            xmin = 6.130000
+            xmax = 6.520000
+            text = "paul"
+        intervals [8]:
+            xmin = 6.520000
+            xmax = 6.980000
+            text = ""
+        intervals [9]:
+            xmin = 6.980000
+            xmax = 7.880000
+            text = "silvanus"
+        intervals [10]:
+            xmin = 7.880000
+            xmax = 8.250000
+            text = ""
+        intervals [11]:
+            xmin = 8.250000
+            xmax = 8.420000
+            text = "and"
+        intervals [12]:
+            xmin = 8.420000
+            xmax = 8.830000
+            text = "timothy"
+        intervals [13]:
+            xmin = 8.830000
+            xmax = 9.470000
+            text = ""
+        intervals [14]:
+            xmin = 9.470000
+            xmax = 9.680000
+            text = "to"
+        intervals [15]:
+            xmin = 9.680000
+            xmax = 9.750000
+            text = "the"
+        intervals [16]:
+            xmin = 9.750000
+            xmax = 10.200000
+            text = "church"
+        intervals [17]:
+            xmin = 10.200000
+            xmax = 10.270000
+            text = "of"
+        intervals [18]:
+            xmin = 10.270000
+            xmax = 10.360000
+            text = "the"
+        intervals [19]:
+            xmin = 10.360000
+            xmax = 11.300000
+            text = "thessalonians"
+        intervals [20]:
+            xmin = 11.300000
+            xmax = 11.540000
+            text = ""
+        intervals [21]:
+            xmin = 11.540000
+            xmax = 11.720000
+            text = "in"
+        intervals [22]:
+            xmin = 11.720000
+            xmax = 12.020000
+            text = "god"
+        intervals [23]:
+            xmin = 12.020000
+            xmax = 12.310000
+            text = "our"
+        intervals [24]:
+            xmin = 12.310000
+            xmax = 12.800000
+            text = "father"
+        intervals [25]:
+            xmin = 12.800000
+            xmax = 12.890000
+            text = "and"
+        intervals [26]:
+            xmin = 12.890000
+            xmax = 12.950000
+            text = "the"
+        intervals [27]:
+            xmin = 12.950000
+            xmax = 13.280000
+            text = "lord"
+        intervals [28]:
+            xmin = 13.280000
+            xmax = 13.680000
+            text = "jesus"
+        intervals [29]:
+            xmin = 13.680000
+            xmax = 14.210000
+            text = "christ"
+        intervals [30]:
+            xmin = 14.210000
+            xmax = 14.830000
+            text = ""
+        intervals [31]:
+            xmin = 14.830000
+            xmax = 15.180000
+            text = "grace"
+        intervals [32]:
+            xmin = 15.180000
+            xmax = 15.300000
+            text = "to"
+        intervals [33]:
+            xmin = 15.300000
+            xmax = 15.610000
+            text = "you"
+        intervals [34]:
+            xmin = 15.610000
+            xmax = 15.800000
+            text = "and"
+        intervals [35]:
+            xmin = 15.800000
+            xmax = 16.080000
+            text = "peace"
+        intervals [36]:
+            xmin = 16.080000
+            xmax = 16.240000
+            text = "from"
+        intervals [37]:
+            xmin = 16.240000
+            xmax = 16.470000
+            text = "god"
+        intervals [38]:
+            xmin = 16.470000
+            xmax = 16.710000
+            text = "our"
+        intervals [39]:
+            xmin = 16.710000
+            xmax = 17.170000
+            text = "father"
+        intervals [40]:
+            xmin = 17.170000
+            xmax = 17.530000
+            text = ""
+        intervals [41]:
+            xmin = 17.530000
+            xmax = 17.630000
+            text = "and"
+        intervals [42]:
+            xmin = 17.630000
+            xmax = 17.710000
+            text = "the"
+        intervals [43]:
+            xmin = 17.710000
+            xmax = 18.000000
+            text = "lord"
+        intervals [44]:
+            xmin = 18.000000
+            xmax = 18.350000
+            text = "jesus"
+        intervals [45]:
+            xmin = 18.350000
+            xmax = 18.880000
+            text = "christ"
+        intervals [46]:
+            xmin = 18.880000
+            xmax = 19.590000
+            text = ""
+        intervals [47]:
+            xmin = 19.590000
+            xmax = 19.730000
+            text = "we"
+        intervals [48]:
+            xmin = 19.730000
+            xmax = 20.000000
+            text = "ought"
+        intervals [49]:
+            xmin = 20.000000
+            xmax = 20.330000
+            text = "always"
+        intervals [50]:
+            xmin = 20.330000
+            xmax = 20.450000
+            text = "to"
+        intervals [51]:
+            xmin = 20.450000
+            xmax = 20.660000
+            text = "give"
+        intervals [52]:
+            xmin = 20.660000
+            xmax = 20.710000
+            text = ""
+        intervals [53]:
+            xmin = 20.710000
+            xmax = 21.020000
+            text = "thanks"
+        intervals [54]:
+            xmin = 21.020000
+            xmax = 21.150000
+            text = "to"
+        intervals [55]:
+            xmin = 21.150000
+            xmax = 21.460000
+            text = "god"
+        intervals [56]:
+            xmin = 21.460000
+            xmax = 21.560000
+            text = "for"
+        intervals [57]:
+            xmin = 21.560000
+            xmax = 21.740000
+            text = "you"
+        intervals [58]:
+            xmin = 21.740000
+            xmax = 22.220000
+            text = "brothers"
+        intervals [59]:
+            xmin = 22.220000
+            xmax = 22.420000
+            text = ""
+        intervals [60]:
+            xmin = 22.420000
+            xmax = 22.610000
+            text = "as"
+        intervals [61]:
+            xmin = 22.610000
+            xmax = 22.780000
+            text = "is"
+        intervals [62]:
+            xmin = 22.780000
+            xmax = 22.830000
+            text = ""
+        intervals [63]:
+            xmin = 22.830000
+            xmax = 23.130000
+            text = "right"
+        intervals [64]:
+            xmin = 23.130000
+            xmax = 23.470000
+            text = ""
+        intervals [65]:
+            xmin = 23.470000
+            xmax = 23.810000
+            text = "because"
+        intervals [66]:
+            xmin = 23.810000
+            xmax = 23.940000
+            text = "your"
+        intervals [67]:
+            xmin = 23.940000
+            xmax = 24.250000
+            text = "faith"
+        intervals [68]:
+            xmin = 24.250000
+            xmax = 24.410000
+            text = "is"
+        intervals [69]:
+            xmin = 24.410000
+            xmax = 24.830000
+            text = "growing"
+        intervals [70]:
+            xmin = 24.830000
+            xmax = 25.470000
+            text = "abundantly"
+        intervals [71]:
+            xmin = 25.470000
+            xmax = 25.770000
+            text = ""
+        intervals [72]:
+            xmin = 25.770000
+            xmax = 25.910000
+            text = "and"
+        intervals [73]:
+            xmin = 25.910000
+            xmax = 25.980000
+            text = "the"
+        intervals [74]:
+            xmin = 25.980000
+            xmax = 26.400000
+            text = "love"
+        intervals [75]:
+            xmin = 26.400000
+            xmax = 26.520000
+            text = "of"
+        intervals [76]:
+            xmin = 26.520000
+            xmax = 26.770000
+            text = "every"
+        intervals [77]:
+            xmin = 26.770000
+            xmax = 26.980000
+            text = "one"
+        intervals [78]:
+            xmin = 26.980000
+            xmax = 27.090000
+            text = "of"
+        intervals [79]:
+            xmin = 27.090000
+            xmax = 27.280000
+            text = "you"
+        intervals [80]:
+            xmin = 27.280000
+            xmax = 27.520000
+            text = "for"
+        intervals [81]:
+            xmin = 27.520000
+            xmax = 27.740000
+            text = "one"
+        intervals [82]:
+            xmin = 27.740000
+            xmax = 28.140000
+            text = "another"
+        intervals [83]:
+            xmin = 28.140000
+            xmax = 28.300000
+            text = "is"
+        intervals [84]:
+            xmin = 28.300000
+            xmax = 29.010000
+            text = "increasing"
+        intervals [85]:
+            xmin = 29.010000
+            xmax = 29.610000
+            text = ""
+        intervals [86]:
+            xmin = 29.610000
+            xmax = 30.170000
+            text = "therefore"
+        intervals [87]:
+            xmin = 30.170000
+            xmax = 30.330000
+            text = "we"
+        intervals [88]:
+            xmin = 30.330000
+            xmax = 30.800000
+            text = "ourselves"
+        intervals [89]:
+            xmin = 30.800000
+            xmax = 31.170000
+            text = "boast"
+        intervals [90]:
+            xmin = 31.170000
+            xmax = 31.440000
+            text = "about"
+        intervals [91]:
+            xmin = 31.440000
+            xmax = 31.610000
+            text = "you"
+        intervals [92]:
+            xmin = 31.610000
+            xmax = 31.690000
+            text = "in"
+        intervals [93]:
+            xmin = 31.690000
+            xmax = 31.760000
+            text = "the"
+        intervals [94]:
+            xmin = 31.760000
+            xmax = 32.160000
+            text = "churches"
+        intervals [95]:
+            xmin = 32.160000
+            xmax = 32.250000
+            text = "of"
+        intervals [96]:
+            xmin = 32.250000
+            xmax = 32.660000
+            text = "god"
+        intervals [97]:
+            xmin = 32.660000
+            xmax = 32.970000
+            text = ""
+        intervals [98]:
+            xmin = 32.970000
+            xmax = 33.100000
+            text = "for"
+        intervals [99]:
+            xmin = 33.100000
+            xmax = 33.210000
+            text = "your"
+        intervals [100]:
+            xmin = 33.210000
+            xmax = 34.150000
+            text = "steadfastness"
+        intervals [101]:
+            xmin = 34.150000
+            xmax = 34.280000
+            text = ""
+        intervals [102]:
+            xmin = 34.280000
+            xmax = 34.410000
+            text = "and"
+        intervals [103]:
+            xmin = 34.410000
+            xmax = 34.910000
+            text = "faith"
+        intervals [104]:
+            xmin = 34.910000
+            xmax = 35.050000
+            text = "in"
+        intervals [105]:
+            xmin = 35.050000
+            xmax = 35.110000
+            text = ""
+        intervals [106]:
+            xmin = 35.110000
+            xmax = 35.320000
+            text = "all"
+        intervals [107]:
+            xmin = 35.320000
+            xmax = 35.490000
+            text = "your"
+        intervals [108]:
+            xmin = 35.490000
+            xmax = 36.300000
+            text = "persecutions"
+        intervals [109]:
+            xmin = 36.300000
+            xmax = 36.610000
+            text = ""
+        intervals [110]:
+            xmin = 36.610000
+            xmax = 36.860000
+            text = "and"
+        intervals [111]:
+            xmin = 36.860000
+            xmax = 37.040000
+            text = "in"
+        intervals [112]:
+            xmin = 37.040000
+            xmax = 37.100000
+            text = "the"
+        intervals [113]:
+            xmin = 37.100000
+            xmax = 37.660000
+            text = "afflictions"
+        intervals [114]:
+            xmin = 37.660000
+            xmax = 37.730000
+            text = "that"
+        intervals [115]:
+            xmin = 37.730000
+            xmax = 37.940000
+            text = "you"
+        intervals [116]:
+            xmin = 37.940000
+            xmax = 38.070000
+            text = "are"
+        intervals [117]:
+            xmin = 38.070000
+            xmax = 38.530000
+            text = "enduring"
+        intervals [118]:
+            xmin = 38.530000
+            xmax = 39.280000
+            text = ""
+        intervals [119]:
+            xmin = 39.280000
+            xmax = 39.450000
+            text = "this"
+        intervals [120]:
+            xmin = 39.450000
+            xmax = 39.645000
+            text = "is"
+        intervals [121]:
+            xmin = 39.645000
+            xmax = 40.210000
+            text = "evidence"
+        intervals [122]:
+            xmin = 40.210000
+            xmax = 40.310000
+            text = "of"
+        intervals [123]:
+            xmin = 40.310000
+            xmax = 40.400000
+            text = "the"
+        intervals [124]:
+            xmin = 40.400000
+            xmax = 40.930000
+            text = "righteous"
+        intervals [125]:
+            xmin = 40.930000
+            xmax = 41.360000
+            text = "judgment"
+        intervals [126]:
+            xmin = 41.360000
+            xmax = 41.480000
+            text = "of"
+        intervals [127]:
+            xmin = 41.480000
+            xmax = 42.220000
+            text = "god"
+        intervals [128]:
+            xmin = 42.220000
+            xmax = 42.360000
+            text = "that"
+        intervals [129]:
+            xmin = 42.360000
+            xmax = 42.530000
+            text = "you"
+        intervals [130]:
+            xmin = 42.530000
+            xmax = 42.690000
+            text = "may"
+        intervals [131]:
+            xmin = 42.690000
+            xmax = 42.800000
+            text = "be"
+        intervals [132]:
+            xmin = 42.800000
+            xmax = 43.360000
+            text = "considered"
+        intervals [133]:
+            xmin = 43.360000
+            xmax = 43.890000
+            text = "worthy"
+        intervals [134]:
+            xmin = 43.890000
+            xmax = 43.975000
+            text = "of"
+        intervals [135]:
+            xmin = 43.975000
+            xmax = 44.050000
+            text = "the"
+        intervals [136]:
+            xmin = 44.050000
+            xmax = 44.460000
+            text = "kingdom"
+        intervals [137]:
+            xmin = 44.460000
+            xmax = 44.550000
+            text = "of"
+        intervals [138]:
+            xmin = 44.550000
+            xmax = 44.980000
+            text = "god"
+        intervals [139]:
+            xmin = 44.980000
+            xmax = 45.200000
+            text = ""
+        intervals [140]:
+            xmin = 45.200000
+            xmax = 45.340000
+            text = "for"
+        intervals [141]:
+            xmin = 45.340000
+            xmax = 45.540000
+            text = "which"
+        intervals [142]:
+            xmin = 45.540000
+            xmax = 45.770000
+            text = "you"
+        intervals [143]:
+            xmin = 45.770000
+            xmax = 45.920000
+            text = "are"
+        intervals [144]:
+            xmin = 45.920000
+            xmax = 46.330000
+            text = "also"
+        intervals [145]:
+            xmin = 46.330000
+            xmax = 46.960000
+            text = "suffering"
+        intervals [146]:
+            xmin = 46.960000
+            xmax = 47.410000
+            text = ""
+        intervals [147]:
+            xmin = 47.410000
+            xmax = 47.690000
+            text = "since"
+        intervals [148]:
+            xmin = 47.690000
+            xmax = 48.240000
+            text = "indeed"
+        intervals [149]:
+            xmin = 48.240000
+            xmax = 48.520000
+            text = "god"
+        intervals [150]:
+            xmin = 48.520000
+            xmax = 49.070000
+            text = "considers"
+        intervals [151]:
+            xmin = 49.070000
+            xmax = 49.270000
+            text = "it"
+        intervals [152]:
+            xmin = 49.270000
+            xmax = 49.660000
+            text = "just"
+        intervals [153]:
+            xmin = 49.660000
+            xmax = 49.760000
+            text = "to"
+        intervals [154]:
+            xmin = 49.760000
+            xmax = 50.170000
+            text = "repay"
+        intervals [155]:
+            xmin = 50.170000
+            xmax = 50.350000
+            text = "with"
+        intervals [156]:
+            xmin = 50.350000
+            xmax = 50.930000
+            text = "affliction"
+        intervals [157]:
+            xmin = 50.930000
+            xmax = 51.200000
+            text = ""
+        intervals [158]:
+            xmin = 51.200000
+            xmax = 51.540000
+            text = "those"
+        intervals [159]:
+            xmin = 51.540000
+            xmax = 51.670000
+            text = "who"
+        intervals [160]:
+            xmin = 51.670000
+            xmax = 52.050000
+            text = "afflict"
+        intervals [161]:
+            xmin = 52.050000
+            xmax = 52.370000
+            text = "you"
+        intervals [162]:
+            xmin = 52.370000
+            xmax = 52.900000
+            text = ""
+        intervals [163]:
+            xmin = 52.900000
+            xmax = 53.010000
+            text = "and"
+        intervals [164]:
+            xmin = 53.010000
+            xmax = 53.080000
+            text = "to"
+        intervals [165]:
+            xmin = 53.080000
+            xmax = 53.430000
+            text = "grant"
+        intervals [166]:
+            xmin = 53.430000
+            xmax = 53.980000
+            text = "relief"
+        intervals [167]:
+            xmin = 53.980000
+            xmax = 54.140000
+            text = "to"
+        intervals [168]:
+            xmin = 54.140000
+            xmax = 54.510000
+            text = "you"
+        intervals [169]:
+            xmin = 54.510000
+            xmax = 54.660000
+            text = "who"
+        intervals [170]:
+            xmin = 54.660000
+            xmax = 54.840000
+            text = "are"
+        intervals [171]:
+            xmin = 54.840000
+            xmax = 55.380000
+            text = "afflicted"
+        intervals [172]:
+            xmin = 55.380000
+            xmax = 55.790000
+            text = ""
+        intervals [173]:
+            xmin = 55.790000
+            xmax = 55.940000
+            text = "as"
+        intervals [174]:
+            xmin = 55.940000
+            xmax = 56.190000
+            text = "well"
+        intervals [175]:
+            xmin = 56.190000
+            xmax = 56.290000
+            text = "as"
+        intervals [176]:
+            xmin = 56.290000
+            xmax = 56.440000
+            text = "to"
+        intervals [177]:
+            xmin = 56.440000
+            xmax = 56.950000
+            text = "us"
+        intervals [178]:
+            xmin = 56.950000
+            xmax = 57.180000
+            text = ""
+        intervals [179]:
+            xmin = 57.180000
+            xmax = 57.320000
+            text = "when"
+        intervals [180]:
+            xmin = 57.320000
+            xmax = 57.380000
+            text = "the"
+        intervals [181]:
+            xmin = 57.380000
+            xmax = 57.750000
+            text = "lord"
+        intervals [182]:
+            xmin = 57.750000
+            xmax = 58.170000
+            text = "jesus"
+        intervals [183]:
+            xmin = 58.170000
+            xmax = 58.340000
+            text = "is"
+        intervals [184]:
+            xmin = 58.340000
+            xmax = 58.890000
+            text = "revealed"
+        intervals [185]:
+            xmin = 58.890000
+            xmax = 59.030000
+            text = "from"
+        intervals [186]:
+            xmin = 59.030000
+            xmax = 59.420000
+            text = "heaven"
+        intervals [187]:
+            xmin = 59.420000
+            xmax = 59.710000
+            text = ""
+        intervals [188]:
+            xmin = 59.710000
+            xmax = 59.830000
+            text = "with"
+        intervals [189]:
+            xmin = 59.830000
+            xmax = 59.970000
+            text = "his"
+        intervals [190]:
+            xmin = 59.970000
+            xmax = 60.415000
+            text = "mighty"
+        intervals [191]:
+            xmin = 60.415000
+            xmax = 60.940000
+            text = "angels"
+        intervals [192]:
+            xmin = 60.940000
+            xmax = 61.110000
+            text = "in"
+        intervals [193]:
+            xmin = 61.110000
+            xmax = 61.720000
+            text = "flaming"
+        intervals [194]:
+            xmin = 61.720000
+            xmax = 62.190000
+            text = "fire"
+        intervals [195]:
+            xmin = 62.190000
+            xmax = 62.620000
+            text = ""
+        intervals [196]:
+            xmin = 62.620000
+            xmax = 63.410000
+            text = "inflicting"
+        intervals [197]:
+            xmin = 63.410000
+            xmax = 63.490000
+            text = ""
+        intervals [198]:
+            xmin = 63.490000
+            xmax = 64.010000
+            text = "vengeance"
+        intervals [199]:
+            xmin = 64.010000
+            xmax = 64.210000
+            text = "on"
+        intervals [200]:
+            xmin = 64.210000
+            xmax = 64.600000
+            text = "those"
+        intervals [201]:
+            xmin = 64.600000
+            xmax = 64.690000
+            text = "who"
+        intervals [202]:
+            xmin = 64.690000
+            xmax = 64.840000
+            text = "do"
+        intervals [203]:
+            xmin = 64.840000
+            xmax = 65.070000
+            text = "not"
+        intervals [204]:
+            xmin = 65.070000
+            xmax = 65.420000
+            text = "know"
+        intervals [205]:
+            xmin = 65.420000
+            xmax = 65.910000
+            text = "god"
+        intervals [206]:
+            xmin = 65.910000
+            xmax = 66.080000
+            text = ""
+        intervals [207]:
+            xmin = 66.080000
+            xmax = 66.180000
+            text = "and"
+        intervals [208]:
+            xmin = 66.180000
+            xmax = 66.380000
+            text = "on"
+        intervals [209]:
+            xmin = 66.380000
+            xmax = 66.660000
+            text = "those"
+        intervals [210]:
+            xmin = 66.660000
+            xmax = 66.760000
+            text = "who"
+        intervals [211]:
+            xmin = 66.760000
+            xmax = 66.890000
+            text = "do"
+        intervals [212]:
+            xmin = 66.890000
+            xmax = 67.090000
+            text = "not"
+        intervals [213]:
+            xmin = 67.090000
+            xmax = 67.620000
+            text = "obey"
+        intervals [214]:
+            xmin = 67.620000
+            xmax = 67.700000
+            text = "the"
+        intervals [215]:
+            xmin = 67.700000
+            xmax = 68.360000
+            text = "gospel"
+        intervals [216]:
+            xmin = 68.360000
+            xmax = 68.450000
+            text = "of"
+        intervals [217]:
+            xmin = 68.450000
+            xmax = 68.590000
+            text = "our"
+        intervals [218]:
+            xmin = 68.590000
+            xmax = 69.010000
+            text = "lord"
+        intervals [219]:
+            xmin = 69.010000
+            xmax = 69.740000
+            text = "jesus"
+        intervals [220]:
+            xmin = 69.740000
+            xmax = 70.580000
+            text = ""
+        intervals [221]:
+            xmin = 70.580000
+            xmax = 71.000000
+            text = "they"
+        intervals [222]:
+            xmin = 71.000000
+            xmax = 71.310000
+            text = ""
+        intervals [223]:
+            xmin = 71.310000
+            xmax = 71.470000
+            text = "will"
+        intervals [224]:
+            xmin = 71.470000
+            xmax = 72.000000
+            text = "suffer"
+        intervals [225]:
+            xmin = 72.000000
+            xmax = 72.130000
+            text = "the"
+        intervals [226]:
+            xmin = 72.130000
+            xmax = 72.230000
+            text = ""
+        intervals [227]:
+            xmin = 72.230000
+            xmax = 72.750000
+            text = "punishment"
+        intervals [228]:
+            xmin = 72.750000
+            xmax = 72.840000
+            text = "of"
+        intervals [229]:
+            xmin = 72.840000
+            xmax = 73.370000
+            text = "eternal"
+        intervals [230]:
+            xmin = 73.370000
+            xmax = 74.070000
+            text = "destruction"
+        intervals [231]:
+            xmin = 74.070000
+            xmax = 74.510000
+            text = ""
+        intervals [232]:
+            xmin = 74.510000
+            xmax = 75.010000
+            text = "away"
+        intervals [233]:
+            xmin = 75.010000
+            xmax = 75.210000
+            text = "from"
+        intervals [234]:
+            xmin = 75.210000
+            xmax = 75.280000
+            text = "the"
+        intervals [235]:
+            xmin = 75.280000
+            xmax = 75.800000
+            text = "presence"
+        intervals [236]:
+            xmin = 75.800000
+            xmax = 75.920000
+            text = "of"
+        intervals [237]:
+            xmin = 75.920000
+            xmax = 76.000000
+            text = "the"
+        intervals [238]:
+            xmin = 76.000000
+            xmax = 76.480000
+            text = "lord"
+        intervals [239]:
+            xmin = 76.480000
+            xmax = 76.620000
+            text = "and"
+        intervals [240]:
+            xmin = 76.620000
+            xmax = 76.790000
+            text = "from"
+        intervals [241]:
+            xmin = 76.790000
+            xmax = 76.850000
+            text = "the"
+        intervals [242]:
+            xmin = 76.850000
+            xmax = 77.430000
+            text = "glory"
+        intervals [243]:
+            xmin = 77.430000
+            xmax = 77.500000
+            text = "of"
+        intervals [244]:
+            xmin = 77.500000
+            xmax = 77.700000
+            text = "his"
+        intervals [245]:
+            xmin = 77.700000
+            xmax = 78.150000
+            text = "might"
+        intervals [246]:
+            xmin = 78.150000
+            xmax = 78.460000
+            text = ""
+        intervals [247]:
+            xmin = 78.460000
+            xmax = 78.600000
+            text = "when"
+        intervals [248]:
+            xmin = 78.600000
+            xmax = 78.740000
+            text = "he"
+        intervals [249]:
+            xmin = 78.740000
+            xmax = 79.200000
+            text = "comes"
+        intervals [250]:
+            xmin = 79.200000
+            xmax = 79.360000
+            text = "on"
+        intervals [251]:
+            xmin = 79.360000
+            xmax = 79.540000
+            text = "that"
+        intervals [252]:
+            xmin = 79.540000
+            xmax = 79.840000
+            text = "day"
+        intervals [253]:
+            xmin = 79.840000
+            xmax = 79.970000
+            text = "to"
+        intervals [254]:
+            xmin = 79.970000
+            xmax = 80.060000
+            text = "be"
+        intervals [255]:
+            xmin = 80.060000
+            xmax = 80.810000
+            text = "glorified"
+        intervals [256]:
+            xmin = 80.810000
+            xmax = 80.910000
+            text = "in"
+        intervals [257]:
+            xmin = 80.910000
+            xmax = 81.100000
+            text = "his"
+        intervals [258]:
+            xmin = 81.100000
+            xmax = 81.630000
+            text = "saints"
+        intervals [259]:
+            xmin = 81.630000
+            xmax = 81.900000
+            text = ""
+        intervals [260]:
+            xmin = 81.900000
+            xmax = 81.990000
+            text = "and"
+        intervals [261]:
+            xmin = 81.990000
+            xmax = 82.070000
+            text = "to"
+        intervals [262]:
+            xmin = 82.070000
+            xmax = 82.210000
+            text = "be"
+        intervals [263]:
+            xmin = 82.210000
+            xmax = 82.910000
+            text = "marveled"
+        intervals [264]:
+            xmin = 82.910000
+            xmax = 83.100000
+            text = "at"
+        intervals [265]:
+            xmin = 83.100000
+            xmax = 83.400000
+            text = "among"
+        intervals [266]:
+            xmin = 83.400000
+            xmax = 83.850000
+            text = "all"
+        intervals [267]:
+            xmin = 83.850000
+            xmax = 84.050000
+            text = "who"
+        intervals [268]:
+            xmin = 84.050000
+            xmax = 84.160000
+            text = "have"
+        intervals [269]:
+            xmin = 84.160000
+            xmax = 84.810000
+            text = "believed"
+        intervals [270]:
+            xmin = 84.810000
+            xmax = 85.120000
+            text = ""
+        intervals [271]:
+            xmin = 85.120000
+            xmax = 85.490000
+            text = "because"
+        intervals [272]:
+            xmin = 85.490000
+            xmax = 85.650000
+            text = "our"
+        intervals [273]:
+            xmin = 85.650000
+            xmax = 86.270000
+            text = "testimony"
+        intervals [274]:
+            xmin = 86.270000
+            xmax = 86.410000
+            text = "to"
+        intervals [275]:
+            xmin = 86.410000
+            xmax = 86.690000
+            text = "you"
+        intervals [276]:
+            xmin = 86.690000
+            xmax = 87.000000
+            text = "was"
+        intervals [277]:
+            xmin = 87.000000
+            xmax = 87.630000
+            text = "believed"
+        intervals [278]:
+            xmin = 87.630000
+            xmax = 88.370000
+            text = ""
+        intervals [279]:
+            xmin = 88.370000
+            xmax = 88.560000
+            text = "to"
+        intervals [280]:
+            xmin = 88.560000
+            xmax = 88.840000
+            text = "this"
+        intervals [281]:
+            xmin = 88.840000
+            xmax = 89.130000
+            text = "end"
+        intervals [282]:
+            xmin = 89.130000
+            xmax = 89.320000
+            text = "we"
+        intervals [283]:
+            xmin = 89.320000
+            xmax = 89.670000
+            text = "always"
+        intervals [284]:
+            xmin = 89.670000
+            xmax = 89.950000
+            text = "pray"
+        intervals [285]:
+            xmin = 89.950000
+            xmax = 90.080000
+            text = "for"
+        intervals [286]:
+            xmin = 90.080000
+            xmax = 90.290000
+            text = "you"
+        intervals [287]:
+            xmin = 90.290000
+            xmax = 90.880000
+            text = ""
+        intervals [288]:
+            xmin = 90.880000
+            xmax = 90.960000
+            text = "that"
+        intervals [289]:
+            xmin = 90.960000
+            xmax = 91.130000
+            text = "our"
+        intervals [290]:
+            xmin = 91.130000
+            xmax = 91.500000
+            text = "god"
+        intervals [291]:
+            xmin = 91.500000
+            xmax = 91.690000
+            text = "may"
+        intervals [292]:
+            xmin = 91.690000
+            xmax = 91.970000
+            text = "make"
+        intervals [293]:
+            xmin = 91.970000
+            xmax = 92.070000
+            text = "you"
+        intervals [294]:
+            xmin = 92.070000
+            xmax = 92.490000
+            text = "worthy"
+        intervals [295]:
+            xmin = 92.490000
+            xmax = 92.610000
+            text = "of"
+        intervals [296]:
+            xmin = 92.610000
+            xmax = 92.750000
+            text = "his"
+        intervals [297]:
+            xmin = 92.750000
+            xmax = 93.170000
+            text = "calling"
+        intervals [298]:
+            xmin = 93.170000
+            xmax = 93.610000
+            text = ""
+        intervals [299]:
+            xmin = 93.610000
+            xmax = 93.770000
+            text = "and"
+        intervals [300]:
+            xmin = 93.770000
+            xmax = 93.920000
+            text = "may"
+        intervals [301]:
+            xmin = 93.920000
+            xmax = 94.400000
+            text = "fulfill"
+        intervals [302]:
+            xmin = 94.400000
+            xmax = 94.510000
+            text = ""
+        intervals [303]:
+            xmin = 94.510000
+            xmax = 94.910000
+            text = "every"
+        intervals [304]:
+            xmin = 94.910000
+            xmax = 95.350000
+            text = "resolve"
+        intervals [305]:
+            xmin = 95.350000
+            xmax = 95.540000
+            text = "for"
+        intervals [306]:
+            xmin = 95.540000
+            xmax = 95.950000
+            text = "good"
+        intervals [307]:
+            xmin = 95.950000
+            xmax = 96.410000
+            text = ""
+        intervals [308]:
+            xmin = 96.410000
+            xmax = 96.580000
+            text = "and"
+        intervals [309]:
+            xmin = 96.580000
+            xmax = 96.750000
+            text = ""
+        intervals [310]:
+            xmin = 96.750000
+            xmax = 97.050000
+            text = "every"
+        intervals [311]:
+            xmin = 97.050000
+            xmax = 97.290000
+            text = "work"
+        intervals [312]:
+            xmin = 97.290000
+            xmax = 97.360000
+            text = "of"
+        intervals [313]:
+            xmin = 97.360000
+            xmax = 97.740000
+            text = "faith"
+        intervals [314]:
+            xmin = 97.740000
+            xmax = 97.790000
+            text = ""
+        intervals [315]:
+            xmin = 97.790000
+            xmax = 97.950000
+            text = "by"
+        intervals [316]:
+            xmin = 97.950000
+            xmax = 98.230000
+            text = "his"
+        intervals [317]:
+            xmin = 98.230000
+            xmax = 98.630000
+            text = "power"
+        intervals [318]:
+            xmin = 98.630000
+            xmax = 99.490000
+            text = ""
+        intervals [319]:
+            xmin = 99.490000
+            xmax = 99.720000
+            text = "so"
+        intervals [320]:
+            xmin = 99.720000
+            xmax = 99.850000
+            text = "that"
+        intervals [321]:
+            xmin = 99.850000
+            xmax = 99.950000
+            text = "the"
+        intervals [322]:
+            xmin = 99.950000
+            xmax = 100.440000
+            text = "name"
+        intervals [323]:
+            xmin = 100.440000
+            xmax = 100.565000
+            text = "of"
+        intervals [324]:
+            xmin = 100.565000
+            xmax = 100.670000
+            text = "our"
+        intervals [325]:
+            xmin = 100.670000
+            xmax = 100.950000
+            text = "lord"
+        intervals [326]:
+            xmin = 100.950000
+            xmax = 101.400000
+            text = "jesus"
+        intervals [327]:
+            xmin = 101.400000
+            xmax = 101.560000
+            text = "may"
+        intervals [328]:
+            xmin = 101.560000
+            xmax = 101.690000
+            text = "be"
+        intervals [329]:
+            xmin = 101.690000
+            xmax = 102.390000
+            text = "glorified"
+        intervals [330]:
+            xmin = 102.390000
+            xmax = 102.580000
+            text = "in"
+        intervals [331]:
+            xmin = 102.580000
+            xmax = 102.840000
+            text = "you"
+        intervals [332]:
+            xmin = 102.840000
+            xmax = 103.310000
+            text = ""
+        intervals [333]:
+            xmin = 103.310000
+            xmax = 103.500000
+            text = "and"
+        intervals [334]:
+            xmin = 103.500000
+            xmax = 103.730000
+            text = "you"
+        intervals [335]:
+            xmin = 103.730000
+            xmax = 103.840000
+            text = "in"
+        intervals [336]:
+            xmin = 103.840000
+            xmax = 104.200000
+            text = "him"
+        intervals [337]:
+            xmin = 104.200000
+            xmax = 104.570000
+            text = ""
+        intervals [338]:
+            xmin = 104.570000
+            xmax = 105.120000
+            text = "according"
+        intervals [339]:
+            xmin = 105.120000
+            xmax = 105.240000
+            text = "to"
+        intervals [340]:
+            xmin = 105.240000
+            xmax = 105.310000
+            text = "the"
+        intervals [341]:
+            xmin = 105.310000
+            xmax = 105.620000
+            text = "grace"
+        intervals [342]:
+            xmin = 105.620000
+            xmax = 105.740000
+            text = "of"
+        intervals [343]:
+            xmin = 105.740000
+            xmax = 105.840000
+            text = "our"
+        intervals [344]:
+            xmin = 105.840000
+            xmax = 106.170000
+            text = "god"
+        intervals [345]:
+            xmin = 106.170000
+            xmax = 106.270000
+            text = ""
+        intervals [346]:
+            xmin = 106.270000
+            xmax = 106.520000
+            text = "and"
+        intervals [347]:
+            xmin = 106.520000
+            xmax = 106.590000
+            text = "the"
+        intervals [348]:
+            xmin = 106.590000
+            xmax = 106.860000
+            text = "lord"
+        intervals [349]:
+            xmin = 106.860000
+            xmax = 107.250000
+            text = "jesus"
+        intervals [350]:
+            xmin = 107.250000
+            xmax = 107.700000
+            text = "christ"
+        intervals [351]:
+            xmin = 107.700000
+            xmax = 109.824000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 109.824000
+        intervals: size = 351
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.530000
+            text = ""
+        intervals [2]:
+            xmin = 0.530000
+            xmax = 1.070000
+            text = "t u:"
+        intervals [3]:
+            xmin = 1.070000
+            xmax = 2.150000
+            text = "T eI s V l @U n i: V n z"
+        intervals [4]:
+            xmin = 2.150000
+            xmax = 3.110000
+            text = ""
+        intervals [5]:
+            xmin = 3.110000
+            xmax = 4.430000
+            text = "w V n"
+        intervals [6]:
+            xmin = 4.430000
+            xmax = 6.130000
+            text = ""
+        intervals [7]:
+            xmin = 6.130000
+            xmax = 6.520000
+            text = "p O: l"
+        intervals [8]:
+            xmin = 6.520000
+            xmax = 6.980000
+            text = ""
+        intervals [9]:
+            xmin = 6.980000
+            xmax = 7.880000
+            text = "s I l v V n I s"
+        intervals [10]:
+            xmin = 7.880000
+            xmax = 8.250000
+            text = ""
+        intervals [11]:
+            xmin = 8.250000
+            xmax = 8.420000
+            text = "V n d"
+        intervals [12]:
+            xmin = 8.420000
+            xmax = 8.830000
+            text = "t I m V T i:"
+        intervals [13]:
+            xmin = 8.830000
+            xmax = 9.470000
+            text = ""
+        intervals [14]:
+            xmin = 9.470000
+            xmax = 9.680000
+            text = "t u:"
+        intervals [15]:
+            xmin = 9.680000
+            xmax = 9.750000
+            text = "D V"
+        intervals [16]:
+            xmin = 9.750000
+            xmax = 10.200000
+            text = "tS 3` tS"
+        intervals [17]:
+            xmin = 10.200000
+            xmax = 10.270000
+            text = "V v"
+        intervals [18]:
+            xmin = 10.270000
+            xmax = 10.360000
+            text = "D V"
+        intervals [19]:
+            xmin = 10.360000
+            xmax = 11.300000
+            text = "T eI s V l @U n i: V n z"
+        intervals [20]:
+            xmin = 11.300000
+            xmax = 11.540000
+            text = ""
+        intervals [21]:
+            xmin = 11.540000
+            xmax = 11.720000
+            text = "I n"
+        intervals [22]:
+            xmin = 11.720000
+            xmax = 12.020000
+            text = "g Q d"
+        intervals [23]:
+            xmin = 12.020000
+            xmax = 12.310000
+            text = "aU 3`"
+        intervals [24]:
+            xmin = 12.310000
+            xmax = 12.800000
+            text = "f Q D 3`"
+        intervals [25]:
+            xmin = 12.800000
+            xmax = 12.890000
+            text = "V n d"
+        intervals [26]:
+            xmin = 12.890000
+            xmax = 12.950000
+            text = "D V"
+        intervals [27]:
+            xmin = 12.950000
+            xmax = 13.280000
+            text = "l O: R d"
+        intervals [28]:
+            xmin = 13.280000
+            xmax = 13.680000
+            text = "dZ i: z V s"
+        intervals [29]:
+            xmin = 13.680000
+            xmax = 14.210000
+            text = "k R aI s t"
+        intervals [30]:
+            xmin = 14.210000
+            xmax = 14.830000
+            text = ""
+        intervals [31]:
+            xmin = 14.830000
+            xmax = 15.180000
+            text = "g R eI s"
+        intervals [32]:
+            xmin = 15.180000
+            xmax = 15.300000
+            text = "t u:"
+        intervals [33]:
+            xmin = 15.300000
+            xmax = 15.610000
+            text = "j u:"
+        intervals [34]:
+            xmin = 15.610000
+            xmax = 15.800000
+            text = "V n d"
+        intervals [35]:
+            xmin = 15.800000
+            xmax = 16.080000
+            text = "p i: s"
+        intervals [36]:
+            xmin = 16.080000
+            xmax = 16.240000
+            text = "f R V m"
+        intervals [37]:
+            xmin = 16.240000
+            xmax = 16.470000
+            text = "g Q d"
+        intervals [38]:
+            xmin = 16.470000
+            xmax = 16.710000
+            text = "aU 3`"
+        intervals [39]:
+            xmin = 16.710000
+            xmax = 17.170000
+            text = "f Q D 3`"
+        intervals [40]:
+            xmin = 17.170000
+            xmax = 17.530000
+            text = ""
+        intervals [41]:
+            xmin = 17.530000
+            xmax = 17.630000
+            text = "V n d"
+        intervals [42]:
+            xmin = 17.630000
+            xmax = 17.710000
+            text = "D V"
+        intervals [43]:
+            xmin = 17.710000
+            xmax = 18.000000
+            text = "l O: R d"
+        intervals [44]:
+            xmin = 18.000000
+            xmax = 18.350000
+            text = "dZ i: z V s"
+        intervals [45]:
+            xmin = 18.350000
+            xmax = 18.880000
+            text = "k R aI s t"
+        intervals [46]:
+            xmin = 18.880000
+            xmax = 19.590000
+            text = ""
+        intervals [47]:
+            xmin = 19.590000
+            xmax = 19.730000
+            text = "w i:"
+        intervals [48]:
+            xmin = 19.730000
+            xmax = 20.000000
+            text = "O: t"
+        intervals [49]:
+            xmin = 20.000000
+            xmax = 20.330000
+            text = "O: l w eI z"
+        intervals [50]:
+            xmin = 20.330000
+            xmax = 20.450000
+            text = "t u:"
+        intervals [51]:
+            xmin = 20.450000
+            xmax = 20.660000
+            text = "g I v"
+        intervals [52]:
+            xmin = 20.660000
+            xmax = 20.710000
+            text = ""
+        intervals [53]:
+            xmin = 20.710000
+            xmax = 21.020000
+            text = "T { N k s"
+        intervals [54]:
+            xmin = 21.020000
+            xmax = 21.150000
+            text = "t u:"
+        intervals [55]:
+            xmin = 21.150000
+            xmax = 21.460000
+            text = "g Q d"
+        intervals [56]:
+            xmin = 21.460000
+            xmax = 21.560000
+            text = "f O: R"
+        intervals [57]:
+            xmin = 21.560000
+            xmax = 21.740000
+            text = "j u:"
+        intervals [58]:
+            xmin = 21.740000
+            xmax = 22.220000
+            text = "b R V D 3` z"
+        intervals [59]:
+            xmin = 22.220000
+            xmax = 22.420000
+            text = ""
+        intervals [60]:
+            xmin = 22.420000
+            xmax = 22.610000
+            text = "{ z"
+        intervals [61]:
+            xmin = 22.610000
+            xmax = 22.780000
+            text = "I z"
+        intervals [62]:
+            xmin = 22.780000
+            xmax = 22.830000
+            text = ""
+        intervals [63]:
+            xmin = 22.830000
+            xmax = 23.130000
+            text = "R aI t"
+        intervals [64]:
+            xmin = 23.130000
+            xmax = 23.470000
+            text = ""
+        intervals [65]:
+            xmin = 23.470000
+            xmax = 23.810000
+            text = "b I k O: z"
+        intervals [66]:
+            xmin = 23.810000
+            xmax = 23.940000
+            text = "j O: R"
+        intervals [67]:
+            xmin = 23.940000
+            xmax = 24.250000
+            text = "f eI T"
+        intervals [68]:
+            xmin = 24.250000
+            xmax = 24.410000
+            text = "I z"
+        intervals [69]:
+            xmin = 24.410000
+            xmax = 24.830000
+            text = "g R @U I N"
+        intervals [70]:
+            xmin = 24.830000
+            xmax = 25.470000
+            text = "V b V n d V n t l i:"
+        intervals [71]:
+            xmin = 25.470000
+            xmax = 25.770000
+            text = ""
+        intervals [72]:
+            xmin = 25.770000
+            xmax = 25.910000
+            text = "V n d"
+        intervals [73]:
+            xmin = 25.910000
+            xmax = 25.980000
+            text = "D V"
+        intervals [74]:
+            xmin = 25.980000
+            xmax = 26.400000
+            text = "l V v"
+        intervals [75]:
+            xmin = 26.400000
+            xmax = 26.520000
+            text = "V v"
+        intervals [76]:
+            xmin = 26.520000
+            xmax = 26.770000
+            text = "E v 3` i:"
+        intervals [77]:
+            xmin = 26.770000
+            xmax = 26.980000
+            text = "w V n"
+        intervals [78]:
+            xmin = 26.980000
+            xmax = 27.090000
+            text = "V v"
+        intervals [79]:
+            xmin = 27.090000
+            xmax = 27.280000
+            text = "j u:"
+        intervals [80]:
+            xmin = 27.280000
+            xmax = 27.520000
+            text = "f O: R"
+        intervals [81]:
+            xmin = 27.520000
+            xmax = 27.740000
+            text = "w V n"
+        intervals [82]:
+            xmin = 27.740000
+            xmax = 28.140000
+            text = "V n V D 3`"
+        intervals [83]:
+            xmin = 28.140000
+            xmax = 28.300000
+            text = "I z"
+        intervals [84]:
+            xmin = 28.300000
+            xmax = 29.010000
+            text = "I n k R i: s I N"
+        intervals [85]:
+            xmin = 29.010000
+            xmax = 29.610000
+            text = ""
+        intervals [86]:
+            xmin = 29.610000
+            xmax = 30.170000
+            text = "D E R f O: R"
+        intervals [87]:
+            xmin = 30.170000
+            xmax = 30.330000
+            text = "w i:"
+        intervals [88]:
+            xmin = 30.330000
+            xmax = 30.800000
+            text = "aU 3` s E l v z"
+        intervals [89]:
+            xmin = 30.800000
+            xmax = 31.170000
+            text = "b @U s t"
+        intervals [90]:
+            xmin = 31.170000
+            xmax = 31.440000
+            text = "V b aU t"
+        intervals [91]:
+            xmin = 31.440000
+            xmax = 31.610000
+            text = "j u:"
+        intervals [92]:
+            xmin = 31.610000
+            xmax = 31.690000
+            text = "I n"
+        intervals [93]:
+            xmin = 31.690000
+            xmax = 31.760000
+            text = "D V"
+        intervals [94]:
+            xmin = 31.760000
+            xmax = 32.160000
+            text = "tS 3` tS V z"
+        intervals [95]:
+            xmin = 32.160000
+            xmax = 32.250000
+            text = "V v"
+        intervals [96]:
+            xmin = 32.250000
+            xmax = 32.660000
+            text = "g Q d"
+        intervals [97]:
+            xmin = 32.660000
+            xmax = 32.970000
+            text = ""
+        intervals [98]:
+            xmin = 32.970000
+            xmax = 33.100000
+            text = "f O: R"
+        intervals [99]:
+            xmin = 33.100000
+            xmax = 33.210000
+            text = "j O: R"
+        intervals [100]:
+            xmin = 33.210000
+            xmax = 34.150000
+            text = "s t E d f { s t n V s"
+        intervals [101]:
+            xmin = 34.150000
+            xmax = 34.280000
+            text = ""
+        intervals [102]:
+            xmin = 34.280000
+            xmax = 34.410000
+            text = "V n d"
+        intervals [103]:
+            xmin = 34.410000
+            xmax = 34.910000
+            text = "f eI T"
+        intervals [104]:
+            xmin = 34.910000
+            xmax = 35.050000
+            text = "I n"
+        intervals [105]:
+            xmin = 35.050000
+            xmax = 35.110000
+            text = ""
+        intervals [106]:
+            xmin = 35.110000
+            xmax = 35.320000
+            text = "O: l"
+        intervals [107]:
+            xmin = 35.320000
+            xmax = 35.490000
+            text = "j O: R"
+        intervals [108]:
+            xmin = 35.490000
+            xmax = 36.300000
+            text = "p 3` s V k j u: S V n s"
+        intervals [109]:
+            xmin = 36.300000
+            xmax = 36.610000
+            text = ""
+        intervals [110]:
+            xmin = 36.610000
+            xmax = 36.860000
+            text = "V n d"
+        intervals [111]:
+            xmin = 36.860000
+            xmax = 37.040000
+            text = "I n"
+        intervals [112]:
+            xmin = 37.040000
+            xmax = 37.100000
+            text = "D V"
+        intervals [113]:
+            xmin = 37.100000
+            xmax = 37.660000
+            text = "V f l I k S V n z"
+        intervals [114]:
+            xmin = 37.660000
+            xmax = 37.730000
+            text = "D { t"
+        intervals [115]:
+            xmin = 37.730000
+            xmax = 37.940000
+            text = "j u:"
+        intervals [116]:
+            xmin = 37.940000
+            xmax = 38.070000
+            text = "Q R"
+        intervals [117]:
+            xmin = 38.070000
+            xmax = 38.530000
+            text = "E n d j U R I N"
+        intervals [118]:
+            xmin = 38.530000
+            xmax = 39.280000
+            text = ""
+        intervals [119]:
+            xmin = 39.280000
+            xmax = 39.450000
+            text = "D I s"
+        intervals [120]:
+            xmin = 39.450000
+            xmax = 39.645000
+            text = "I z"
+        intervals [121]:
+            xmin = 39.645000
+            xmax = 40.210000
+            text = "E v V d V n s"
+        intervals [122]:
+            xmin = 40.210000
+            xmax = 40.310000
+            text = "V v"
+        intervals [123]:
+            xmin = 40.310000
+            xmax = 40.400000
+            text = "D V"
+        intervals [124]:
+            xmin = 40.400000
+            xmax = 40.930000
+            text = "R aI tS V s"
+        intervals [125]:
+            xmin = 40.930000
+            xmax = 41.360000
+            text = "dZ V dZ m V n t"
+        intervals [126]:
+            xmin = 41.360000
+            xmax = 41.480000
+            text = "V v"
+        intervals [127]:
+            xmin = 41.480000
+            xmax = 42.220000
+            text = "g Q d"
+        intervals [128]:
+            xmin = 42.220000
+            xmax = 42.360000
+            text = "D { t"
+        intervals [129]:
+            xmin = 42.360000
+            xmax = 42.530000
+            text = "j u:"
+        intervals [130]:
+            xmin = 42.530000
+            xmax = 42.690000
+            text = "m eI"
+        intervals [131]:
+            xmin = 42.690000
+            xmax = 42.800000
+            text = "b i:"
+        intervals [132]:
+            xmin = 42.800000
+            xmax = 43.360000
+            text = "k V n s I d 3` d"
+        intervals [133]:
+            xmin = 43.360000
+            xmax = 43.890000
+            text = "w 3` D i:"
+        intervals [134]:
+            xmin = 43.890000
+            xmax = 43.975000
+            text = "V v"
+        intervals [135]:
+            xmin = 43.975000
+            xmax = 44.050000
+            text = "D V"
+        intervals [136]:
+            xmin = 44.050000
+            xmax = 44.460000
+            text = "k I N d V m"
+        intervals [137]:
+            xmin = 44.460000
+            xmax = 44.550000
+            text = "V v"
+        intervals [138]:
+            xmin = 44.550000
+            xmax = 44.980000
+            text = "g Q d"
+        intervals [139]:
+            xmin = 44.980000
+            xmax = 45.200000
+            text = ""
+        intervals [140]:
+            xmin = 45.200000
+            xmax = 45.340000
+            text = "f O: R"
+        intervals [141]:
+            xmin = 45.340000
+            xmax = 45.540000
+            text = "w I tS"
+        intervals [142]:
+            xmin = 45.540000
+            xmax = 45.770000
+            text = "j u:"
+        intervals [143]:
+            xmin = 45.770000
+            xmax = 45.920000
+            text = "Q R"
+        intervals [144]:
+            xmin = 45.920000
+            xmax = 46.330000
+            text = "O: l s @U"
+        intervals [145]:
+            xmin = 46.330000
+            xmax = 46.960000
+            text = "s V f 3` I N"
+        intervals [146]:
+            xmin = 46.960000
+            xmax = 47.410000
+            text = ""
+        intervals [147]:
+            xmin = 47.410000
+            xmax = 47.690000
+            text = "s I n s"
+        intervals [148]:
+            xmin = 47.690000
+            xmax = 48.240000
+            text = "I n d i: d"
+        intervals [149]:
+            xmin = 48.240000
+            xmax = 48.520000
+            text = "g Q d"
+        intervals [150]:
+            xmin = 48.520000
+            xmax = 49.070000
+            text = "k V n s I d 3` z"
+        intervals [151]:
+            xmin = 49.070000
+            xmax = 49.270000
+            text = "I t"
+        intervals [152]:
+            xmin = 49.270000
+            xmax = 49.660000
+            text = "dZ V s t"
+        intervals [153]:
+            xmin = 49.660000
+            xmax = 49.760000
+            text = "t u:"
+        intervals [154]:
+            xmin = 49.760000
+            xmax = 50.170000
+            text = "R i: p eI"
+        intervals [155]:
+            xmin = 50.170000
+            xmax = 50.350000
+            text = "w I D"
+        intervals [156]:
+            xmin = 50.350000
+            xmax = 50.930000
+            text = "V f l I k S V n"
+        intervals [157]:
+            xmin = 50.930000
+            xmax = 51.200000
+            text = ""
+        intervals [158]:
+            xmin = 51.200000
+            xmax = 51.540000
+            text = "D @U z"
+        intervals [159]:
+            xmin = 51.540000
+            xmax = 51.670000
+            text = "h u:"
+        intervals [160]:
+            xmin = 51.670000
+            xmax = 52.050000
+            text = "V f l I k t"
+        intervals [161]:
+            xmin = 52.050000
+            xmax = 52.370000
+            text = "j u:"
+        intervals [162]:
+            xmin = 52.370000
+            xmax = 52.900000
+            text = ""
+        intervals [163]:
+            xmin = 52.900000
+            xmax = 53.010000
+            text = "V n d"
+        intervals [164]:
+            xmin = 53.010000
+            xmax = 53.080000
+            text = "t u:"
+        intervals [165]:
+            xmin = 53.080000
+            xmax = 53.430000
+            text = "g R { n t"
+        intervals [166]:
+            xmin = 53.430000
+            xmax = 53.980000
+            text = "R I l i: f"
+        intervals [167]:
+            xmin = 53.980000
+            xmax = 54.140000
+            text = "t u:"
+        intervals [168]:
+            xmin = 54.140000
+            xmax = 54.510000
+            text = "j u:"
+        intervals [169]:
+            xmin = 54.510000
+            xmax = 54.660000
+            text = "h u:"
+        intervals [170]:
+            xmin = 54.660000
+            xmax = 54.840000
+            text = "Q R"
+        intervals [171]:
+            xmin = 54.840000
+            xmax = 55.380000
+            text = "V f l I k t V d"
+        intervals [172]:
+            xmin = 55.380000
+            xmax = 55.790000
+            text = ""
+        intervals [173]:
+            xmin = 55.790000
+            xmax = 55.940000
+            text = "{ z"
+        intervals [174]:
+            xmin = 55.940000
+            xmax = 56.190000
+            text = "w E l"
+        intervals [175]:
+            xmin = 56.190000
+            xmax = 56.290000
+            text = "{ z"
+        intervals [176]:
+            xmin = 56.290000
+            xmax = 56.440000
+            text = "t u:"
+        intervals [177]:
+            xmin = 56.440000
+            xmax = 56.950000
+            text = "j u: z"
+        intervals [178]:
+            xmin = 56.950000
+            xmax = 57.180000
+            text = ""
+        intervals [179]:
+            xmin = 57.180000
+            xmax = 57.320000
+            text = "w E n"
+        intervals [180]:
+            xmin = 57.320000
+            xmax = 57.380000
+            text = "D V"
+        intervals [181]:
+            xmin = 57.380000
+            xmax = 57.750000
+            text = "l O: R d"
+        intervals [182]:
+            xmin = 57.750000
+            xmax = 58.170000
+            text = "dZ i: z V s"
+        intervals [183]:
+            xmin = 58.170000
+            xmax = 58.340000
+            text = "I z"
+        intervals [184]:
+            xmin = 58.340000
+            xmax = 58.890000
+            text = "R I v i: l d"
+        intervals [185]:
+            xmin = 58.890000
+            xmax = 59.030000
+            text = "f R V m"
+        intervals [186]:
+            xmin = 59.030000
+            xmax = 59.420000
+            text = "h E v V n"
+        intervals [187]:
+            xmin = 59.420000
+            xmax = 59.710000
+            text = ""
+        intervals [188]:
+            xmin = 59.710000
+            xmax = 59.830000
+            text = "w I D"
+        intervals [189]:
+            xmin = 59.830000
+            xmax = 59.970000
+            text = "h I z"
+        intervals [190]:
+            xmin = 59.970000
+            xmax = 60.415000
+            text = "m aI t i:"
+        intervals [191]:
+            xmin = 60.415000
+            xmax = 60.940000
+            text = "eI n dZ V l z"
+        intervals [192]:
+            xmin = 60.940000
+            xmax = 61.110000
+            text = "I n"
+        intervals [193]:
+            xmin = 61.110000
+            xmax = 61.720000
+            text = "f l eI m I N"
+        intervals [194]:
+            xmin = 61.720000
+            xmax = 62.190000
+            text = "f aI 3`"
+        intervals [195]:
+            xmin = 62.190000
+            xmax = 62.620000
+            text = ""
+        intervals [196]:
+            xmin = 62.620000
+            xmax = 63.410000
+            text = "I n f l I k t I N"
+        intervals [197]:
+            xmin = 63.410000
+            xmax = 63.490000
+            text = ""
+        intervals [198]:
+            xmin = 63.490000
+            xmax = 64.010000
+            text = "v E n dZ V n s"
+        intervals [199]:
+            xmin = 64.010000
+            xmax = 64.210000
+            text = "Q n"
+        intervals [200]:
+            xmin = 64.210000
+            xmax = 64.600000
+            text = "D @U z"
+        intervals [201]:
+            xmin = 64.600000
+            xmax = 64.690000
+            text = "h u:"
+        intervals [202]:
+            xmin = 64.690000
+            xmax = 64.840000
+            text = "d u:"
+        intervals [203]:
+            xmin = 64.840000
+            xmax = 65.070000
+            text = "n Q t"
+        intervals [204]:
+            xmin = 65.070000
+            xmax = 65.420000
+            text = "n @U"
+        intervals [205]:
+            xmin = 65.420000
+            xmax = 65.910000
+            text = "g Q d"
+        intervals [206]:
+            xmin = 65.910000
+            xmax = 66.080000
+            text = ""
+        intervals [207]:
+            xmin = 66.080000
+            xmax = 66.180000
+            text = "V n d"
+        intervals [208]:
+            xmin = 66.180000
+            xmax = 66.380000
+            text = "Q n"
+        intervals [209]:
+            xmin = 66.380000
+            xmax = 66.660000
+            text = "D @U z"
+        intervals [210]:
+            xmin = 66.660000
+            xmax = 66.760000
+            text = "h u:"
+        intervals [211]:
+            xmin = 66.760000
+            xmax = 66.890000
+            text = "d u:"
+        intervals [212]:
+            xmin = 66.890000
+            xmax = 67.090000
+            text = "n Q t"
+        intervals [213]:
+            xmin = 67.090000
+            xmax = 67.620000
+            text = "@U b eI"
+        intervals [214]:
+            xmin = 67.620000
+            xmax = 67.700000
+            text = "D V"
+        intervals [215]:
+            xmin = 67.700000
+            xmax = 68.360000
+            text = "g Q s p V l"
+        intervals [216]:
+            xmin = 68.360000
+            xmax = 68.450000
+            text = "V v"
+        intervals [217]:
+            xmin = 68.450000
+            xmax = 68.590000
+            text = "aU 3`"
+        intervals [218]:
+            xmin = 68.590000
+            xmax = 69.010000
+            text = "l O: R d"
+        intervals [219]:
+            xmin = 69.010000
+            xmax = 69.740000
+            text = "dZ i: z V s"
+        intervals [220]:
+            xmin = 69.740000
+            xmax = 70.580000
+            text = ""
+        intervals [221]:
+            xmin = 70.580000
+            xmax = 71.000000
+            text = "D eI"
+        intervals [222]:
+            xmin = 71.000000
+            xmax = 71.310000
+            text = ""
+        intervals [223]:
+            xmin = 71.310000
+            xmax = 71.470000
+            text = "w I l"
+        intervals [224]:
+            xmin = 71.470000
+            xmax = 72.000000
+            text = "s V f 3`"
+        intervals [225]:
+            xmin = 72.000000
+            xmax = 72.130000
+            text = "D V"
+        intervals [226]:
+            xmin = 72.130000
+            xmax = 72.230000
+            text = ""
+        intervals [227]:
+            xmin = 72.230000
+            xmax = 72.750000
+            text = "p V n I S m V n t"
+        intervals [228]:
+            xmin = 72.750000
+            xmax = 72.840000
+            text = "V v"
+        intervals [229]:
+            xmin = 72.840000
+            xmax = 73.370000
+            text = "I t 3` n V l"
+        intervals [230]:
+            xmin = 73.370000
+            xmax = 74.070000
+            text = "d I s t R V k S V n"
+        intervals [231]:
+            xmin = 74.070000
+            xmax = 74.510000
+            text = ""
+        intervals [232]:
+            xmin = 74.510000
+            xmax = 75.010000
+            text = "V w eI"
+        intervals [233]:
+            xmin = 75.010000
+            xmax = 75.210000
+            text = "f R V m"
+        intervals [234]:
+            xmin = 75.210000
+            xmax = 75.280000
+            text = "D V"
+        intervals [235]:
+            xmin = 75.280000
+            xmax = 75.800000
+            text = "p R E z V n s"
+        intervals [236]:
+            xmin = 75.800000
+            xmax = 75.920000
+            text = "V v"
+        intervals [237]:
+            xmin = 75.920000
+            xmax = 76.000000
+            text = "D V"
+        intervals [238]:
+            xmin = 76.000000
+            xmax = 76.480000
+            text = "l O: R d"
+        intervals [239]:
+            xmin = 76.480000
+            xmax = 76.620000
+            text = "V n d"
+        intervals [240]:
+            xmin = 76.620000
+            xmax = 76.790000
+            text = "f R V m"
+        intervals [241]:
+            xmin = 76.790000
+            xmax = 76.850000
+            text = "D V"
+        intervals [242]:
+            xmin = 76.850000
+            xmax = 77.430000
+            text = "g l O: R i:"
+        intervals [243]:
+            xmin = 77.430000
+            xmax = 77.500000
+            text = "V v"
+        intervals [244]:
+            xmin = 77.500000
+            xmax = 77.700000
+            text = "h I z"
+        intervals [245]:
+            xmin = 77.700000
+            xmax = 78.150000
+            text = "m aI t"
+        intervals [246]:
+            xmin = 78.150000
+            xmax = 78.460000
+            text = ""
+        intervals [247]:
+            xmin = 78.460000
+            xmax = 78.600000
+            text = "w E n"
+        intervals [248]:
+            xmin = 78.600000
+            xmax = 78.740000
+            text = "h i:"
+        intervals [249]:
+            xmin = 78.740000
+            xmax = 79.200000
+            text = "k V m z"
+        intervals [250]:
+            xmin = 79.200000
+            xmax = 79.360000
+            text = "Q n"
+        intervals [251]:
+            xmin = 79.360000
+            xmax = 79.540000
+            text = "D { t"
+        intervals [252]:
+            xmin = 79.540000
+            xmax = 79.840000
+            text = "d eI"
+        intervals [253]:
+            xmin = 79.840000
+            xmax = 79.970000
+            text = "t u:"
+        intervals [254]:
+            xmin = 79.970000
+            xmax = 80.060000
+            text = "b i:"
+        intervals [255]:
+            xmin = 80.060000
+            xmax = 80.810000
+            text = "g l O: R V f aI d"
+        intervals [256]:
+            xmin = 80.810000
+            xmax = 80.910000
+            text = "I n"
+        intervals [257]:
+            xmin = 80.910000
+            xmax = 81.100000
+            text = "h I z"
+        intervals [258]:
+            xmin = 81.100000
+            xmax = 81.630000
+            text = "s eI n t s"
+        intervals [259]:
+            xmin = 81.630000
+            xmax = 81.900000
+            text = ""
+        intervals [260]:
+            xmin = 81.900000
+            xmax = 81.990000
+            text = "V n d"
+        intervals [261]:
+            xmin = 81.990000
+            xmax = 82.070000
+            text = "t u:"
+        intervals [262]:
+            xmin = 82.070000
+            xmax = 82.210000
+            text = "b i:"
+        intervals [263]:
+            xmin = 82.210000
+            xmax = 82.910000
+            text = "m Q R v E l d"
+        intervals [264]:
+            xmin = 82.910000
+            xmax = 83.100000
+            text = "{ t"
+        intervals [265]:
+            xmin = 83.100000
+            xmax = 83.400000
+            text = "V m V N"
+        intervals [266]:
+            xmin = 83.400000
+            xmax = 83.850000
+            text = "O: l"
+        intervals [267]:
+            xmin = 83.850000
+            xmax = 84.050000
+            text = "h u:"
+        intervals [268]:
+            xmin = 84.050000
+            xmax = 84.160000
+            text = "h { v"
+        intervals [269]:
+            xmin = 84.160000
+            xmax = 84.810000
+            text = "b I l i: v d"
+        intervals [270]:
+            xmin = 84.810000
+            xmax = 85.120000
+            text = ""
+        intervals [271]:
+            xmin = 85.120000
+            xmax = 85.490000
+            text = "b I k O: z"
+        intervals [272]:
+            xmin = 85.490000
+            xmax = 85.650000
+            text = "aU 3`"
+        intervals [273]:
+            xmin = 85.650000
+            xmax = 86.270000
+            text = "t E s t V m @U n i:"
+        intervals [274]:
+            xmin = 86.270000
+            xmax = 86.410000
+            text = "t u:"
+        intervals [275]:
+            xmin = 86.410000
+            xmax = 86.690000
+            text = "j u:"
+        intervals [276]:
+            xmin = 86.690000
+            xmax = 87.000000
+            text = "w Q z"
+        intervals [277]:
+            xmin = 87.000000
+            xmax = 87.630000
+            text = "b I l i: v d"
+        intervals [278]:
+            xmin = 87.630000
+            xmax = 88.370000
+            text = ""
+        intervals [279]:
+            xmin = 88.370000
+            xmax = 88.560000
+            text = "t u:"
+        intervals [280]:
+            xmin = 88.560000
+            xmax = 88.840000
+            text = "D I s"
+        intervals [281]:
+            xmin = 88.840000
+            xmax = 89.130000
+            text = "E n d"
+        intervals [282]:
+            xmin = 89.130000
+            xmax = 89.320000
+            text = "w i:"
+        intervals [283]:
+            xmin = 89.320000
+            xmax = 89.670000
+            text = "O: l w eI z"
+        intervals [284]:
+            xmin = 89.670000
+            xmax = 89.950000
+            text = "p R eI"
+        intervals [285]:
+            xmin = 89.950000
+            xmax = 90.080000
+            text = "f O: R"
+        intervals [286]:
+            xmin = 90.080000
+            xmax = 90.290000
+            text = "j u:"
+        intervals [287]:
+            xmin = 90.290000
+            xmax = 90.880000
+            text = ""
+        intervals [288]:
+            xmin = 90.880000
+            xmax = 90.960000
+            text = "D { t"
+        intervals [289]:
+            xmin = 90.960000
+            xmax = 91.130000
+            text = "aU 3`"
+        intervals [290]:
+            xmin = 91.130000
+            xmax = 91.500000
+            text = "g Q d"
+        intervals [291]:
+            xmin = 91.500000
+            xmax = 91.690000
+            text = "m eI"
+        intervals [292]:
+            xmin = 91.690000
+            xmax = 91.970000
+            text = "m eI k"
+        intervals [293]:
+            xmin = 91.970000
+            xmax = 92.070000
+            text = "j u:"
+        intervals [294]:
+            xmin = 92.070000
+            xmax = 92.490000
+            text = "w 3` D i:"
+        intervals [295]:
+            xmin = 92.490000
+            xmax = 92.610000
+            text = "V v"
+        intervals [296]:
+            xmin = 92.610000
+            xmax = 92.750000
+            text = "h I z"
+        intervals [297]:
+            xmin = 92.750000
+            xmax = 93.170000
+            text = "k O: l I N"
+        intervals [298]:
+            xmin = 93.170000
+            xmax = 93.610000
+            text = ""
+        intervals [299]:
+            xmin = 93.610000
+            xmax = 93.770000
+            text = "V n d"
+        intervals [300]:
+            xmin = 93.770000
+            xmax = 93.920000
+            text = "m eI"
+        intervals [301]:
+            xmin = 93.920000
+            xmax = 94.400000
+            text = "f U l f I l"
+        intervals [302]:
+            xmin = 94.400000
+            xmax = 94.510000
+            text = ""
+        intervals [303]:
+            xmin = 94.510000
+            xmax = 94.910000
+            text = "E v 3` i:"
+        intervals [304]:
+            xmin = 94.910000
+            xmax = 95.350000
+            text = "R i: z Q l v"
+        intervals [305]:
+            xmin = 95.350000
+            xmax = 95.540000
+            text = "f O: R"
+        intervals [306]:
+            xmin = 95.540000
+            xmax = 95.950000
+            text = "g U d"
+        intervals [307]:
+            xmin = 95.950000
+            xmax = 96.410000
+            text = ""
+        intervals [308]:
+            xmin = 96.410000
+            xmax = 96.580000
+            text = "V n d"
+        intervals [309]:
+            xmin = 96.580000
+            xmax = 96.750000
+            text = ""
+        intervals [310]:
+            xmin = 96.750000
+            xmax = 97.050000
+            text = "E v 3` i:"
+        intervals [311]:
+            xmin = 97.050000
+            xmax = 97.290000
+            text = "w 3` k"
+        intervals [312]:
+            xmin = 97.290000
+            xmax = 97.360000
+            text = "V v"
+        intervals [313]:
+            xmin = 97.360000
+            xmax = 97.740000
+            text = "f eI T"
+        intervals [314]:
+            xmin = 97.740000
+            xmax = 97.790000
+            text = ""
+        intervals [315]:
+            xmin = 97.790000
+            xmax = 97.950000
+            text = "b aI"
+        intervals [316]:
+            xmin = 97.950000
+            xmax = 98.230000
+            text = "h I z"
+        intervals [317]:
+            xmin = 98.230000
+            xmax = 98.630000
+            text = "p aU 3`"
+        intervals [318]:
+            xmin = 98.630000
+            xmax = 99.490000
+            text = ""
+        intervals [319]:
+            xmin = 99.490000
+            xmax = 99.720000
+            text = "s @U"
+        intervals [320]:
+            xmin = 99.720000
+            xmax = 99.850000
+            text = "D { t"
+        intervals [321]:
+            xmin = 99.850000
+            xmax = 99.950000
+            text = "D V"
+        intervals [322]:
+            xmin = 99.950000
+            xmax = 100.440000
+            text = "n eI m"
+        intervals [323]:
+            xmin = 100.440000
+            xmax = 100.565000
+            text = "V v"
+        intervals [324]:
+            xmin = 100.565000
+            xmax = 100.670000
+            text = "aU 3`"
+        intervals [325]:
+            xmin = 100.670000
+            xmax = 100.950000
+            text = "l O: R d"
+        intervals [326]:
+            xmin = 100.950000
+            xmax = 101.400000
+            text = "dZ i: z V s"
+        intervals [327]:
+            xmin = 101.400000
+            xmax = 101.560000
+            text = "m eI"
+        intervals [328]:
+            xmin = 101.560000
+            xmax = 101.690000
+            text = "b i:"
+        intervals [329]:
+            xmin = 101.690000
+            xmax = 102.390000
+            text = "g l O: R V f aI d"
+        intervals [330]:
+            xmin = 102.390000
+            xmax = 102.580000
+            text = "I n"
+        intervals [331]:
+            xmin = 102.580000
+            xmax = 102.840000
+            text = "j u:"
+        intervals [332]:
+            xmin = 102.840000
+            xmax = 103.310000
+            text = ""
+        intervals [333]:
+            xmin = 103.310000
+            xmax = 103.500000
+            text = "V n d"
+        intervals [334]:
+            xmin = 103.500000
+            xmax = 103.730000
+            text = "j u:"
+        intervals [335]:
+            xmin = 103.730000
+            xmax = 103.840000
+            text = "I n"
+        intervals [336]:
+            xmin = 103.840000
+            xmax = 104.200000
+            text = "h I m"
+        intervals [337]:
+            xmin = 104.200000
+            xmax = 104.570000
+            text = ""
+        intervals [338]:
+            xmin = 104.570000
+            xmax = 105.120000
+            text = "V k O: R d I N"
+        intervals [339]:
+            xmin = 105.120000
+            xmax = 105.240000
+            text = "t u:"
+        intervals [340]:
+            xmin = 105.240000
+            xmax = 105.310000
+            text = "D V"
+        intervals [341]:
+            xmin = 105.310000
+            xmax = 105.620000
+            text = "g R eI s"
+        intervals [342]:
+            xmin = 105.620000
+            xmax = 105.740000
+            text = "V v"
+        intervals [343]:
+            xmin = 105.740000
+            xmax = 105.840000
+            text = "aU 3`"
+        intervals [344]:
+            xmin = 105.840000
+            xmax = 106.170000
+            text = "g Q d"
+        intervals [345]:
+            xmin = 106.170000
+            xmax = 106.270000
+            text = ""
+        intervals [346]:
+            xmin = 106.270000
+            xmax = 106.520000
+            text = "V n d"
+        intervals [347]:
+            xmin = 106.520000
+            xmax = 106.590000
+            text = "D V"
+        intervals [348]:
+            xmin = 106.590000
+            xmax = 106.860000
+            text = "l O: R d"
+        intervals [349]:
+            xmin = 106.860000
+            xmax = 107.250000
+            text = "dZ i: z V s"
+        intervals [350]:
+            xmin = 107.250000
+            xmax = 107.700000
+            text = "k R aI s t"
+        intervals [351]:
+            xmin = 107.700000
+            xmax = 109.824000
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 109.824000
+        intervals: size = 1081
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.530000
+            text = "<p:>"
+        intervals [2]:
+            xmin = 0.530000
+            xmax = 0.790000
+            text = "t"
+        intervals [3]:
+            xmin = 0.790000
+            xmax = 1.070000
+            text = "I"
+        intervals [4]:
+            xmin = 1.070000
+            xmax = 1.120000
+            text = "T"
+        intervals [5]:
+            xmin = 1.120000
+            xmax = 1.190000
+            text = "eI"
+        intervals [6]:
+            xmin = 1.190000
+            xmax = 1.300000
+            text = "s"
+        intervals [7]:
+            xmin = 1.300000
+            xmax = 1.330000
+            text = "V"
+        intervals [8]:
+            xmin = 1.330000
+            xmax = 1.430000
+            text = "l"
+        intervals [9]:
+            xmin = 1.430000
+            xmax = 1.520000
+            text = "@U"
+        intervals [10]:
+            xmin = 1.520000
+            xmax = 1.570000
+            text = "n"
+        intervals [11]:
+            xmin = 1.570000
+            xmax = 1.690000
+            text = "i:"
+        intervals [12]:
+            xmin = 1.690000
+            xmax = 1.720000
+            text = "V"
+        intervals [13]:
+            xmin = 1.720000
+            xmax = 1.910000
+            text = "n"
+        intervals [14]:
+            xmin = 1.910000
+            xmax = 2.150000
+            text = "z"
+        intervals [15]:
+            xmin = 2.150000
+            xmax = 3.110000
+            text = "<p:>"
+        intervals [16]:
+            xmin = 3.110000
+            xmax = 4.110000
+            text = "?"
+        intervals [17]:
+            xmin = 4.110000
+            xmax = 4.300000
+            text = "w"
+        intervals [18]:
+            xmin = 4.300000
+            xmax = 4.370000
+            text = "V"
+        intervals [19]:
+            xmin = 4.370000
+            xmax = 4.430000
+            text = "n"
+        intervals [20]:
+            xmin = 4.430000
+            xmax = 6.130000
+            text = "<p:>"
+        intervals [21]:
+            xmin = 6.130000
+            xmax = 6.200000
+            text = "p"
+        intervals [22]:
+            xmin = 6.200000
+            xmax = 6.260000
+            text = "O:"
+        intervals [23]:
+            xmin = 6.260000
+            xmax = 6.520000
+            text = "l"
+        intervals [24]:
+            xmin = 6.520000
+            xmax = 6.980000
+            text = "<p:>"
+        intervals [25]:
+            xmin = 6.980000
+            xmax = 7.130000
+            text = "s"
+        intervals [26]:
+            xmin = 7.130000
+            xmax = 7.170000
+            text = "I"
+        intervals [27]:
+            xmin = 7.170000
+            xmax = 7.250000
+            text = "l"
+        intervals [28]:
+            xmin = 7.250000
+            xmax = 7.290000
+            text = "v"
+        intervals [29]:
+            xmin = 7.290000
+            xmax = 7.340000
+            text = "V"
+        intervals [30]:
+            xmin = 7.340000
+            xmax = 7.490000
+            text = "n"
+        intervals [31]:
+            xmin = 7.490000
+            xmax = 7.570000
+            text = "I"
+        intervals [32]:
+            xmin = 7.570000
+            xmax = 7.880000
+            text = "s"
+        intervals [33]:
+            xmin = 7.880000
+            xmax = 8.250000
+            text = "<p:>"
+        intervals [34]:
+            xmin = 8.250000
+            xmax = 8.280000
+            text = "V"
+        intervals [35]:
+            xmin = 8.280000
+            xmax = 8.370000
+            text = "n"
+        intervals [36]:
+            xmin = 8.370000
+            xmax = 8.420000
+            text = "d"
+        intervals [37]:
+            xmin = 8.420000
+            xmax = 8.460000
+            text = "t"
+        intervals [38]:
+            xmin = 8.460000
+            xmax = 8.530000
+            text = "I"
+        intervals [39]:
+            xmin = 8.530000
+            xmax = 8.580000
+            text = "m"
+        intervals [40]:
+            xmin = 8.580000
+            xmax = 8.630000
+            text = "V"
+        intervals [41]:
+            xmin = 8.630000
+            xmax = 8.730000
+            text = "T"
+        intervals [42]:
+            xmin = 8.730000
+            xmax = 8.830000
+            text = "i:"
+        intervals [43]:
+            xmin = 8.830000
+            xmax = 9.470000
+            text = "<p:>"
+        intervals [44]:
+            xmin = 9.470000
+            xmax = 9.590000
+            text = "t"
+        intervals [45]:
+            xmin = 9.590000
+            xmax = 9.680000
+            text = "I"
+        intervals [46]:
+            xmin = 9.680000
+            xmax = 9.720000
+            text = "D"
+        intervals [47]:
+            xmin = 9.720000
+            xmax = 9.750000
+            text = "V"
+        intervals [48]:
+            xmin = 9.750000
+            xmax = 9.910000
+            text = "tS"
+        intervals [49]:
+            xmin = 9.910000
+            xmax = 10.080000
+            text = "3`"
+        intervals [50]:
+            xmin = 10.080000
+            xmax = 10.200000
+            text = "tS"
+        intervals [51]:
+            xmin = 10.200000
+            xmax = 10.240000
+            text = "V"
+        intervals [52]:
+            xmin = 10.240000
+            xmax = 10.270000
+            text = "v"
+        intervals [53]:
+            xmin = 10.270000
+            xmax = 10.330000
+            text = "D"
+        intervals [54]:
+            xmin = 10.330000
+            xmax = 10.360000
+            text = "V"
+        intervals [55]:
+            xmin = 10.360000
+            xmax = 10.480000
+            text = "T"
+        intervals [56]:
+            xmin = 10.480000
+            xmax = 10.540000
+            text = "eI"
+        intervals [57]:
+            xmin = 10.540000
+            xmax = 10.670000
+            text = "s"
+        intervals [58]:
+            xmin = 10.670000
+            xmax = 10.700000
+            text = "V"
+        intervals [59]:
+            xmin = 10.700000
+            xmax = 10.800000
+            text = "l"
+        intervals [60]:
+            xmin = 10.800000
+            xmax = 10.890000
+            text = "@U"
+        intervals [61]:
+            xmin = 10.890000
+            xmax = 10.920000
+            text = "n"
+        intervals [62]:
+            xmin = 10.920000
+            xmax = 11.050000
+            text = "i:"
+        intervals [63]:
+            xmin = 11.050000
+            xmax = 11.080000
+            text = "V"
+        intervals [64]:
+            xmin = 11.080000
+            xmax = 11.190000
+            text = "n"
+        intervals [65]:
+            xmin = 11.190000
+            xmax = 11.300000
+            text = "z"
+        intervals [66]:
+            xmin = 11.300000
+            xmax = 11.540000
+            text = "<p:>"
+        intervals [67]:
+            xmin = 11.540000
+            xmax = 11.630000
+            text = "I"
+        intervals [68]:
+            xmin = 11.630000
+            xmax = 11.720000
+            text = "n"
+        intervals [69]:
+            xmin = 11.720000
+            xmax = 11.840000
+            text = "g"
+        intervals [70]:
+            xmin = 11.840000
+            xmax = 12.020000
+            text = "Q"
+        intervals [71]:
+            xmin = 12.020000
+            xmax = 12.090000
+            text = "aU"
+        intervals [72]:
+            xmin = 12.090000
+            xmax = 12.310000
+            text = "3`"
+        intervals [73]:
+            xmin = 12.310000
+            xmax = 12.470000
+            text = "f"
+        intervals [74]:
+            xmin = 12.470000
+            xmax = 12.650000
+            text = "Q"
+        intervals [75]:
+            xmin = 12.650000
+            xmax = 12.690000
+            text = "D"
+        intervals [76]:
+            xmin = 12.690000
+            xmax = 12.800000
+            text = "3`"
+        intervals [77]:
+            xmin = 12.800000
+            xmax = 12.830000
+            text = "V"
+        intervals [78]:
+            xmin = 12.830000
+            xmax = 12.890000
+            text = "n"
+        intervals [79]:
+            xmin = 12.890000
+            xmax = 12.920000
+            text = "D"
+        intervals [80]:
+            xmin = 12.920000
+            xmax = 12.950000
+            text = "V"
+        intervals [81]:
+            xmin = 12.950000
+            xmax = 13.040000
+            text = "l"
+        intervals [82]:
+            xmin = 13.040000
+            xmax = 13.190000
+            text = "O:"
+        intervals [83]:
+            xmin = 13.190000
+            xmax = 13.240000
+            text = "R"
+        intervals [84]:
+            xmin = 13.240000
+            xmax = 13.280000
+            text = "d"
+        intervals [85]:
+            xmin = 13.280000
+            xmax = 13.360000
+            text = "dZ"
+        intervals [86]:
+            xmin = 13.360000
+            xmax = 13.490000
+            text = "i:"
+        intervals [87]:
+            xmin = 13.490000
+            xmax = 13.560000
+            text = "z"
+        intervals [88]:
+            xmin = 13.560000
+            xmax = 13.590000
+            text = "V"
+        intervals [89]:
+            xmin = 13.590000
+            xmax = 13.680000
+            text = "s"
+        intervals [90]:
+            xmin = 13.680000
+            xmax = 13.770000
+            text = "k"
+        intervals [91]:
+            xmin = 13.770000
+            xmax = 13.810000
+            text = "R"
+        intervals [92]:
+            xmin = 13.810000
+            xmax = 13.990000
+            text = "aI"
+        intervals [93]:
+            xmin = 13.990000
+            xmax = 14.140000
+            text = "s"
+        intervals [94]:
+            xmin = 14.140000
+            xmax = 14.210000
+            text = "t"
+        intervals [95]:
+            xmin = 14.210000
+            xmax = 14.830000
+            text = "<p:>"
+        intervals [96]:
+            xmin = 14.830000
+            xmax = 14.900000
+            text = "g"
+        intervals [97]:
+            xmin = 14.900000
+            xmax = 14.970000
+            text = "R"
+        intervals [98]:
+            xmin = 14.970000
+            xmax = 15.060000
+            text = "eI"
+        intervals [99]:
+            xmin = 15.060000
+            xmax = 15.180000
+            text = "s"
+        intervals [100]:
+            xmin = 15.180000
+            xmax = 15.250000
+            text = "t"
+        intervals [101]:
+            xmin = 15.250000
+            xmax = 15.300000
+            text = "I"
+        intervals [102]:
+            xmin = 15.300000
+            xmax = 15.430000
+            text = "j"
+        intervals [103]:
+            xmin = 15.430000
+            xmax = 15.610000
+            text = "u:"
+        intervals [104]:
+            xmin = 15.610000
+            xmax = 15.640000
+            text = "V"
+        intervals [105]:
+            xmin = 15.640000
+            xmax = 15.760000
+            text = "n"
+        intervals [106]:
+            xmin = 15.760000
+            xmax = 15.800000
+            text = "d"
+        intervals [107]:
+            xmin = 15.800000
+            xmax = 15.840000
+            text = "p"
+        intervals [108]:
+            xmin = 15.840000
+            xmax = 16.000000
+            text = "i:"
+        intervals [109]:
+            xmin = 16.000000
+            xmax = 16.080000
+            text = "s"
+        intervals [110]:
+            xmin = 16.080000
+            xmax = 16.150000
+            text = "f"
+        intervals [111]:
+            xmin = 16.150000
+            xmax = 16.190000
+            text = "6"
+        intervals [112]:
+            xmin = 16.190000
+            xmax = 16.240000
+            text = "m"
+        intervals [113]:
+            xmin = 16.240000
+            xmax = 16.360000
+            text = "g"
+        intervals [114]:
+            xmin = 16.360000
+            xmax = 16.470000
+            text = "Q"
+        intervals [115]:
+            xmin = 16.470000
+            xmax = 16.600000
+            text = "aU"
+        intervals [116]:
+            xmin = 16.600000
+            xmax = 16.710000
+            text = "3`"
+        intervals [117]:
+            xmin = 16.710000
+            xmax = 16.830000
+            text = "f"
+        intervals [118]:
+            xmin = 16.830000
+            xmax = 16.990000
+            text = "Q"
+        intervals [119]:
+            xmin = 16.990000
+            xmax = 17.050000
+            text = "D"
+        intervals [120]:
+            xmin = 17.050000
+            xmax = 17.170000
+            text = "3`"
+        intervals [121]:
+            xmin = 17.170000
+            xmax = 17.530000
+            text = "<p:>"
+        intervals [122]:
+            xmin = 17.530000
+            xmax = 17.560000
+            text = "V"
+        intervals [123]:
+            xmin = 17.560000
+            xmax = 17.630000
+            text = "n"
+        intervals [124]:
+            xmin = 17.630000
+            xmax = 17.660000
+            text = "D"
+        intervals [125]:
+            xmin = 17.660000
+            xmax = 17.710000
+            text = "V"
+        intervals [126]:
+            xmin = 17.710000
+            xmax = 17.800000
+            text = "l"
+        intervals [127]:
+            xmin = 17.800000
+            xmax = 17.920000
+            text = "O:"
+        intervals [128]:
+            xmin = 17.920000
+            xmax = 17.960000
+            text = "R"
+        intervals [129]:
+            xmin = 17.960000
+            xmax = 18.000000
+            text = "d"
+        intervals [130]:
+            xmin = 18.000000
+            xmax = 18.090000
+            text = "dZ"
+        intervals [131]:
+            xmin = 18.090000
+            xmax = 18.190000
+            text = "i:"
+        intervals [132]:
+            xmin = 18.190000
+            xmax = 18.240000
+            text = "z"
+        intervals [133]:
+            xmin = 18.240000
+            xmax = 18.280000
+            text = "V"
+        intervals [134]:
+            xmin = 18.280000
+            xmax = 18.350000
+            text = "s"
+        intervals [135]:
+            xmin = 18.350000
+            xmax = 18.450000
+            text = "k"
+        intervals [136]:
+            xmin = 18.450000
+            xmax = 18.530000
+            text = "R"
+        intervals [137]:
+            xmin = 18.530000
+            xmax = 18.670000
+            text = "aI"
+        intervals [138]:
+            xmin = 18.670000
+            xmax = 18.800000
+            text = "s"
+        intervals [139]:
+            xmin = 18.800000
+            xmax = 18.880000
+            text = "t"
+        intervals [140]:
+            xmin = 18.880000
+            xmax = 19.590000
+            text = "<p:>"
+        intervals [141]:
+            xmin = 19.590000
+            xmax = 19.660000
+            text = "w"
+        intervals [142]:
+            xmin = 19.660000
+            xmax = 19.730000
+            text = "i:"
+        intervals [143]:
+            xmin = 19.730000
+            xmax = 19.910000
+            text = "O:"
+        intervals [144]:
+            xmin = 19.910000
+            xmax = 20.000000
+            text = "?"
+        intervals [145]:
+            xmin = 20.000000
+            xmax = 20.040000
+            text = "O:"
+        intervals [146]:
+            xmin = 20.040000
+            xmax = 20.140000
+            text = "l"
+        intervals [147]:
+            xmin = 20.140000
+            xmax = 20.200000
+            text = "w"
+        intervals [148]:
+            xmin = 20.200000
+            xmax = 20.250000
+            text = "I"
+        intervals [149]:
+            xmin = 20.250000
+            xmax = 20.330000
+            text = "z"
+        intervals [150]:
+            xmin = 20.330000
+            xmax = 20.410000
+            text = "t"
+        intervals [151]:
+            xmin = 20.410000
+            xmax = 20.450000
+            text = "u:"
+        intervals [152]:
+            xmin = 20.450000
+            xmax = 20.530000
+            text = "g"
+        intervals [153]:
+            xmin = 20.530000
+            xmax = 20.580000
+            text = "I"
+        intervals [154]:
+            xmin = 20.580000
+            xmax = 20.660000
+            text = "v"
+        intervals [155]:
+            xmin = 20.660000
+            xmax = 20.710000
+            text = "<p:>"
+        intervals [156]:
+            xmin = 20.710000
+            xmax = 20.780000
+            text = "T"
+        intervals [157]:
+            xmin = 20.780000
+            xmax = 20.810000
+            text = "{"
+        intervals [158]:
+            xmin = 20.810000
+            xmax = 20.910000
+            text = "N"
+        intervals [159]:
+            xmin = 20.910000
+            xmax = 20.940000
+            text = "k"
+        intervals [160]:
+            xmin = 20.940000
+            xmax = 21.020000
+            text = "s"
+        intervals [161]:
+            xmin = 21.020000
+            xmax = 21.090000
+            text = "t"
+        intervals [162]:
+            xmin = 21.090000
+            xmax = 21.150000
+            text = "u:"
+        intervals [163]:
+            xmin = 21.150000
+            xmax = 21.210000
+            text = "g"
+        intervals [164]:
+            xmin = 21.210000
+            xmax = 21.400000
+            text = "Q"
+        intervals [165]:
+            xmin = 21.400000
+            xmax = 21.460000
+            text = "d"
+        intervals [166]:
+            xmin = 21.460000
+            xmax = 21.520000
+            text = "f"
+        intervals [167]:
+            xmin = 21.520000
+            xmax = 21.560000
+            text = "6"
+        intervals [168]:
+            xmin = 21.560000
+            xmax = 21.660000
+            text = "j"
+        intervals [169]:
+            xmin = 21.660000
+            xmax = 21.740000
+            text = "u:"
+        intervals [170]:
+            xmin = 21.740000
+            xmax = 21.790000
+            text = "b"
+        intervals [171]:
+            xmin = 21.790000
+            xmax = 21.860000
+            text = "R"
+        intervals [172]:
+            xmin = 21.860000
+            xmax = 21.950000
+            text = "V"
+        intervals [173]:
+            xmin = 21.950000
+            xmax = 21.990000
+            text = "D"
+        intervals [174]:
+            xmin = 21.990000
+            xmax = 22.090000
+            text = "3`"
+        intervals [175]:
+            xmin = 22.090000
+            xmax = 22.220000
+            text = "z"
+        intervals [176]:
+            xmin = 22.220000
+            xmax = 22.420000
+            text = "<p:>"
+        intervals [177]:
+            xmin = 22.420000
+            xmax = 22.540000
+            text = "{"
+        intervals [178]:
+            xmin = 22.540000
+            xmax = 22.610000
+            text = "z"
+        intervals [179]:
+            xmin = 22.610000
+            xmax = 22.700000
+            text = "I"
+        intervals [180]:
+            xmin = 22.700000
+            xmax = 22.780000
+            text = "z"
+        intervals [181]:
+            xmin = 22.780000
+            xmax = 22.830000
+            text = "<p:>"
+        intervals [182]:
+            xmin = 22.830000
+            xmax = 22.920000
+            text = "R"
+        intervals [183]:
+            xmin = 22.920000
+            xmax = 23.050000
+            text = "aI"
+        intervals [184]:
+            xmin = 23.050000
+            xmax = 23.130000
+            text = "t"
+        intervals [185]:
+            xmin = 23.130000
+            xmax = 23.470000
+            text = "<p:>"
+        intervals [186]:
+            xmin = 23.470000
+            xmax = 23.520000
+            text = "b"
+        intervals [187]:
+            xmin = 23.520000
+            xmax = 23.590000
+            text = "i:"
+        intervals [188]:
+            xmin = 23.590000
+            xmax = 23.670000
+            text = "k"
+        intervals [189]:
+            xmin = 23.670000
+            xmax = 23.720000
+            text = "O:"
+        intervals [190]:
+            xmin = 23.720000
+            xmax = 23.810000
+            text = "z"
+        intervals [191]:
+            xmin = 23.810000
+            xmax = 23.870000
+            text = "j"
+        intervals [192]:
+            xmin = 23.870000
+            xmax = 23.910000
+            text = "O:"
+        intervals [193]:
+            xmin = 23.910000
+            xmax = 23.940000
+            text = "R"
+        intervals [194]:
+            xmin = 23.940000
+            xmax = 24.080000
+            text = "f"
+        intervals [195]:
+            xmin = 24.080000
+            xmax = 24.200000
+            text = "eI"
+        intervals [196]:
+            xmin = 24.200000
+            xmax = 24.250000
+            text = "T"
+        intervals [197]:
+            xmin = 24.250000
+            xmax = 24.330000
+            text = "I"
+        intervals [198]:
+            xmin = 24.330000
+            xmax = 24.410000
+            text = "z"
+        intervals [199]:
+            xmin = 24.410000
+            xmax = 24.510000
+            text = "g"
+        intervals [200]:
+            xmin = 24.510000
+            xmax = 24.590000
+            text = "R"
+        intervals [201]:
+            xmin = 24.590000
+            xmax = 24.720000
+            text = "@U"
+        intervals [202]:
+            xmin = 24.720000
+            xmax = 24.770000
+            text = "I"
+        intervals [203]:
+            xmin = 24.770000
+            xmax = 24.830000
+            text = "N"
+        intervals [204]:
+            xmin = 24.830000
+            xmax = 24.880000
+            text = "V"
+        intervals [205]:
+            xmin = 24.880000
+            xmax = 24.990000
+            text = "b"
+        intervals [206]:
+            xmin = 24.990000
+            xmax = 25.060000
+            text = "V"
+        intervals [207]:
+            xmin = 25.060000
+            xmax = 25.130000
+            text = "n"
+        intervals [208]:
+            xmin = 25.130000
+            xmax = 25.160000
+            text = "d"
+        intervals [209]:
+            xmin = 25.160000
+            xmax = 25.210000
+            text = "V"
+        intervals [210]:
+            xmin = 25.210000
+            xmax = 25.270000
+            text = "n"
+        intervals [211]:
+            xmin = 25.270000
+            xmax = 25.300000
+            text = "t"
+        intervals [212]:
+            xmin = 25.300000
+            xmax = 25.390000
+            text = "l"
+        intervals [213]:
+            xmin = 25.390000
+            xmax = 25.470000
+            text = "i:"
+        intervals [214]:
+            xmin = 25.470000
+            xmax = 25.770000
+            text = "<p:>"
+        intervals [215]:
+            xmin = 25.770000
+            xmax = 25.850000
+            text = "V"
+        intervals [216]:
+            xmin = 25.850000
+            xmax = 25.910000
+            text = "n"
+        intervals [217]:
+            xmin = 25.910000
+            xmax = 25.940000
+            text = "D"
+        intervals [218]:
+            xmin = 25.940000
+            xmax = 25.980000
+            text = "V"
+        intervals [219]:
+            xmin = 25.980000
+            xmax = 26.160000
+            text = "l"
+        intervals [220]:
+            xmin = 26.160000
+            xmax = 26.320000
+            text = "V"
+        intervals [221]:
+            xmin = 26.320000
+            xmax = 26.400000
+            text = "v"
+        intervals [222]:
+            xmin = 26.400000
+            xmax = 26.470000
+            text = "V"
+        intervals [223]:
+            xmin = 26.470000
+            xmax = 26.520000
+            text = "v"
+        intervals [224]:
+            xmin = 26.520000
+            xmax = 26.630000
+            text = "E"
+        intervals [225]:
+            xmin = 26.630000
+            xmax = 26.690000
+            text = "v"
+        intervals [226]:
+            xmin = 26.690000
+            xmax = 26.730000
+            text = "3`"
+        intervals [227]:
+            xmin = 26.730000
+            xmax = 26.770000
+            text = "i:"
+        intervals [228]:
+            xmin = 26.770000
+            xmax = 26.900000
+            text = "w"
+        intervals [229]:
+            xmin = 26.900000
+            xmax = 26.940000
+            text = "V"
+        intervals [230]:
+            xmin = 26.940000
+            xmax = 26.980000
+            text = "n"
+        intervals [231]:
+            xmin = 26.980000
+            xmax = 27.040000
+            text = "V"
+        intervals [232]:
+            xmin = 27.040000
+            xmax = 27.090000
+            text = "v"
+        intervals [233]:
+            xmin = 27.090000
+            xmax = 27.190000
+            text = "j"
+        intervals [234]:
+            xmin = 27.190000
+            xmax = 27.280000
+            text = "u:"
+        intervals [235]:
+            xmin = 27.280000
+            xmax = 27.420000
+            text = "f"
+        intervals [236]:
+            xmin = 27.420000
+            xmax = 27.520000
+            text = "6"
+        intervals [237]:
+            xmin = 27.520000
+            xmax = 27.650000
+            text = "w"
+        intervals [238]:
+            xmin = 27.650000
+            xmax = 27.700000
+            text = "V"
+        intervals [239]:
+            xmin = 27.700000
+            xmax = 27.740000
+            text = "n"
+        intervals [240]:
+            xmin = 27.740000
+            xmax = 27.800000
+            text = "V"
+        intervals [241]:
+            xmin = 27.800000
+            xmax = 27.860000
+            text = "n"
+        intervals [242]:
+            xmin = 27.860000
+            xmax = 27.970000
+            text = "V"
+        intervals [243]:
+            xmin = 27.970000
+            xmax = 28.010000
+            text = "D"
+        intervals [244]:
+            xmin = 28.010000
+            xmax = 28.140000
+            text = "3`"
+        intervals [245]:
+            xmin = 28.140000
+            xmax = 28.210000
+            text = "I"
+        intervals [246]:
+            xmin = 28.210000
+            xmax = 28.300000
+            text = "z"
+        intervals [247]:
+            xmin = 28.300000
+            xmax = 28.370000
+            text = "I"
+        intervals [248]:
+            xmin = 28.370000
+            xmax = 28.440000
+            text = "n"
+        intervals [249]:
+            xmin = 28.440000
+            xmax = 28.590000
+            text = "k"
+        intervals [250]:
+            xmin = 28.590000
+            xmax = 28.620000
+            text = "R"
+        intervals [251]:
+            xmin = 28.620000
+            xmax = 28.710000
+            text = "i:"
+        intervals [252]:
+            xmin = 28.710000
+            xmax = 28.780000
+            text = "s"
+        intervals [253]:
+            xmin = 28.780000
+            xmax = 28.860000
+            text = "I"
+        intervals [254]:
+            xmin = 28.860000
+            xmax = 29.010000
+            text = "N"
+        intervals [255]:
+            xmin = 29.010000
+            xmax = 29.610000
+            text = "<p:>"
+        intervals [256]:
+            xmin = 29.610000
+            xmax = 29.660000
+            text = "D"
+        intervals [257]:
+            xmin = 29.660000
+            xmax = 29.730000
+            text = "E"
+        intervals [258]:
+            xmin = 29.730000
+            xmax = 29.770000
+            text = "R"
+        intervals [259]:
+            xmin = 29.770000
+            xmax = 29.930000
+            text = "f"
+        intervals [260]:
+            xmin = 29.930000
+            xmax = 30.040000
+            text = "O:"
+        intervals [261]:
+            xmin = 30.040000
+            xmax = 30.170000
+            text = "R"
+        intervals [262]:
+            xmin = 30.170000
+            xmax = 30.220000
+            text = "w"
+        intervals [263]:
+            xmin = 30.220000
+            xmax = 30.330000
+            text = "i:"
+        intervals [264]:
+            xmin = 30.330000
+            xmax = 30.370000
+            text = "aU"
+        intervals [265]:
+            xmin = 30.370000
+            xmax = 30.440000
+            text = "3`"
+        intervals [266]:
+            xmin = 30.440000
+            xmax = 30.570000
+            text = "s"
+        intervals [267]:
+            xmin = 30.570000
+            xmax = 30.620000
+            text = "E"
+        intervals [268]:
+            xmin = 30.620000
+            xmax = 30.690000
+            text = "l"
+        intervals [269]:
+            xmin = 30.690000
+            xmax = 30.720000
+            text = "v"
+        intervals [270]:
+            xmin = 30.720000
+            xmax = 30.800000
+            text = "z"
+        intervals [271]:
+            xmin = 30.800000
+            xmax = 30.900000
+            text = "b"
+        intervals [272]:
+            xmin = 30.900000
+            xmax = 31.040000
+            text = "@U"
+        intervals [273]:
+            xmin = 31.040000
+            xmax = 31.110000
+            text = "s"
+        intervals [274]:
+            xmin = 31.110000
+            xmax = 31.170000
+            text = "t"
+        intervals [275]:
+            xmin = 31.170000
+            xmax = 31.230000
+            text = "V"
+        intervals [276]:
+            xmin = 31.230000
+            xmax = 31.290000
+            text = "b"
+        intervals [277]:
+            xmin = 31.290000
+            xmax = 31.410000
+            text = "aU"
+        intervals [278]:
+            xmin = 31.410000
+            xmax = 31.440000
+            text = "t"
+        intervals [279]:
+            xmin = 31.440000
+            xmax = 31.530000
+            text = "dZ"
+        intervals [280]:
+            xmin = 31.530000
+            xmax = 31.610000
+            text = "u:"
+        intervals [281]:
+            xmin = 31.610000
+            xmax = 31.650000
+            text = "I"
+        intervals [282]:
+            xmin = 31.650000
+            xmax = 31.690000
+            text = "n"
+        intervals [283]:
+            xmin = 31.690000
+            xmax = 31.720000
+            text = "D"
+        intervals [284]:
+            xmin = 31.720000
+            xmax = 31.760000
+            text = "V"
+        intervals [285]:
+            xmin = 31.760000
+            xmax = 31.870000
+            text = "tS"
+        intervals [286]:
+            xmin = 31.870000
+            xmax = 31.980000
+            text = "3`"
+        intervals [287]:
+            xmin = 31.980000
+            xmax = 32.030000
+            text = "tS"
+        intervals [288]:
+            xmin = 32.030000
+            xmax = 32.060000
+            text = "V"
+        intervals [289]:
+            xmin = 32.060000
+            xmax = 32.160000
+            text = "z"
+        intervals [290]:
+            xmin = 32.160000
+            xmax = 32.200000
+            text = "V"
+        intervals [291]:
+            xmin = 32.200000
+            xmax = 32.250000
+            text = "v"
+        intervals [292]:
+            xmin = 32.250000
+            xmax = 32.320000
+            text = "g"
+        intervals [293]:
+            xmin = 32.320000
+            xmax = 32.590000
+            text = "Q"
+        intervals [294]:
+            xmin = 32.590000
+            xmax = 32.660000
+            text = "d"
+        intervals [295]:
+            xmin = 32.660000
+            xmax = 32.970000
+            text = "<p:>"
+        intervals [296]:
+            xmin = 32.970000
+            xmax = 33.040000
+            text = "f"
+        intervals [297]:
+            xmin = 33.040000
+            xmax = 33.100000
+            text = "6"
+        intervals [298]:
+            xmin = 33.100000
+            xmax = 33.170000
+            text = "j"
+        intervals [299]:
+            xmin = 33.170000
+            xmax = 33.210000
+            text = "O:"
+        intervals [300]:
+            xmin = 33.210000
+            xmax = 33.330000
+            text = "s"
+        intervals [301]:
+            xmin = 33.330000
+            xmax = 33.380000
+            text = "t"
+        intervals [302]:
+            xmin = 33.380000
+            xmax = 33.480000
+            text = "E"
+        intervals [303]:
+            xmin = 33.480000
+            xmax = 33.520000
+            text = "d"
+        intervals [304]:
+            xmin = 33.520000
+            xmax = 33.630000
+            text = "f"
+        intervals [305]:
+            xmin = 33.630000
+            xmax = 33.790000
+            text = "{"
+        intervals [306]:
+            xmin = 33.790000
+            xmax = 33.850000
+            text = "s"
+        intervals [307]:
+            xmin = 33.850000
+            xmax = 33.900000
+            text = "t"
+        intervals [308]:
+            xmin = 33.900000
+            xmax = 33.930000
+            text = "n"
+        intervals [309]:
+            xmin = 33.930000
+            xmax = 33.990000
+            text = "V"
+        intervals [310]:
+            xmin = 33.990000
+            xmax = 34.150000
+            text = "s"
+        intervals [311]:
+            xmin = 34.150000
+            xmax = 34.280000
+            text = "<p:>"
+        intervals [312]:
+            xmin = 34.280000
+            xmax = 34.340000
+            text = "V"
+        intervals [313]:
+            xmin = 34.340000
+            xmax = 34.380000
+            text = "n"
+        intervals [314]:
+            xmin = 34.380000
+            xmax = 34.410000
+            text = "d"
+        intervals [315]:
+            xmin = 34.410000
+            xmax = 34.630000
+            text = "f"
+        intervals [316]:
+            xmin = 34.630000
+            xmax = 34.840000
+            text = "eI"
+        intervals [317]:
+            xmin = 34.840000
+            xmax = 34.910000
+            text = "T"
+        intervals [318]:
+            xmin = 34.910000
+            xmax = 34.990000
+            text = "I"
+        intervals [319]:
+            xmin = 34.990000
+            xmax = 35.050000
+            text = "n"
+        intervals [320]:
+            xmin = 35.050000
+            xmax = 35.110000
+            text = "<p:>"
+        intervals [321]:
+            xmin = 35.110000
+            xmax = 35.160000
+            text = "O:"
+        intervals [322]:
+            xmin = 35.160000
+            xmax = 35.320000
+            text = "l"
+        intervals [323]:
+            xmin = 35.320000
+            xmax = 35.420000
+            text = "j"
+        intervals [324]:
+            xmin = 35.420000
+            xmax = 35.460000
+            text = "O:"
+        intervals [325]:
+            xmin = 35.460000
+            xmax = 35.490000
+            text = "R"
+        intervals [326]:
+            xmin = 35.490000
+            xmax = 35.570000
+            text = "p"
+        intervals [327]:
+            xmin = 35.570000
+            xmax = 35.660000
+            text = "3`"
+        intervals [328]:
+            xmin = 35.660000
+            xmax = 35.750000
+            text = "s"
+        intervals [329]:
+            xmin = 35.750000
+            xmax = 35.780000
+            text = "V"
+        intervals [330]:
+            xmin = 35.780000
+            xmax = 35.890000
+            text = "k"
+        intervals [331]:
+            xmin = 35.890000
+            xmax = 35.930000
+            text = "j"
+        intervals [332]:
+            xmin = 35.930000
+            xmax = 35.980000
+            text = "u:"
+        intervals [333]:
+            xmin = 35.980000
+            xmax = 36.100000
+            text = "S"
+        intervals [334]:
+            xmin = 36.100000
+            xmax = 36.130000
+            text = "V"
+        intervals [335]:
+            xmin = 36.130000
+            xmax = 36.220000
+            text = "n"
+        intervals [336]:
+            xmin = 36.220000
+            xmax = 36.300000
+            text = "s"
+        intervals [337]:
+            xmin = 36.300000
+            xmax = 36.610000
+            text = "<p:>"
+        intervals [338]:
+            xmin = 36.610000
+            xmax = 36.770000
+            text = "?"
+        intervals [339]:
+            xmin = 36.770000
+            xmax = 36.810000
+            text = "V"
+        intervals [340]:
+            xmin = 36.810000
+            xmax = 36.860000
+            text = "n"
+        intervals [341]:
+            xmin = 36.860000
+            xmax = 36.920000
+            text = "I"
+        intervals [342]:
+            xmin = 36.920000
+            xmax = 37.040000
+            text = "n"
+        intervals [343]:
+            xmin = 37.040000
+            xmax = 37.070000
+            text = "D"
+        intervals [344]:
+            xmin = 37.070000
+            xmax = 37.100000
+            text = "V"
+        intervals [345]:
+            xmin = 37.100000
+            xmax = 37.140000
+            text = "V"
+        intervals [346]:
+            xmin = 37.140000
+            xmax = 37.260000
+            text = "f"
+        intervals [347]:
+            xmin = 37.260000
+            xmax = 37.310000
+            text = "l"
+        intervals [348]:
+            xmin = 37.310000
+            xmax = 37.350000
+            text = "I"
+        intervals [349]:
+            xmin = 37.350000
+            xmax = 37.400000
+            text = "k"
+        intervals [350]:
+            xmin = 37.400000
+            xmax = 37.490000
+            text = "S"
+        intervals [351]:
+            xmin = 37.490000
+            xmax = 37.520000
+            text = "V"
+        intervals [352]:
+            xmin = 37.520000
+            xmax = 37.610000
+            text = "n"
+        intervals [353]:
+            xmin = 37.610000
+            xmax = 37.660000
+            text = "z"
+        intervals [354]:
+            xmin = 37.660000
+            xmax = 37.700000
+            text = "D"
+        intervals [355]:
+            xmin = 37.700000
+            xmax = 37.730000
+            text = "E"
+        intervals [356]:
+            xmin = 37.730000
+            xmax = 37.860000
+            text = "j"
+        intervals [357]:
+            xmin = 37.860000
+            xmax = 37.940000
+            text = "u:"
+        intervals [358]:
+            xmin = 37.940000
+            xmax = 38.070000
+            text = "3`"
+        intervals [359]:
+            xmin = 38.070000
+            xmax = 38.110000
+            text = "E"
+        intervals [360]:
+            xmin = 38.110000
+            xmax = 38.170000
+            text = "n"
+        intervals [361]:
+            xmin = 38.170000
+            xmax = 38.210000
+            text = "d"
+        intervals [362]:
+            xmin = 38.210000
+            xmax = 38.240000
+            text = "j"
+        intervals [363]:
+            xmin = 38.240000
+            xmax = 38.280000
+            text = "U"
+        intervals [364]:
+            xmin = 38.280000
+            xmax = 38.410000
+            text = "R"
+        intervals [365]:
+            xmin = 38.410000
+            xmax = 38.470000
+            text = "I"
+        intervals [366]:
+            xmin = 38.470000
+            xmax = 38.530000
+            text = "N"
+        intervals [367]:
+            xmin = 38.530000
+            xmax = 39.280000
+            text = "<p:>"
+        intervals [368]:
+            xmin = 39.280000
+            xmax = 39.320000
+            text = "D"
+        intervals [369]:
+            xmin = 39.320000
+            xmax = 39.380000
+            text = "I"
+        intervals [370]:
+            xmin = 39.380000
+            xmax = 39.450000
+            text = "s"
+        intervals [371]:
+            xmin = 39.450000
+            xmax = 39.500000
+            text = "I"
+        intervals [372]:
+            xmin = 39.500000
+            xmax = 39.645000
+            text = "z"
+        intervals [373]:
+            xmin = 39.645000
+            xmax = 39.760000
+            text = "E"
+        intervals [374]:
+            xmin = 39.760000
+            xmax = 39.820000
+            text = "v"
+        intervals [375]:
+            xmin = 39.820000
+            xmax = 39.880000
+            text = "V"
+        intervals [376]:
+            xmin = 39.880000
+            xmax = 39.920000
+            text = "d"
+        intervals [377]:
+            xmin = 39.920000
+            xmax = 39.950000
+            text = "V"
+        intervals [378]:
+            xmin = 39.950000
+            xmax = 40.080000
+            text = "n"
+        intervals [379]:
+            xmin = 40.080000
+            xmax = 40.210000
+            text = "s"
+        intervals [380]:
+            xmin = 40.210000
+            xmax = 40.280000
+            text = "V"
+        intervals [381]:
+            xmin = 40.280000
+            xmax = 40.310000
+            text = "v"
+        intervals [382]:
+            xmin = 40.310000
+            xmax = 40.370000
+            text = "D"
+        intervals [383]:
+            xmin = 40.370000
+            xmax = 40.400000
+            text = "V"
+        intervals [384]:
+            xmin = 40.400000
+            xmax = 40.560000
+            text = "R"
+        intervals [385]:
+            xmin = 40.560000
+            xmax = 40.640000
+            text = "aI"
+        intervals [386]:
+            xmin = 40.640000
+            xmax = 40.780000
+            text = "tS"
+        intervals [387]:
+            xmin = 40.780000
+            xmax = 40.810000
+            text = "V"
+        intervals [388]:
+            xmin = 40.810000
+            xmax = 40.930000
+            text = "s"
+        intervals [389]:
+            xmin = 40.930000
+            xmax = 41.030000
+            text = "dZ"
+        intervals [390]:
+            xmin = 41.030000
+            xmax = 41.150000
+            text = "V"
+        intervals [391]:
+            xmin = 41.150000
+            xmax = 41.230000
+            text = "dZ"
+        intervals [392]:
+            xmin = 41.230000
+            xmax = 41.300000
+            text = "m"
+        intervals [393]:
+            xmin = 41.300000
+            xmax = 41.330000
+            text = "V"
+        intervals [394]:
+            xmin = 41.330000
+            xmax = 41.360000
+            text = "n"
+        intervals [395]:
+            xmin = 41.360000
+            xmax = 41.450000
+            text = "V"
+        intervals [396]:
+            xmin = 41.450000
+            xmax = 41.480000
+            text = "v"
+        intervals [397]:
+            xmin = 41.480000
+            xmax = 41.570000
+            text = "g"
+        intervals [398]:
+            xmin = 41.570000
+            xmax = 41.850000
+            text = "Q"
+        intervals [399]:
+            xmin = 41.850000
+            xmax = 42.220000
+            text = "d"
+        intervals [400]:
+            xmin = 42.220000
+            xmax = 42.270000
+            text = "D"
+        intervals [401]:
+            xmin = 42.270000
+            xmax = 42.310000
+            text = "{"
+        intervals [402]:
+            xmin = 42.310000
+            xmax = 42.360000
+            text = "t"
+        intervals [403]:
+            xmin = 42.360000
+            xmax = 42.480000
+            text = "j"
+        intervals [404]:
+            xmin = 42.480000
+            xmax = 42.530000
+            text = "u:"
+        intervals [405]:
+            xmin = 42.530000
+            xmax = 42.590000
+            text = "m"
+        intervals [406]:
+            xmin = 42.590000
+            xmax = 42.690000
+            text = "eI"
+        intervals [407]:
+            xmin = 42.690000
+            xmax = 42.720000
+            text = "b"
+        intervals [408]:
+            xmin = 42.720000
+            xmax = 42.800000
+            text = "i:"
+        intervals [409]:
+            xmin = 42.800000
+            xmax = 42.900000
+            text = "k"
+        intervals [410]:
+            xmin = 42.900000
+            xmax = 42.930000
+            text = "V"
+        intervals [411]:
+            xmin = 42.930000
+            xmax = 42.970000
+            text = "n"
+        intervals [412]:
+            xmin = 42.970000
+            xmax = 43.120000
+            text = "s"
+        intervals [413]:
+            xmin = 43.120000
+            xmax = 43.180000
+            text = "I"
+        intervals [414]:
+            xmin = 43.180000
+            xmax = 43.210000
+            text = "d"
+        intervals [415]:
+            xmin = 43.210000
+            xmax = 43.330000
+            text = "3`"
+        intervals [416]:
+            xmin = 43.330000
+            xmax = 43.360000
+            text = "d"
+        intervals [417]:
+            xmin = 43.360000
+            xmax = 43.490000
+            text = "w"
+        intervals [418]:
+            xmin = 43.490000
+            xmax = 43.700000
+            text = "3`"
+        intervals [419]:
+            xmin = 43.700000
+            xmax = 43.740000
+            text = "D"
+        intervals [420]:
+            xmin = 43.740000
+            xmax = 43.890000
+            text = "i:"
+        intervals [421]:
+            xmin = 43.890000
+            xmax = 43.930000
+            text = "V"
+        intervals [422]:
+            xmin = 43.930000
+            xmax = 43.975000
+            text = "v"
+        intervals [423]:
+            xmin = 43.975000
+            xmax = 44.020000
+            text = "D"
+        intervals [424]:
+            xmin = 44.020000
+            xmax = 44.050000
+            text = "V"
+        intervals [425]:
+            xmin = 44.050000
+            xmax = 44.180000
+            text = "k"
+        intervals [426]:
+            xmin = 44.180000
+            xmax = 44.220000
+            text = "I"
+        intervals [427]:
+            xmin = 44.220000
+            xmax = 44.320000
+            text = "N"
+        intervals [428]:
+            xmin = 44.320000
+            xmax = 44.350000
+            text = "d"
+        intervals [429]:
+            xmin = 44.350000
+            xmax = 44.380000
+            text = "V"
+        intervals [430]:
+            xmin = 44.380000
+            xmax = 44.460000
+            text = "m"
+        intervals [431]:
+            xmin = 44.460000
+            xmax = 44.500000
+            text = "V"
+        intervals [432]:
+            xmin = 44.500000
+            xmax = 44.550000
+            text = "v"
+        intervals [433]:
+            xmin = 44.550000
+            xmax = 44.620000
+            text = "g"
+        intervals [434]:
+            xmin = 44.620000
+            xmax = 44.850000
+            text = "Q"
+        intervals [435]:
+            xmin = 44.850000
+            xmax = 44.980000
+            text = "d"
+        intervals [436]:
+            xmin = 44.980000
+            xmax = 45.200000
+            text = "<p:>"
+        intervals [437]:
+            xmin = 45.200000
+            xmax = 45.270000
+            text = "f"
+        intervals [438]:
+            xmin = 45.270000
+            xmax = 45.310000
+            text = "O:"
+        intervals [439]:
+            xmin = 45.310000
+            xmax = 45.340000
+            text = "R"
+        intervals [440]:
+            xmin = 45.340000
+            xmax = 45.390000
+            text = "w"
+        intervals [441]:
+            xmin = 45.390000
+            xmax = 45.440000
+            text = "I"
+        intervals [442]:
+            xmin = 45.440000
+            xmax = 45.540000
+            text = "tS"
+        intervals [443]:
+            xmin = 45.540000
+            xmax = 45.620000
+            text = "j"
+        intervals [444]:
+            xmin = 45.620000
+            xmax = 45.770000
+            text = "u:"
+        intervals [445]:
+            xmin = 45.770000
+            xmax = 45.920000
+            text = "6"
+        intervals [446]:
+            xmin = 45.920000
+            xmax = 46.000000
+            text = "O:"
+        intervals [447]:
+            xmin = 46.000000
+            xmax = 46.110000
+            text = "l"
+        intervals [448]:
+            xmin = 46.110000
+            xmax = 46.250000
+            text = "s"
+        intervals [449]:
+            xmin = 46.250000
+            xmax = 46.330000
+            text = "@U"
+        intervals [450]:
+            xmin = 46.330000
+            xmax = 46.510000
+            text = "s"
+        intervals [451]:
+            xmin = 46.510000
+            xmax = 46.590000
+            text = "V"
+        intervals [452]:
+            xmin = 46.590000
+            xmax = 46.700000
+            text = "f"
+        intervals [453]:
+            xmin = 46.700000
+            xmax = 46.840000
+            text = "3`"
+        intervals [454]:
+            xmin = 46.840000
+            xmax = 46.870000
+            text = "I"
+        intervals [455]:
+            xmin = 46.870000
+            xmax = 46.960000
+            text = "N"
+        intervals [456]:
+            xmin = 46.960000
+            xmax = 47.410000
+            text = "<p:>"
+        intervals [457]:
+            xmin = 47.410000
+            xmax = 47.520000
+            text = "s"
+        intervals [458]:
+            xmin = 47.520000
+            xmax = 47.570000
+            text = "I"
+        intervals [459]:
+            xmin = 47.570000
+            xmax = 47.600000
+            text = "n"
+        intervals [460]:
+            xmin = 47.600000
+            xmax = 47.690000
+            text = "s"
+        intervals [461]:
+            xmin = 47.690000
+            xmax = 47.740000
+            text = "I"
+        intervals [462]:
+            xmin = 47.740000
+            xmax = 47.850000
+            text = "n"
+        intervals [463]:
+            xmin = 47.850000
+            xmax = 47.910000
+            text = "d"
+        intervals [464]:
+            xmin = 47.910000
+            xmax = 48.170000
+            text = "i:"
+        intervals [465]:
+            xmin = 48.170000
+            xmax = 48.240000
+            text = "d"
+        intervals [466]:
+            xmin = 48.240000
+            xmax = 48.290000
+            text = "g"
+        intervals [467]:
+            xmin = 48.290000
+            xmax = 48.440000
+            text = "Q"
+        intervals [468]:
+            xmin = 48.440000
+            xmax = 48.520000
+            text = "d"
+        intervals [469]:
+            xmin = 48.520000
+            xmax = 48.570000
+            text = "k"
+        intervals [470]:
+            xmin = 48.570000
+            xmax = 48.600000
+            text = "V"
+        intervals [471]:
+            xmin = 48.600000
+            xmax = 48.640000
+            text = "n"
+        intervals [472]:
+            xmin = 48.640000
+            xmax = 48.790000
+            text = "s"
+        intervals [473]:
+            xmin = 48.790000
+            xmax = 48.860000
+            text = "I"
+        intervals [474]:
+            xmin = 48.860000
+            xmax = 48.890000
+            text = "d"
+        intervals [475]:
+            xmin = 48.890000
+            xmax = 48.980000
+            text = "3`"
+        intervals [476]:
+            xmin = 48.980000
+            xmax = 49.070000
+            text = "z"
+        intervals [477]:
+            xmin = 49.070000
+            xmax = 49.220000
+            text = "I"
+        intervals [478]:
+            xmin = 49.220000
+            xmax = 49.270000
+            text = "t"
+        intervals [479]:
+            xmin = 49.270000
+            xmax = 49.350000
+            text = "dZ"
+        intervals [480]:
+            xmin = 49.350000
+            xmax = 49.510000
+            text = "V"
+        intervals [481]:
+            xmin = 49.510000
+            xmax = 49.620000
+            text = "s"
+        intervals [482]:
+            xmin = 49.620000
+            xmax = 49.660000
+            text = "t"
+        intervals [483]:
+            xmin = 49.660000
+            xmax = 49.700000
+            text = "t"
+        intervals [484]:
+            xmin = 49.700000
+            xmax = 49.760000
+            text = "u:"
+        intervals [485]:
+            xmin = 49.760000
+            xmax = 49.820000
+            text = "R"
+        intervals [486]:
+            xmin = 49.820000
+            xmax = 49.900000
+            text = "i:"
+        intervals [487]:
+            xmin = 49.900000
+            xmax = 50.010000
+            text = "p"
+        intervals [488]:
+            xmin = 50.010000
+            xmax = 50.170000
+            text = "eI"
+        intervals [489]:
+            xmin = 50.170000
+            xmax = 50.270000
+            text = "w"
+        intervals [490]:
+            xmin = 50.270000
+            xmax = 50.310000
+            text = "I"
+        intervals [491]:
+            xmin = 50.310000
+            xmax = 50.350000
+            text = "D"
+        intervals [492]:
+            xmin = 50.350000
+            xmax = 50.400000
+            text = "V"
+        intervals [493]:
+            xmin = 50.400000
+            xmax = 50.530000
+            text = "f"
+        intervals [494]:
+            xmin = 50.530000
+            xmax = 50.580000
+            text = "l"
+        intervals [495]:
+            xmin = 50.580000
+            xmax = 50.630000
+            text = "I"
+        intervals [496]:
+            xmin = 50.630000
+            xmax = 50.670000
+            text = "k"
+        intervals [497]:
+            xmin = 50.670000
+            xmax = 50.790000
+            text = "S"
+        intervals [498]:
+            xmin = 50.790000
+            xmax = 50.830000
+            text = "V"
+        intervals [499]:
+            xmin = 50.830000
+            xmax = 50.930000
+            text = "n"
+        intervals [500]:
+            xmin = 50.930000
+            xmax = 51.200000
+            text = "<p:>"
+        intervals [501]:
+            xmin = 51.200000
+            xmax = 51.270000
+            text = "D"
+        intervals [502]:
+            xmin = 51.270000
+            xmax = 51.460000
+            text = "@U"
+        intervals [503]:
+            xmin = 51.460000
+            xmax = 51.540000
+            text = "z"
+        intervals [504]:
+            xmin = 51.540000
+            xmax = 51.570000
+            text = "h"
+        intervals [505]:
+            xmin = 51.570000
+            xmax = 51.670000
+            text = "u:"
+        intervals [506]:
+            xmin = 51.670000
+            xmax = 51.700000
+            text = "V"
+        intervals [507]:
+            xmin = 51.700000
+            xmax = 51.810000
+            text = "f"
+        intervals [508]:
+            xmin = 51.810000
+            xmax = 51.870000
+            text = "l"
+        intervals [509]:
+            xmin = 51.870000
+            xmax = 51.920000
+            text = "I"
+        intervals [510]:
+            xmin = 51.920000
+            xmax = 51.950000
+            text = "k"
+        intervals [511]:
+            xmin = 51.950000
+            xmax = 52.050000
+            text = "t"
+        intervals [512]:
+            xmin = 52.050000
+            xmax = 52.200000
+            text = "j"
+        intervals [513]:
+            xmin = 52.200000
+            xmax = 52.370000
+            text = "u:"
+        intervals [514]:
+            xmin = 52.370000
+            xmax = 52.900000
+            text = "<p:>"
+        intervals [515]:
+            xmin = 52.900000
+            xmax = 52.930000
+            text = "V"
+        intervals [516]:
+            xmin = 52.930000
+            xmax = 52.980000
+            text = "n"
+        intervals [517]:
+            xmin = 52.980000
+            xmax = 53.010000
+            text = "d"
+        intervals [518]:
+            xmin = 53.010000
+            xmax = 53.040000
+            text = "t"
+        intervals [519]:
+            xmin = 53.040000
+            xmax = 53.080000
+            text = "u:"
+        intervals [520]:
+            xmin = 53.080000
+            xmax = 53.190000
+            text = "g"
+        intervals [521]:
+            xmin = 53.190000
+            xmax = 53.270000
+            text = "R"
+        intervals [522]:
+            xmin = 53.270000
+            xmax = 53.340000
+            text = "{"
+        intervals [523]:
+            xmin = 53.340000
+            xmax = 53.370000
+            text = "n"
+        intervals [524]:
+            xmin = 53.370000
+            xmax = 53.430000
+            text = "t"
+        intervals [525]:
+            xmin = 53.430000
+            xmax = 53.490000
+            text = "R"
+        intervals [526]:
+            xmin = 53.490000
+            xmax = 53.530000
+            text = "I"
+        intervals [527]:
+            xmin = 53.530000
+            xmax = 53.670000
+            text = "l"
+        intervals [528]:
+            xmin = 53.670000
+            xmax = 53.870000
+            text = "i:"
+        intervals [529]:
+            xmin = 53.870000
+            xmax = 53.980000
+            text = "f"
+        intervals [530]:
+            xmin = 53.980000
+            xmax = 54.100000
+            text = "t"
+        intervals [531]:
+            xmin = 54.100000
+            xmax = 54.140000
+            text = "u:"
+        intervals [532]:
+            xmin = 54.140000
+            xmax = 54.320000
+            text = "j"
+        intervals [533]:
+            xmin = 54.320000
+            xmax = 54.510000
+            text = "u:"
+        intervals [534]:
+            xmin = 54.510000
+            xmax = 54.580000
+            text = "h"
+        intervals [535]:
+            xmin = 54.580000
+            xmax = 54.660000
+            text = "u:"
+        intervals [536]:
+            xmin = 54.660000
+            xmax = 54.740000
+            text = "Q"
+        intervals [537]:
+            xmin = 54.740000
+            xmax = 54.840000
+            text = "R"
+        intervals [538]:
+            xmin = 54.840000
+            xmax = 54.870000
+            text = "V"
+        intervals [539]:
+            xmin = 54.870000
+            xmax = 54.990000
+            text = "f"
+        intervals [540]:
+            xmin = 54.990000
+            xmax = 55.070000
+            text = "l"
+        intervals [541]:
+            xmin = 55.070000
+            xmax = 55.100000
+            text = "I"
+        intervals [542]:
+            xmin = 55.100000
+            xmax = 55.130000
+            text = "k"
+        intervals [543]:
+            xmin = 55.130000
+            xmax = 55.230000
+            text = "t"
+        intervals [544]:
+            xmin = 55.230000
+            xmax = 55.260000
+            text = "V"
+        intervals [545]:
+            xmin = 55.260000
+            xmax = 55.380000
+            text = "d"
+        intervals [546]:
+            xmin = 55.380000
+            xmax = 55.790000
+            text = "<p:>"
+        intervals [547]:
+            xmin = 55.790000
+            xmax = 55.840000
+            text = "{"
+        intervals [548]:
+            xmin = 55.840000
+            xmax = 55.940000
+            text = "z"
+        intervals [549]:
+            xmin = 55.940000
+            xmax = 56.060000
+            text = "w"
+        intervals [550]:
+            xmin = 56.060000
+            xmax = 56.100000
+            text = "E"
+        intervals [551]:
+            xmin = 56.100000
+            xmax = 56.190000
+            text = "l"
+        intervals [552]:
+            xmin = 56.190000
+            xmax = 56.220000
+            text = "I"
+        intervals [553]:
+            xmin = 56.220000
+            xmax = 56.290000
+            text = "z"
+        intervals [554]:
+            xmin = 56.290000
+            xmax = 56.360000
+            text = "t"
+        intervals [555]:
+            xmin = 56.360000
+            xmax = 56.440000
+            text = "u:"
+        intervals [556]:
+            xmin = 56.440000
+            xmax = 56.470000
+            text = "j"
+        intervals [557]:
+            xmin = 56.470000
+            xmax = 56.580000
+            text = "u:"
+        intervals [558]:
+            xmin = 56.580000
+            xmax = 56.950000
+            text = "z"
+        intervals [559]:
+            xmin = 56.950000
+            xmax = 57.180000
+            text = "<p:>"
+        intervals [560]:
+            xmin = 57.180000
+            xmax = 57.240000
+            text = "w"
+        intervals [561]:
+            xmin = 57.240000
+            xmax = 57.270000
+            text = "E"
+        intervals [562]:
+            xmin = 57.270000
+            xmax = 57.320000
+            text = "n"
+        intervals [563]:
+            xmin = 57.320000
+            xmax = 57.350000
+            text = "D"
+        intervals [564]:
+            xmin = 57.350000
+            xmax = 57.380000
+            text = "V"
+        intervals [565]:
+            xmin = 57.380000
+            xmax = 57.480000
+            text = "l"
+        intervals [566]:
+            xmin = 57.480000
+            xmax = 57.640000
+            text = "O:"
+        intervals [567]:
+            xmin = 57.640000
+            xmax = 57.720000
+            text = "R"
+        intervals [568]:
+            xmin = 57.720000
+            xmax = 57.750000
+            text = "d"
+        intervals [569]:
+            xmin = 57.750000
+            xmax = 57.840000
+            text = "dZ"
+        intervals [570]:
+            xmin = 57.840000
+            xmax = 58.000000
+            text = "i:"
+        intervals [571]:
+            xmin = 58.000000
+            xmax = 58.070000
+            text = "z"
+        intervals [572]:
+            xmin = 58.070000
+            xmax = 58.120000
+            text = "V"
+        intervals [573]:
+            xmin = 58.120000
+            xmax = 58.170000
+            text = "s"
+        intervals [574]:
+            xmin = 58.170000
+            xmax = 58.240000
+            text = "I"
+        intervals [575]:
+            xmin = 58.240000
+            xmax = 58.340000
+            text = "z"
+        intervals [576]:
+            xmin = 58.340000
+            xmax = 58.400000
+            text = "R"
+        intervals [577]:
+            xmin = 58.400000
+            xmax = 58.500000
+            text = "I"
+        intervals [578]:
+            xmin = 58.500000
+            xmax = 58.530000
+            text = "v"
+        intervals [579]:
+            xmin = 58.530000
+            xmax = 58.730000
+            text = "i:"
+        intervals [580]:
+            xmin = 58.730000
+            xmax = 58.830000
+            text = "l"
+        intervals [581]:
+            xmin = 58.830000
+            xmax = 58.890000
+            text = "d"
+        intervals [582]:
+            xmin = 58.890000
+            xmax = 58.920000
+            text = "f"
+        intervals [583]:
+            xmin = 58.920000
+            xmax = 58.980000
+            text = "6"
+        intervals [584]:
+            xmin = 58.980000
+            xmax = 59.030000
+            text = "m"
+        intervals [585]:
+            xmin = 59.030000
+            xmax = 59.140000
+            text = "h\"
+        intervals [586]:
+            xmin = 59.140000
+            xmax = 59.200000
+            text = "E"
+        intervals [587]:
+            xmin = 59.200000
+            xmax = 59.250000
+            text = "v"
+        intervals [588]:
+            xmin = 59.250000
+            xmax = 59.300000
+            text = "V"
+        intervals [589]:
+            xmin = 59.300000
+            xmax = 59.420000
+            text = "n"
+        intervals [590]:
+            xmin = 59.420000
+            xmax = 59.710000
+            text = "<p:>"
+        intervals [591]:
+            xmin = 59.710000
+            xmax = 59.760000
+            text = "w"
+        intervals [592]:
+            xmin = 59.760000
+            xmax = 59.790000
+            text = "I"
+        intervals [593]:
+            xmin = 59.790000
+            xmax = 59.830000
+            text = "D"
+        intervals [594]:
+            xmin = 59.830000
+            xmax = 59.890000
+            text = "I"
+        intervals [595]:
+            xmin = 59.890000
+            xmax = 59.970000
+            text = "z"
+        intervals [596]:
+            xmin = 59.970000
+            xmax = 60.100000
+            text = "m"
+        intervals [597]:
+            xmin = 60.100000
+            xmax = 60.240000
+            text = "aI"
+        intervals [598]:
+            xmin = 60.240000
+            xmax = 60.270000
+            text = "t"
+        intervals [599]:
+            xmin = 60.270000
+            xmax = 60.415000
+            text = "i:"
+        intervals [600]:
+            xmin = 60.415000
+            xmax = 60.590000
+            text = "eI"
+        intervals [601]:
+            xmin = 60.590000
+            xmax = 60.640000
+            text = "n"
+        intervals [602]:
+            xmin = 60.640000
+            xmax = 60.710000
+            text = "dZ"
+        intervals [603]:
+            xmin = 60.710000
+            xmax = 60.740000
+            text = "V"
+        intervals [604]:
+            xmin = 60.740000
+            xmax = 60.850000
+            text = "l"
+        intervals [605]:
+            xmin = 60.850000
+            xmax = 60.940000
+            text = "z"
+        intervals [606]:
+            xmin = 60.940000
+            xmax = 61.010000
+            text = "I"
+        intervals [607]:
+            xmin = 61.010000
+            xmax = 61.110000
+            text = "n"
+        intervals [608]:
+            xmin = 61.110000
+            xmax = 61.310000
+            text = "f"
+        intervals [609]:
+            xmin = 61.310000
+            xmax = 61.430000
+            text = "l"
+        intervals [610]:
+            xmin = 61.430000
+            xmax = 61.510000
+            text = "eI"
+        intervals [611]:
+            xmin = 61.510000
+            xmax = 61.570000
+            text = "m"
+        intervals [612]:
+            xmin = 61.570000
+            xmax = 61.610000
+            text = "I"
+        intervals [613]:
+            xmin = 61.610000
+            xmax = 61.720000
+            text = "N"
+        intervals [614]:
+            xmin = 61.720000
+            xmax = 61.840000
+            text = "f"
+        intervals [615]:
+            xmin = 61.840000
+            xmax = 62.010000
+            text = "aI"
+        intervals [616]:
+            xmin = 62.010000
+            xmax = 62.190000
+            text = "3`"
+        intervals [617]:
+            xmin = 62.190000
+            xmax = 62.620000
+            text = "<p:>"
+        intervals [618]:
+            xmin = 62.620000
+            xmax = 62.730000
+            text = "I"
+        intervals [619]:
+            xmin = 62.730000
+            xmax = 62.860000
+            text = "n"
+        intervals [620]:
+            xmin = 62.860000
+            xmax = 62.980000
+            text = "f"
+        intervals [621]:
+            xmin = 62.980000
+            xmax = 63.040000
+            text = "l"
+        intervals [622]:
+            xmin = 63.040000
+            xmax = 63.080000
+            text = "I"
+        intervals [623]:
+            xmin = 63.080000
+            xmax = 63.110000
+            text = "k"
+        intervals [624]:
+            xmin = 63.110000
+            xmax = 63.240000
+            text = "t"
+        intervals [625]:
+            xmin = 63.240000
+            xmax = 63.270000
+            text = "I"
+        intervals [626]:
+            xmin = 63.270000
+            xmax = 63.410000
+            text = "N"
+        intervals [627]:
+            xmin = 63.410000
+            xmax = 63.490000
+            text = "<p:>"
+        intervals [628]:
+            xmin = 63.490000
+            xmax = 63.520000
+            text = "v"
+        intervals [629]:
+            xmin = 63.520000
+            xmax = 63.630000
+            text = "E"
+        intervals [630]:
+            xmin = 63.630000
+            xmax = 63.710000
+            text = "n"
+        intervals [631]:
+            xmin = 63.710000
+            xmax = 63.790000
+            text = "dZ"
+        intervals [632]:
+            xmin = 63.790000
+            xmax = 63.820000
+            text = "V"
+        intervals [633]:
+            xmin = 63.820000
+            xmax = 63.890000
+            text = "n"
+        intervals [634]:
+            xmin = 63.890000
+            xmax = 64.010000
+            text = "s"
+        intervals [635]:
+            xmin = 64.010000
+            xmax = 64.100000
+            text = "Q"
+        intervals [636]:
+            xmin = 64.100000
+            xmax = 64.210000
+            text = "n"
+        intervals [637]:
+            xmin = 64.210000
+            xmax = 64.240000
+            text = "D"
+        intervals [638]:
+            xmin = 64.240000
+            xmax = 64.510000
+            text = "@U"
+        intervals [639]:
+            xmin = 64.510000
+            xmax = 64.600000
+            text = "z"
+        intervals [640]:
+            xmin = 64.600000
+            xmax = 64.630000
+            text = "h"
+        intervals [641]:
+            xmin = 64.630000
+            xmax = 64.690000
+            text = "u:"
+        intervals [642]:
+            xmin = 64.690000
+            xmax = 64.780000
+            text = "d"
+        intervals [643]:
+            xmin = 64.780000
+            xmax = 64.840000
+            text = "u:"
+        intervals [644]:
+            xmin = 64.840000
+            xmax = 64.900000
+            text = "n"
+        intervals [645]:
+            xmin = 64.900000
+            xmax = 65.040000
+            text = "Q"
+        intervals [646]:
+            xmin = 65.040000
+            xmax = 65.070000
+            text = "t"
+        intervals [647]:
+            xmin = 65.070000
+            xmax = 65.200000
+            text = "n"
+        intervals [648]:
+            xmin = 65.200000
+            xmax = 65.420000
+            text = "@U"
+        intervals [649]:
+            xmin = 65.420000
+            xmax = 65.520000
+            text = "g"
+        intervals [650]:
+            xmin = 65.520000
+            xmax = 65.750000
+            text = "Q"
+        intervals [651]:
+            xmin = 65.750000
+            xmax = 65.910000
+            text = "d"
+        intervals [652]:
+            xmin = 65.910000
+            xmax = 66.080000
+            text = "<p:>"
+        intervals [653]:
+            xmin = 66.080000
+            xmax = 66.130000
+            text = "V"
+        intervals [654]:
+            xmin = 66.130000
+            xmax = 66.180000
+            text = "n"
+        intervals [655]:
+            xmin = 66.180000
+            xmax = 66.280000
+            text = "Q"
+        intervals [656]:
+            xmin = 66.280000
+            xmax = 66.380000
+            text = "n"
+        intervals [657]:
+            xmin = 66.380000
+            xmax = 66.420000
+            text = "D"
+        intervals [658]:
+            xmin = 66.420000
+            xmax = 66.590000
+            text = "@U"
+        intervals [659]:
+            xmin = 66.590000
+            xmax = 66.660000
+            text = "z"
+        intervals [660]:
+            xmin = 66.660000
+            xmax = 66.690000
+            text = "h"
+        intervals [661]:
+            xmin = 66.690000
+            xmax = 66.760000
+            text = "u:"
+        intervals [662]:
+            xmin = 66.760000
+            xmax = 66.810000
+            text = "d"
+        intervals [663]:
+            xmin = 66.810000
+            xmax = 66.890000
+            text = "u:"
+        intervals [664]:
+            xmin = 66.890000
+            xmax = 66.930000
+            text = "n"
+        intervals [665]:
+            xmin = 66.930000
+            xmax = 67.060000
+            text = "Q"
+        intervals [666]:
+            xmin = 67.060000
+            xmax = 67.090000
+            text = "t"
+        intervals [667]:
+            xmin = 67.090000
+            xmax = 67.190000
+            text = "@U"
+        intervals [668]:
+            xmin = 67.190000
+            xmax = 67.320000
+            text = "b"
+        intervals [669]:
+            xmin = 67.320000
+            xmax = 67.620000
+            text = "eI"
+        intervals [670]:
+            xmin = 67.620000
+            xmax = 67.670000
+            text = "D"
+        intervals [671]:
+            xmin = 67.670000
+            xmax = 67.700000
+            text = "V"
+        intervals [672]:
+            xmin = 67.700000
+            xmax = 67.830000
+            text = "g"
+        intervals [673]:
+            xmin = 67.830000
+            xmax = 67.990000
+            text = "Q"
+        intervals [674]:
+            xmin = 67.990000
+            xmax = 68.100000
+            text = "s"
+        intervals [675]:
+            xmin = 68.100000
+            xmax = 68.170000
+            text = "p"
+        intervals [676]:
+            xmin = 68.170000
+            xmax = 68.200000
+            text = "V"
+        intervals [677]:
+            xmin = 68.200000
+            xmax = 68.360000
+            text = "l"
+        intervals [678]:
+            xmin = 68.360000
+            xmax = 68.400000
+            text = "V"
+        intervals [679]:
+            xmin = 68.400000
+            xmax = 68.450000
+            text = "v"
+        intervals [680]:
+            xmin = 68.450000
+            xmax = 68.520000
+            text = "aU"
+        intervals [681]:
+            xmin = 68.520000
+            xmax = 68.590000
+            text = "3`"
+        intervals [682]:
+            xmin = 68.590000
+            xmax = 68.730000
+            text = "l"
+        intervals [683]:
+            xmin = 68.730000
+            xmax = 68.880000
+            text = "O:"
+        intervals [684]:
+            xmin = 68.880000
+            xmax = 68.980000
+            text = "R"
+        intervals [685]:
+            xmin = 68.980000
+            xmax = 69.010000
+            text = "d"
+        intervals [686]:
+            xmin = 69.010000
+            xmax = 69.130000
+            text = "dZ"
+        intervals [687]:
+            xmin = 69.130000
+            xmax = 69.300000
+            text = "i:"
+        intervals [688]:
+            xmin = 69.300000
+            xmax = 69.380000
+            text = "z"
+        intervals [689]:
+            xmin = 69.380000
+            xmax = 69.440000
+            text = "V"
+        intervals [690]:
+            xmin = 69.440000
+            xmax = 69.740000
+            text = "s"
+        intervals [691]:
+            xmin = 69.740000
+            xmax = 70.580000
+            text = "<p:>"
+        intervals [692]:
+            xmin = 70.580000
+            xmax = 70.680000
+            text = "D"
+        intervals [693]:
+            xmin = 70.680000
+            xmax = 71.000000
+            text = "eI"
+        intervals [694]:
+            xmin = 71.000000
+            xmax = 71.310000
+            text = "<p:>"
+        intervals [695]:
+            xmin = 71.310000
+            xmax = 71.360000
+            text = "w"
+        intervals [696]:
+            xmin = 71.360000
+            xmax = 71.390000
+            text = "I"
+        intervals [697]:
+            xmin = 71.390000
+            xmax = 71.470000
+            text = "l"
+        intervals [698]:
+            xmin = 71.470000
+            xmax = 71.740000
+            text = "s"
+        intervals [699]:
+            xmin = 71.740000
+            xmax = 71.820000
+            text = "V"
+        intervals [700]:
+            xmin = 71.820000
+            xmax = 71.930000
+            text = "f"
+        intervals [701]:
+            xmin = 71.930000
+            xmax = 72.000000
+            text = "3`"
+        intervals [702]:
+            xmin = 72.000000
+            xmax = 72.090000
+            text = "D"
+        intervals [703]:
+            xmin = 72.090000
+            xmax = 72.130000
+            text = "V"
+        intervals [704]:
+            xmin = 72.130000
+            xmax = 72.230000
+            text = "<p:>"
+        intervals [705]:
+            xmin = 72.230000
+            xmax = 72.340000
+            text = "p"
+        intervals [706]:
+            xmin = 72.340000
+            xmax = 72.380000
+            text = "V"
+        intervals [707]:
+            xmin = 72.380000
+            xmax = 72.410000
+            text = "n"
+        intervals [708]:
+            xmin = 72.410000
+            xmax = 72.480000
+            text = "I"
+        intervals [709]:
+            xmin = 72.480000
+            xmax = 72.600000
+            text = "S"
+        intervals [710]:
+            xmin = 72.600000
+            xmax = 72.650000
+            text = "m"
+        intervals [711]:
+            xmin = 72.650000
+            xmax = 72.690000
+            text = "V"
+        intervals [712]:
+            xmin = 72.690000
+            xmax = 72.720000
+            text = "n"
+        intervals [713]:
+            xmin = 72.720000
+            xmax = 72.750000
+            text = "t"
+        intervals [714]:
+            xmin = 72.750000
+            xmax = 72.800000
+            text = "V"
+        intervals [715]:
+            xmin = 72.800000
+            xmax = 72.840000
+            text = "v"
+        intervals [716]:
+            xmin = 72.840000
+            xmax = 72.940000
+            text = "I"
+        intervals [717]:
+            xmin = 72.940000
+            xmax = 73.110000
+            text = "t"
+        intervals [718]:
+            xmin = 73.110000
+            xmax = 73.210000
+            text = "3`"
+        intervals [719]:
+            xmin = 73.210000
+            xmax = 73.240000
+            text = "n"
+        intervals [720]:
+            xmin = 73.240000
+            xmax = 73.270000
+            text = "V"
+        intervals [721]:
+            xmin = 73.270000
+            xmax = 73.370000
+            text = "l"
+        intervals [722]:
+            xmin = 73.370000
+            xmax = 73.420000
+            text = "d"
+        intervals [723]:
+            xmin = 73.420000
+            xmax = 73.470000
+            text = "I"
+        intervals [724]:
+            xmin = 73.470000
+            xmax = 73.570000
+            text = "s"
+        intervals [725]:
+            xmin = 73.570000
+            xmax = 73.670000
+            text = "t"
+        intervals [726]:
+            xmin = 73.670000
+            xmax = 73.730000
+            text = "R"
+        intervals [727]:
+            xmin = 73.730000
+            xmax = 73.780000
+            text = "V"
+        intervals [728]:
+            xmin = 73.780000
+            xmax = 73.840000
+            text = "k"
+        intervals [729]:
+            xmin = 73.840000
+            xmax = 73.960000
+            text = "S"
+        intervals [730]:
+            xmin = 73.960000
+            xmax = 73.990000
+            text = "V"
+        intervals [731]:
+            xmin = 73.990000
+            xmax = 74.070000
+            text = "n"
+        intervals [732]:
+            xmin = 74.070000
+            xmax = 74.510000
+            text = "<p:>"
+        intervals [733]:
+            xmin = 74.510000
+            xmax = 74.590000
+            text = "V"
+        intervals [734]:
+            xmin = 74.590000
+            xmax = 74.790000
+            text = "w"
+        intervals [735]:
+            xmin = 74.790000
+            xmax = 75.010000
+            text = "eI"
+        intervals [736]:
+            xmin = 75.010000
+            xmax = 75.110000
+            text = "f"
+        intervals [737]:
+            xmin = 75.110000
+            xmax = 75.150000
+            text = "6"
+        intervals [738]:
+            xmin = 75.150000
+            xmax = 75.210000
+            text = "m"
+        intervals [739]:
+            xmin = 75.210000
+            xmax = 75.240000
+            text = "D"
+        intervals [740]:
+            xmin = 75.240000
+            xmax = 75.280000
+            text = "V"
+        intervals [741]:
+            xmin = 75.280000
+            xmax = 75.420000
+            text = "p"
+        intervals [742]:
+            xmin = 75.420000
+            xmax = 75.460000
+            text = "R"
+        intervals [743]:
+            xmin = 75.460000
+            xmax = 75.530000
+            text = "E"
+        intervals [744]:
+            xmin = 75.530000
+            xmax = 75.620000
+            text = "z"
+        intervals [745]:
+            xmin = 75.620000
+            xmax = 75.650000
+            text = "V"
+        intervals [746]:
+            xmin = 75.650000
+            xmax = 75.700000
+            text = "n"
+        intervals [747]:
+            xmin = 75.700000
+            xmax = 75.800000
+            text = "s"
+        intervals [748]:
+            xmin = 75.800000
+            xmax = 75.880000
+            text = "V"
+        intervals [749]:
+            xmin = 75.880000
+            xmax = 75.920000
+            text = "v"
+        intervals [750]:
+            xmin = 75.920000
+            xmax = 75.970000
+            text = "D"
+        intervals [751]:
+            xmin = 75.970000
+            xmax = 76.000000
+            text = "V"
+        intervals [752]:
+            xmin = 76.000000
+            xmax = 76.230000
+            text = "l"
+        intervals [753]:
+            xmin = 76.230000
+            xmax = 76.360000
+            text = "O:"
+        intervals [754]:
+            xmin = 76.360000
+            xmax = 76.440000
+            text = "R"
+        intervals [755]:
+            xmin = 76.440000
+            xmax = 76.480000
+            text = "d"
+        intervals [756]:
+            xmin = 76.480000
+            xmax = 76.510000
+            text = "V"
+        intervals [757]:
+            xmin = 76.510000
+            xmax = 76.560000
+            text = "n"
+        intervals [758]:
+            xmin = 76.560000
+            xmax = 76.620000
+            text = "d"
+        intervals [759]:
+            xmin = 76.620000
+            xmax = 76.670000
+            text = "f"
+        intervals [760]:
+            xmin = 76.670000
+            xmax = 76.710000
+            text = "R"
+        intervals [761]:
+            xmin = 76.710000
+            xmax = 76.740000
+            text = "V"
+        intervals [762]:
+            xmin = 76.740000
+            xmax = 76.790000
+            text = "m"
+        intervals [763]:
+            xmin = 76.790000
+            xmax = 76.820000
+            text = "D"
+        intervals [764]:
+            xmin = 76.820000
+            xmax = 76.850000
+            text = "V"
+        intervals [765]:
+            xmin = 76.850000
+            xmax = 77.030000
+            text = "g"
+        intervals [766]:
+            xmin = 77.030000
+            xmax = 77.150000
+            text = "l"
+        intervals [767]:
+            xmin = 77.150000
+            xmax = 77.250000
+            text = "O:"
+        intervals [768]:
+            xmin = 77.250000
+            xmax = 77.310000
+            text = "R"
+        intervals [769]:
+            xmin = 77.310000
+            xmax = 77.430000
+            text = "i:"
+        intervals [770]:
+            xmin = 77.430000
+            xmax = 77.460000
+            text = "V"
+        intervals [771]:
+            xmin = 77.460000
+            xmax = 77.500000
+            text = "v"
+        intervals [772]:
+            xmin = 77.500000
+            xmax = 77.530000
+            text = "h"
+        intervals [773]:
+            xmin = 77.530000
+            xmax = 77.610000
+            text = "I"
+        intervals [774]:
+            xmin = 77.610000
+            xmax = 77.700000
+            text = "z"
+        intervals [775]:
+            xmin = 77.700000
+            xmax = 77.840000
+            text = "m"
+        intervals [776]:
+            xmin = 77.840000
+            xmax = 78.000000
+            text = "aI"
+        intervals [777]:
+            xmin = 78.000000
+            xmax = 78.150000
+            text = "t"
+        intervals [778]:
+            xmin = 78.150000
+            xmax = 78.460000
+            text = "<p:>"
+        intervals [779]:
+            xmin = 78.460000
+            xmax = 78.510000
+            text = "w"
+        intervals [780]:
+            xmin = 78.510000
+            xmax = 78.540000
+            text = "E"
+        intervals [781]:
+            xmin = 78.540000
+            xmax = 78.600000
+            text = "n"
+        intervals [782]:
+            xmin = 78.600000
+            xmax = 78.660000
+            text = "h"
+        intervals [783]:
+            xmin = 78.660000
+            xmax = 78.740000
+            text = "i:"
+        intervals [784]:
+            xmin = 78.740000
+            xmax = 78.900000
+            text = "k"
+        intervals [785]:
+            xmin = 78.900000
+            xmax = 78.990000
+            text = "V"
+        intervals [786]:
+            xmin = 78.990000
+            xmax = 79.090000
+            text = "m"
+        intervals [787]:
+            xmin = 79.090000
+            xmax = 79.200000
+            text = "z"
+        intervals [788]:
+            xmin = 79.200000
+            xmax = 79.280000
+            text = "Q"
+        intervals [789]:
+            xmin = 79.280000
+            xmax = 79.360000
+            text = "n"
+        intervals [790]:
+            xmin = 79.360000
+            xmax = 79.390000
+            text = "D"
+        intervals [791]:
+            xmin = 79.390000
+            xmax = 79.500000
+            text = "{"
+        intervals [792]:
+            xmin = 79.500000
+            xmax = 79.540000
+            text = "t"
+        intervals [793]:
+            xmin = 79.540000
+            xmax = 79.640000
+            text = "d"
+        intervals [794]:
+            xmin = 79.640000
+            xmax = 79.840000
+            text = "eI"
+        intervals [795]:
+            xmin = 79.840000
+            xmax = 79.930000
+            text = "t"
+        intervals [796]:
+            xmin = 79.930000
+            xmax = 79.970000
+            text = "u:"
+        intervals [797]:
+            xmin = 79.970000
+            xmax = 80.010000
+            text = "b"
+        intervals [798]:
+            xmin = 80.010000
+            xmax = 80.060000
+            text = "i:"
+        intervals [799]:
+            xmin = 80.060000
+            xmax = 80.180000
+            text = "g"
+        intervals [800]:
+            xmin = 80.180000
+            xmax = 80.250000
+            text = "l"
+        intervals [801]:
+            xmin = 80.250000
+            xmax = 80.430000
+            text = "O:"
+        intervals [802]:
+            xmin = 80.430000
+            xmax = 80.460000
+            text = "R"
+        intervals [803]:
+            xmin = 80.460000
+            xmax = 80.490000
+            text = "V"
+        intervals [804]:
+            xmin = 80.490000
+            xmax = 80.590000
+            text = "f"
+        intervals [805]:
+            xmin = 80.590000
+            xmax = 80.760000
+            text = "aI"
+        intervals [806]:
+            xmin = 80.760000
+            xmax = 80.810000
+            text = "d"
+        intervals [807]:
+            xmin = 80.810000
+            xmax = 80.870000
+            text = "I"
+        intervals [808]:
+            xmin = 80.870000
+            xmax = 80.910000
+            text = "n"
+        intervals [809]:
+            xmin = 80.910000
+            xmax = 80.990000
+            text = "h"
+        intervals [810]:
+            xmin = 80.990000
+            xmax = 81.040000
+            text = "I"
+        intervals [811]:
+            xmin = 81.040000
+            xmax = 81.100000
+            text = "z"
+        intervals [812]:
+            xmin = 81.100000
+            xmax = 81.250000
+            text = "s"
+        intervals [813]:
+            xmin = 81.250000
+            xmax = 81.420000
+            text = "eI"
+        intervals [814]:
+            xmin = 81.420000
+            xmax = 81.450000
+            text = "n"
+        intervals [815]:
+            xmin = 81.450000
+            xmax = 81.480000
+            text = "t"
+        intervals [816]:
+            xmin = 81.480000
+            xmax = 81.630000
+            text = "s"
+        intervals [817]:
+            xmin = 81.630000
+            xmax = 81.900000
+            text = "<p:>"
+        intervals [818]:
+            xmin = 81.900000
+            xmax = 81.930000
+            text = "V"
+        intervals [819]:
+            xmin = 81.930000
+            xmax = 81.960000
+            text = "n"
+        intervals [820]:
+            xmin = 81.960000
+            xmax = 81.990000
+            text = "d"
+        intervals [821]:
+            xmin = 81.990000
+            xmax = 82.030000
+            text = "t"
+        intervals [822]:
+            xmin = 82.030000
+            xmax = 82.070000
+            text = "u:"
+        intervals [823]:
+            xmin = 82.070000
+            xmax = 82.120000
+            text = "b"
+        intervals [824]:
+            xmin = 82.120000
+            xmax = 82.210000
+            text = "i:"
+        intervals [825]:
+            xmin = 82.210000
+            xmax = 82.390000
+            text = "m"
+        intervals [826]:
+            xmin = 82.390000
+            xmax = 82.520000
+            text = "Q"
+        intervals [827]:
+            xmin = 82.520000
+            xmax = 82.660000
+            text = "R"
+        intervals [828]:
+            xmin = 82.660000
+            xmax = 82.750000
+            text = "v"
+        intervals [829]:
+            xmin = 82.750000
+            xmax = 82.780000
+            text = "E"
+        intervals [830]:
+            xmin = 82.780000
+            xmax = 82.880000
+            text = "l"
+        intervals [831]:
+            xmin = 82.880000
+            xmax = 82.910000
+            text = "d"
+        intervals [832]:
+            xmin = 82.910000
+            xmax = 83.070000
+            text = "{"
+        intervals [833]:
+            xmin = 83.070000
+            xmax = 83.100000
+            text = "t"
+        intervals [834]:
+            xmin = 83.100000
+            xmax = 83.170000
+            text = "V"
+        intervals [835]:
+            xmin = 83.170000
+            xmax = 83.250000
+            text = "m"
+        intervals [836]:
+            xmin = 83.250000
+            xmax = 83.340000
+            text = "V"
+        intervals [837]:
+            xmin = 83.340000
+            xmax = 83.400000
+            text = "N"
+        intervals [838]:
+            xmin = 83.400000
+            xmax = 83.500000
+            text = "?"
+        intervals [839]:
+            xmin = 83.500000
+            xmax = 83.780000
+            text = "O:"
+        intervals [840]:
+            xmin = 83.780000
+            xmax = 83.850000
+            text = "l"
+        intervals [841]:
+            xmin = 83.850000
+            xmax = 83.890000
+            text = "h"
+        intervals [842]:
+            xmin = 83.890000
+            xmax = 84.050000
+            text = "u:"
+        intervals [843]:
+            xmin = 84.050000
+            xmax = 84.080000
+            text = "h"
+        intervals [844]:
+            xmin = 84.080000
+            xmax = 84.120000
+            text = "{"
+        intervals [845]:
+            xmin = 84.120000
+            xmax = 84.160000
+            text = "v"
+        intervals [846]:
+            xmin = 84.160000
+            xmax = 84.250000
+            text = "b"
+        intervals [847]:
+            xmin = 84.250000
+            xmax = 84.310000
+            text = "I"
+        intervals [848]:
+            xmin = 84.310000
+            xmax = 84.400000
+            text = "l"
+        intervals [849]:
+            xmin = 84.400000
+            xmax = 84.660000
+            text = "i:"
+        intervals [850]:
+            xmin = 84.660000
+            xmax = 84.710000
+            text = "v"
+        intervals [851]:
+            xmin = 84.710000
+            xmax = 84.810000
+            text = "d"
+        intervals [852]:
+            xmin = 84.810000
+            xmax = 85.120000
+            text = "<p:>"
+        intervals [853]:
+            xmin = 85.120000
+            xmax = 85.170000
+            text = "b"
+        intervals [854]:
+            xmin = 85.170000
+            xmax = 85.250000
+            text = "i:"
+        intervals [855]:
+            xmin = 85.250000
+            xmax = 85.320000
+            text = "k"
+        intervals [856]:
+            xmin = 85.320000
+            xmax = 85.390000
+            text = "O:"
+        intervals [857]:
+            xmin = 85.390000
+            xmax = 85.490000
+            text = "z"
+        intervals [858]:
+            xmin = 85.490000
+            xmax = 85.540000
+            text = "aU"
+        intervals [859]:
+            xmin = 85.540000
+            xmax = 85.650000
+            text = "3`"
+        intervals [860]:
+            xmin = 85.650000
+            xmax = 85.740000
+            text = "t"
+        intervals [861]:
+            xmin = 85.740000
+            xmax = 85.820000
+            text = "E"
+        intervals [862]:
+            xmin = 85.820000
+            xmax = 85.880000
+            text = "s"
+        intervals [863]:
+            xmin = 85.880000
+            xmax = 85.950000
+            text = "t"
+        intervals [864]:
+            xmin = 85.950000
+            xmax = 85.990000
+            text = "V"
+        intervals [865]:
+            xmin = 85.990000
+            xmax = 86.060000
+            text = "m"
+        intervals [866]:
+            xmin = 86.060000
+            xmax = 86.150000
+            text = "@U"
+        intervals [867]:
+            xmin = 86.150000
+            xmax = 86.180000
+            text = "n"
+        intervals [868]:
+            xmin = 86.180000
+            xmax = 86.270000
+            text = "i:"
+        intervals [869]:
+            xmin = 86.270000
+            xmax = 86.370000
+            text = "t"
+        intervals [870]:
+            xmin = 86.370000
+            xmax = 86.410000
+            text = "I"
+        intervals [871]:
+            xmin = 86.410000
+            xmax = 86.560000
+            text = "j"
+        intervals [872]:
+            xmin = 86.560000
+            xmax = 86.690000
+            text = "u:"
+        intervals [873]:
+            xmin = 86.690000
+            xmax = 86.820000
+            text = "w"
+        intervals [874]:
+            xmin = 86.820000
+            xmax = 86.890000
+            text = "Q"
+        intervals [875]:
+            xmin = 86.890000
+            xmax = 87.000000
+            text = "z"
+        intervals [876]:
+            xmin = 87.000000
+            xmax = 87.080000
+            text = "b"
+        intervals [877]:
+            xmin = 87.080000
+            xmax = 87.180000
+            text = "I"
+        intervals [878]:
+            xmin = 87.180000
+            xmax = 87.250000
+            text = "l"
+        intervals [879]:
+            xmin = 87.250000
+            xmax = 87.480000
+            text = "i:"
+        intervals [880]:
+            xmin = 87.480000
+            xmax = 87.570000
+            text = "v"
+        intervals [881]:
+            xmin = 87.570000
+            xmax = 87.630000
+            text = "d"
+        intervals [882]:
+            xmin = 87.630000
+            xmax = 88.370000
+            text = "<p:>"
+        intervals [883]:
+            xmin = 88.370000
+            xmax = 88.440000
+            text = "t"
+        intervals [884]:
+            xmin = 88.440000
+            xmax = 88.560000
+            text = "u:"
+        intervals [885]:
+            xmin = 88.560000
+            xmax = 88.600000
+            text = "D"
+        intervals [886]:
+            xmin = 88.600000
+            xmax = 88.700000
+            text = "I"
+        intervals [887]:
+            xmin = 88.700000
+            xmax = 88.840000
+            text = "s"
+        intervals [888]:
+            xmin = 88.840000
+            xmax = 89.020000
+            text = "E"
+        intervals [889]:
+            xmin = 89.020000
+            xmax = 89.100000
+            text = "n"
+        intervals [890]:
+            xmin = 89.100000
+            xmax = 89.130000
+            text = "d"
+        intervals [891]:
+            xmin = 89.130000
+            xmax = 89.210000
+            text = "w"
+        intervals [892]:
+            xmin = 89.210000
+            xmax = 89.320000
+            text = "i:"
+        intervals [893]:
+            xmin = 89.320000
+            xmax = 89.390000
+            text = "O:"
+        intervals [894]:
+            xmin = 89.390000
+            xmax = 89.500000
+            text = "l"
+        intervals [895]:
+            xmin = 89.500000
+            xmax = 89.550000
+            text = "w"
+        intervals [896]:
+            xmin = 89.550000
+            xmax = 89.580000
+            text = "I"
+        intervals [897]:
+            xmin = 89.580000
+            xmax = 89.670000
+            text = "z"
+        intervals [898]:
+            xmin = 89.670000
+            xmax = 89.780000
+            text = "p"
+        intervals [899]:
+            xmin = 89.780000
+            xmax = 89.830000
+            text = "R"
+        intervals [900]:
+            xmin = 89.830000
+            xmax = 89.950000
+            text = "eI"
+        intervals [901]:
+            xmin = 89.950000
+            xmax = 90.040000
+            text = "f"
+        intervals [902]:
+            xmin = 90.040000
+            xmax = 90.080000
+            text = "6"
+        intervals [903]:
+            xmin = 90.080000
+            xmax = 90.210000
+            text = "j"
+        intervals [904]:
+            xmin = 90.210000
+            xmax = 90.290000
+            text = "u:"
+        intervals [905]:
+            xmin = 90.290000
+            xmax = 90.880000
+            text = "<p:>"
+        intervals [906]:
+            xmin = 90.880000
+            xmax = 90.930000
+            text = "D"
+        intervals [907]:
+            xmin = 90.930000
+            xmax = 90.960000
+            text = "E"
+        intervals [908]:
+            xmin = 90.960000
+            xmax = 91.000000
+            text = "aU"
+        intervals [909]:
+            xmin = 91.000000
+            xmax = 91.130000
+            text = "3`"
+        intervals [910]:
+            xmin = 91.130000
+            xmax = 91.210000
+            text = "g"
+        intervals [911]:
+            xmin = 91.210000
+            xmax = 91.470000
+            text = "Q"
+        intervals [912]:
+            xmin = 91.470000
+            xmax = 91.500000
+            text = "d"
+        intervals [913]:
+            xmin = 91.500000
+            xmax = 91.570000
+            text = "m"
+        intervals [914]:
+            xmin = 91.570000
+            xmax = 91.690000
+            text = "eI"
+        intervals [915]:
+            xmin = 91.690000
+            xmax = 91.770000
+            text = "m"
+        intervals [916]:
+            xmin = 91.770000
+            xmax = 91.900000
+            text = "eI"
+        intervals [917]:
+            xmin = 91.900000
+            xmax = 91.970000
+            text = "k"
+        intervals [918]:
+            xmin = 91.970000
+            xmax = 92.010000
+            text = "j"
+        intervals [919]:
+            xmin = 92.010000
+            xmax = 92.070000
+            text = "u:"
+        intervals [920]:
+            xmin = 92.070000
+            xmax = 92.210000
+            text = "w"
+        intervals [921]:
+            xmin = 92.210000
+            xmax = 92.310000
+            text = "3`"
+        intervals [922]:
+            xmin = 92.310000
+            xmax = 92.390000
+            text = "D"
+        intervals [923]:
+            xmin = 92.390000
+            xmax = 92.490000
+            text = "i:"
+        intervals [924]:
+            xmin = 92.490000
+            xmax = 92.550000
+            text = "V"
+        intervals [925]:
+            xmin = 92.550000
+            xmax = 92.610000
+            text = "v"
+        intervals [926]:
+            xmin = 92.610000
+            xmax = 92.650000
+            text = "I"
+        intervals [927]:
+            xmin = 92.650000
+            xmax = 92.750000
+            text = "z"
+        intervals [928]:
+            xmin = 92.750000
+            xmax = 92.850000
+            text = "k"
+        intervals [929]:
+            xmin = 92.850000
+            xmax = 92.950000
+            text = "O:"
+        intervals [930]:
+            xmin = 92.950000
+            xmax = 93.040000
+            text = "l"
+        intervals [931]:
+            xmin = 93.040000
+            xmax = 93.070000
+            text = "I"
+        intervals [932]:
+            xmin = 93.070000
+            xmax = 93.170000
+            text = "N"
+        intervals [933]:
+            xmin = 93.170000
+            xmax = 93.610000
+            text = "<p:>"
+        intervals [934]:
+            xmin = 93.610000
+            xmax = 93.710000
+            text = "V"
+        intervals [935]:
+            xmin = 93.710000
+            xmax = 93.770000
+            text = "n"
+        intervals [936]:
+            xmin = 93.770000
+            xmax = 93.820000
+            text = "m"
+        intervals [937]:
+            xmin = 93.820000
+            xmax = 93.920000
+            text = "eI"
+        intervals [938]:
+            xmin = 93.920000
+            xmax = 94.020000
+            text = "f"
+        intervals [939]:
+            xmin = 94.020000
+            xmax = 94.050000
+            text = "U"
+        intervals [940]:
+            xmin = 94.050000
+            xmax = 94.080000
+            text = "l"
+        intervals [941]:
+            xmin = 94.080000
+            xmax = 94.220000
+            text = "f"
+        intervals [942]:
+            xmin = 94.220000
+            xmax = 94.260000
+            text = "I"
+        intervals [943]:
+            xmin = 94.260000
+            xmax = 94.400000
+            text = "l"
+        intervals [944]:
+            xmin = 94.400000
+            xmax = 94.510000
+            text = "<p:>"
+        intervals [945]:
+            xmin = 94.510000
+            xmax = 94.630000
+            text = "E"
+        intervals [946]:
+            xmin = 94.630000
+            xmax = 94.790000
+            text = "v"
+        intervals [947]:
+            xmin = 94.790000
+            xmax = 94.830000
+            text = "3`"
+        intervals [948]:
+            xmin = 94.830000
+            xmax = 94.910000
+            text = "i:"
+        intervals [949]:
+            xmin = 94.910000
+            xmax = 94.970000
+            text = "R"
+        intervals [950]:
+            xmin = 94.970000
+            xmax = 95.010000
+            text = "i:"
+        intervals [951]:
+            xmin = 95.010000
+            xmax = 95.100000
+            text = "z"
+        intervals [952]:
+            xmin = 95.100000
+            xmax = 95.150000
+            text = "Q"
+        intervals [953]:
+            xmin = 95.150000
+            xmax = 95.320000
+            text = "l"
+        intervals [954]:
+            xmin = 95.320000
+            xmax = 95.350000
+            text = "v"
+        intervals [955]:
+            xmin = 95.350000
+            xmax = 95.490000
+            text = "f"
+        intervals [956]:
+            xmin = 95.490000
+            xmax = 95.540000
+            text = "6"
+        intervals [957]:
+            xmin = 95.540000
+            xmax = 95.630000
+            text = "g"
+        intervals [958]:
+            xmin = 95.630000
+            xmax = 95.840000
+            text = "U"
+        intervals [959]:
+            xmin = 95.840000
+            xmax = 95.950000
+            text = "d"
+        intervals [960]:
+            xmin = 95.950000
+            xmax = 96.410000
+            text = "<p:>"
+        intervals [961]:
+            xmin = 96.410000
+            xmax = 96.480000
+            text = "V"
+        intervals [962]:
+            xmin = 96.480000
+            xmax = 96.530000
+            text = "n"
+        intervals [963]:
+            xmin = 96.530000
+            xmax = 96.580000
+            text = "d"
+        intervals [964]:
+            xmin = 96.580000
+            xmax = 96.750000
+            text = "<p:>"
+        intervals [965]:
+            xmin = 96.750000
+            xmax = 96.850000
+            text = "E"
+        intervals [966]:
+            xmin = 96.850000
+            xmax = 96.950000
+            text = "v"
+        intervals [967]:
+            xmin = 96.950000
+            xmax = 96.990000
+            text = "3`"
+        intervals [968]:
+            xmin = 96.990000
+            xmax = 97.050000
+            text = "i:"
+        intervals [969]:
+            xmin = 97.050000
+            xmax = 97.140000
+            text = "w"
+        intervals [970]:
+            xmin = 97.140000
+            xmax = 97.220000
+            text = "3`"
+        intervals [971]:
+            xmin = 97.220000
+            xmax = 97.290000
+            text = "k"
+        intervals [972]:
+            xmin = 97.290000
+            xmax = 97.320000
+            text = "V"
+        intervals [973]:
+            xmin = 97.320000
+            xmax = 97.360000
+            text = "v"
+        intervals [974]:
+            xmin = 97.360000
+            xmax = 97.490000
+            text = "f"
+        intervals [975]:
+            xmin = 97.490000
+            xmax = 97.680000
+            text = "eI"
+        intervals [976]:
+            xmin = 97.680000
+            xmax = 97.740000
+            text = "T"
+        intervals [977]:
+            xmin = 97.740000
+            xmax = 97.790000
+            text = "<p:>"
+        intervals [978]:
+            xmin = 97.790000
+            xmax = 97.860000
+            text = "b"
+        intervals [979]:
+            xmin = 97.860000
+            xmax = 97.950000
+            text = "aI"
+        intervals [980]:
+            xmin = 97.950000
+            xmax = 98.080000
+            text = "h"
+        intervals [981]:
+            xmin = 98.080000
+            xmax = 98.130000
+            text = "I"
+        intervals [982]:
+            xmin = 98.130000
+            xmax = 98.230000
+            text = "z"
+        intervals [983]:
+            xmin = 98.230000
+            xmax = 98.360000
+            text = "p"
+        intervals [984]:
+            xmin = 98.360000
+            xmax = 98.540000
+            text = "aU"
+        intervals [985]:
+            xmin = 98.540000
+            xmax = 98.630000
+            text = "3`"
+        intervals [986]:
+            xmin = 98.630000
+            xmax = 99.490000
+            text = "<p:>"
+        intervals [987]:
+            xmin = 99.490000
+            xmax = 99.640000
+            text = "s"
+        intervals [988]:
+            xmin = 99.640000
+            xmax = 99.720000
+            text = "@U"
+        intervals [989]:
+            xmin = 99.720000
+            xmax = 99.780000
+            text = "D"
+        intervals [990]:
+            xmin = 99.780000
+            xmax = 99.820000
+            text = "{"
+        intervals [991]:
+            xmin = 99.820000
+            xmax = 99.850000
+            text = "t"
+        intervals [992]:
+            xmin = 99.850000
+            xmax = 99.920000
+            text = "D"
+        intervals [993]:
+            xmin = 99.920000
+            xmax = 99.950000
+            text = "V"
+        intervals [994]:
+            xmin = 99.950000
+            xmax = 100.150000
+            text = "n"
+        intervals [995]:
+            xmin = 100.150000
+            xmax = 100.360000
+            text = "eI"
+        intervals [996]:
+            xmin = 100.360000
+            xmax = 100.440000
+            text = "m"
+        intervals [997]:
+            xmin = 100.440000
+            xmax = 100.480000
+            text = "V"
+        intervals [998]:
+            xmin = 100.480000
+            xmax = 100.565000
+            text = "v"
+        intervals [999]:
+            xmin = 100.565000
+            xmax = 100.630000
+            text = "aU"
+        intervals [1000]:
+            xmin = 100.630000
+            xmax = 100.670000
+            text = "3`"
+        intervals [1001]:
+            xmin = 100.670000
+            xmax = 100.760000
+            text = "l"
+        intervals [1002]:
+            xmin = 100.760000
+            xmax = 100.830000
+            text = "O:"
+        intervals [1003]:
+            xmin = 100.830000
+            xmax = 100.920000
+            text = "R"
+        intervals [1004]:
+            xmin = 100.920000
+            xmax = 100.950000
+            text = "d"
+        intervals [1005]:
+            xmin = 100.950000
+            xmax = 101.040000
+            text = "dZ"
+        intervals [1006]:
+            xmin = 101.040000
+            xmax = 101.150000
+            text = "i:"
+        intervals [1007]:
+            xmin = 101.150000
+            xmax = 101.240000
+            text = "z"
+        intervals [1008]:
+            xmin = 101.240000
+            xmax = 101.290000
+            text = "V"
+        intervals [1009]:
+            xmin = 101.290000
+            xmax = 101.400000
+            text = "s"
+        intervals [1010]:
+            xmin = 101.400000
+            xmax = 101.460000
+            text = "m"
+        intervals [1011]:
+            xmin = 101.460000
+            xmax = 101.560000
+            text = "eI"
+        intervals [1012]:
+            xmin = 101.560000
+            xmax = 101.600000
+            text = "b"
+        intervals [1013]:
+            xmin = 101.600000
+            xmax = 101.690000
+            text = "i:"
+        intervals [1014]:
+            xmin = 101.690000
+            xmax = 101.810000
+            text = "g"
+        intervals [1015]:
+            xmin = 101.810000
+            xmax = 101.840000
+            text = "l"
+        intervals [1016]:
+            xmin = 101.840000
+            xmax = 101.970000
+            text = "O:"
+        intervals [1017]:
+            xmin = 101.970000
+            xmax = 102.000000
+            text = "R"
+        intervals [1018]:
+            xmin = 102.000000
+            xmax = 102.040000
+            text = "V"
+        intervals [1019]:
+            xmin = 102.040000
+            xmax = 102.180000
+            text = "f"
+        intervals [1020]:
+            xmin = 102.180000
+            xmax = 102.340000
+            text = "aI"
+        intervals [1021]:
+            xmin = 102.340000
+            xmax = 102.390000
+            text = "d"
+        intervals [1022]:
+            xmin = 102.390000
+            xmax = 102.490000
+            text = "I"
+        intervals [1023]:
+            xmin = 102.490000
+            xmax = 102.580000
+            text = "n"
+        intervals [1024]:
+            xmin = 102.580000
+            xmax = 102.700000
+            text = "j"
+        intervals [1025]:
+            xmin = 102.700000
+            xmax = 102.840000
+            text = "u:"
+        intervals [1026]:
+            xmin = 102.840000
+            xmax = 103.310000
+            text = "<p:>"
+        intervals [1027]:
+            xmin = 103.310000
+            xmax = 103.410000
+            text = "V"
+        intervals [1028]:
+            xmin = 103.410000
+            xmax = 103.460000
+            text = "n"
+        intervals [1029]:
+            xmin = 103.460000
+            xmax = 103.500000
+            text = "d"
+        intervals [1030]:
+            xmin = 103.500000
+            xmax = 103.620000
+            text = "j"
+        intervals [1031]:
+            xmin = 103.620000
+            xmax = 103.730000
+            text = "u:"
+        intervals [1032]:
+            xmin = 103.730000
+            xmax = 103.790000
+            text = "I"
+        intervals [1033]:
+            xmin = 103.790000
+            xmax = 103.840000
+            text = "n"
+        intervals [1034]:
+            xmin = 103.840000
+            xmax = 103.960000
+            text = "h\"
+        intervals [1035]:
+            xmin = 103.960000
+            xmax = 104.080000
+            text = "I"
+        intervals [1036]:
+            xmin = 104.080000
+            xmax = 104.200000
+            text = "m"
+        intervals [1037]:
+            xmin = 104.200000
+            xmax = 104.570000
+            text = "<p:>"
+        intervals [1038]:
+            xmin = 104.570000
+            xmax = 104.650000
+            text = "V"
+        intervals [1039]:
+            xmin = 104.650000
+            xmax = 104.850000
+            text = "k"
+        intervals [1040]:
+            xmin = 104.850000
+            xmax = 104.930000
+            text = "O:"
+        intervals [1041]:
+            xmin = 104.930000
+            xmax = 104.960000
+            text = "R"
+        intervals [1042]:
+            xmin = 104.960000
+            xmax = 104.990000
+            text = "d"
+        intervals [1043]:
+            xmin = 104.990000
+            xmax = 105.030000
+            text = "I"
+        intervals [1044]:
+            xmin = 105.030000
+            xmax = 105.120000
+            text = "N"
+        intervals [1045]:
+            xmin = 105.120000
+            xmax = 105.190000
+            text = "t"
+        intervals [1046]:
+            xmin = 105.190000
+            xmax = 105.240000
+            text = "u:"
+        intervals [1047]:
+            xmin = 105.240000
+            xmax = 105.280000
+            text = "D"
+        intervals [1048]:
+            xmin = 105.280000
+            xmax = 105.310000
+            text = "V"
+        intervals [1049]:
+            xmin = 105.310000
+            xmax = 105.390000
+            text = "g"
+        intervals [1050]:
+            xmin = 105.390000
+            xmax = 105.440000
+            text = "R"
+        intervals [1051]:
+            xmin = 105.440000
+            xmax = 105.530000
+            text = "eI"
+        intervals [1052]:
+            xmin = 105.530000
+            xmax = 105.620000
+            text = "s"
+        intervals [1053]:
+            xmin = 105.620000
+            xmax = 105.650000
+            text = "V"
+        intervals [1054]:
+            xmin = 105.650000
+            xmax = 105.740000
+            text = "v"
+        intervals [1055]:
+            xmin = 105.740000
+            xmax = 105.780000
+            text = "aU"
+        intervals [1056]:
+            xmin = 105.780000
+            xmax = 105.840000
+            text = "3`"
+        intervals [1057]:
+            xmin = 105.840000
+            xmax = 105.910000
+            text = "g"
+        intervals [1058]:
+            xmin = 105.910000
+            xmax = 106.120000
+            text = "Q"
+        intervals [1059]:
+            xmin = 106.120000
+            xmax = 106.170000
+            text = "d"
+        intervals [1060]:
+            xmin = 106.170000
+            xmax = 106.270000
+            text = "<p:>"
+        intervals [1061]:
+            xmin = 106.270000
+            xmax = 106.380000
+            text = "?"
+        intervals [1062]:
+            xmin = 106.380000
+            xmax = 106.440000
+            text = "V"
+        intervals [1063]:
+            xmin = 106.440000
+            xmax = 106.490000
+            text = "n"
+        intervals [1064]:
+            xmin = 106.490000
+            xmax = 106.520000
+            text = "d"
+        intervals [1065]:
+            xmin = 106.520000
+            xmax = 106.550000
+            text = "D"
+        intervals [1066]:
+            xmin = 106.550000
+            xmax = 106.590000
+            text = "V"
+        intervals [1067]:
+            xmin = 106.590000
+            xmax = 106.640000
+            text = "l"
+        intervals [1068]:
+            xmin = 106.640000
+            xmax = 106.770000
+            text = "O:"
+        intervals [1069]:
+            xmin = 106.770000
+            xmax = 106.820000
+            text = "R"
+        intervals [1070]:
+            xmin = 106.820000
+            xmax = 106.860000
+            text = "d"
+        intervals [1071]:
+            xmin = 106.860000
+            xmax = 106.940000
+            text = "dZ"
+        intervals [1072]:
+            xmin = 106.940000
+            xmax = 107.040000
+            text = "i:"
+        intervals [1073]:
+            xmin = 107.040000
+            xmax = 107.120000
+            text = "z"
+        intervals [1074]:
+            xmin = 107.120000
+            xmax = 107.150000
+            text = "V"
+        intervals [1075]:
+            xmin = 107.150000
+            xmax = 107.250000
+            text = "s"
+        intervals [1076]:
+            xmin = 107.250000
+            xmax = 107.330000
+            text = "k"
+        intervals [1077]:
+            xmin = 107.330000
+            xmax = 107.410000
+            text = "R"
+        intervals [1078]:
+            xmin = 107.410000
+            xmax = 107.530000
+            text = "aI"
+        intervals [1079]:
+            xmin = 107.530000
+            xmax = 107.670000
+            text = "s"
+        intervals [1080]:
+            xmin = 107.670000
+            xmax = 107.700000
+            text = "t"
+        intervals [1081]:
+            xmin = 107.700000
+            xmax = 109.824000
+            text = "<p:>"

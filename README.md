@@ -29,7 +29,7 @@ Inside the dataset folder, for each language we provide:
 
 
 ### 2) Aligning the data with [Maus forced aligner](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic)
-For the covered languages, we make available the output from the Maus forced aligner in LANGUAGE/textgrid/. For new languages, please check the Website.
+For the covered languages, we make available the output from the Maus forced aligner in LANGUAGE/maus\_textgrid/. For new languages, please check the Website.
 
 ### 3) Obtaining speech alignment on a verse level
 For each language, the audios were sliced in verses considering the output of 1.3. and the generated texgrids (2.). More details available [here](https://github.com/getalp/multilingual-speech2speech-dataset/blob/master/scripts/alignment/).
