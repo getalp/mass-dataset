@@ -1,17 +1,15 @@
 # Audio Slicer
 
 ## RUNNING
-
-call:
 ~~~~
 python3 coupe_verset.py --lab <CHAPTER TEXT> --textgrid <TEXGRID> --wav <WAV FILES> --output <OUTPUT FOLDER> --language <LANGUAGE ID> --force --verbose
 ~~~~
 
 ## PARAMETERS
 
-**--lab**: the folder containing the chapters text files (with verse information) available at dataset/LANGUAGE/raw_txt/ or extracted from the [website](https://www.faithcomesbyhearing.com/audio-bibles/bible-recordings)
+**--lab**: the folder containing the chapters text files **(with verse information)** available at dataset/LANGUAGE/raw_txt/ or extracted from the [website](https://www.faithcomesbyhearing.com/audio-bibles/bible-recordings)
 
-**--textgrid**: the folder containing the output of the alignment (THIS FILES DO NOT CONTAIN THE VERSES NUMBER)
+**--textgrid**: the folder containing the output of the alignment **(without verse information)**
 
 **--wav**: the folder containing the audios, such as downloaded from bible.is 
 
