@@ -8,7 +8,7 @@ python3 coupe_verset.py --lab <CHAPTER TEXT> --textgrid <TEXGRID> --wav <WAV FIL
 
 ## PARAMETERS
 
-**--lab**: the folder containing the chapters, such as downloaded from the bible.is
+**--lab**: the folder containing the chapters text files (with verse information) available at dataset/LANGUAGE/raw_txt/ or extracted from the [website](https://www.faithcomesbyhearing.com/audio-bibles/bible-recordings)
 
 **--textgrid**: the folder containing the output of the alignment (THIS FILES DO NOT CONTAIN THE VERSES NUMBER)
 
