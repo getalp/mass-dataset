@@ -39,11 +39,11 @@ python3 coupe_verset.py --lab <CHAPTER TEXT> --textgrid <TEXGRID> --wav <WAV FIL
 
 ## DEBUG AND EXTENSIONS
 
-**NAME EXTENSIONS** Please note that the script makes some assumptions about file names and extensions. All of these are listed on config.py
+**NAME EXTENSIONS:** Please note that the script makes some assumptions about file names and extensions. All of these are listed on config.py
 
-**ERROR LOG** In case of exception, the script generates a log file. This log file is called FILE_ID_error_log and it prints the generated alignment, element by element, allowing debug.
+**ERROR LOG:** In case of exception, the script generates a log file. This log file is called FILE_ID_error_log and it prints the generated alignment, element by element, allowing debug.
 
-**EXTENSION** Perfect alignment was generated through an iterative process of failed alignment generation and inclusion of new regular expressions in the clean function (parser.py) for each one of the covered languages. By adding cases for new languages, the script can be easily extended to new languages.
+**EXTENSION:** Perfect alignment was generated through an iterative process of failed alignment generation and inclusion of new regular expressions in the clean function (parser.py) for each one of the covered languages. By adding cases for new languages, the script can be easily extended to new languages.
 
-**IMPEFECT ALIGNMENT** We include the imperfect_raw_grid_align function that allows impefect alignment between chapter text and textgrid. Please check that function at coupe_verset.py for more details. 
+**IMPEFECT ALIGNMENT:** We include the imperfect_raw_grid_align function that allows impefect alignment between chapter text and textgrid. Please check that function at coupe_verset.py for more details. 
 
