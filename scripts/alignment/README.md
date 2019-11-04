@@ -35,7 +35,7 @@ python3 coupe_verset.py --lab <CHAPTER TEXT> --textgrid <TEXGRID> --wav <WAV FIL
 
 * *sox*: is used for slicing the audios. If not executed on a linux machine, this command needs to be replaced on the slice_audio function (coupe_verset.py).
 
-**/!\ THIS IS A PYTHON 3.5v IMPLEMENTATION.
+**/!\ THIS IS A PYTHON 3.5v IMPLEMENTATION.**
 
 ## DEBUG AND EXTENSIONS
 
