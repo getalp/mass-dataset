@@ -16,17 +16,18 @@ Inside the dataset folder, for each language we provide:
 ### 1) Downloading audio chapters from [bible.is](bible.is).
 
   1.1. The audios used in our work are available in the following links:
-  - [Basque data set](https://www.faithcomesbyhearing.com/audio-bibles/download/eus/EUSEABN1DA)
-  - [English data set](https://www.faithcomesbyhearing.com/audio-bibles/download/eng/ENGESVN1DA)
-  - [Finnish data set](https://www.faithcomesbyhearing.com/audio-bibles/download/fin/FIN38VN1DA)
-  - [French data set](https://www.faithcomesbyhearing.com/audio-bibles/download/frn/FRNTLSN2DA)
-  - [Hungarian data set](https://www.faithcomesbyhearing.com/audio-bibles/download/hun/HUNHBSN1DA)
-  - [Romanian data set](https://www.faithcomesbyhearing.com/audio-bibles/download/ron/RONDCVN1DA)
-  - [Russian data set](https://www.faithcomesbyhearing.com/audio-bibles/download/rus/RUSS76N2DA)
-  - [Spanish data set](https://www.faithcomesbyhearing.com/audio-bibles/download/spn/SPNBDAN1DA)
+  - [Basque dataset](https://www.faithcomesbyhearing.com/audio-bibles/download/eus/EUSEABN1DA)
+  - [English dataset](https://www.faithcomesbyhearing.com/audio-bibles/download/eng/ENGESVN1DA)
+  - [Finnish dataset](https://www.faithcomesbyhearing.com/audio-bibles/download/fin/FIN38VN1DA)
+  - [French dataset](https://www.faithcomesbyhearing.com/audio-bibles/download/frn/FRNTLSN2DA)
+  - [Hungarian dataset](https://www.faithcomesbyhearing.com/audio-bibles/download/hun/HUNHBSN1DA)
+  - [Romanian dataset](https://www.faithcomesbyhearing.com/audio-bibles/download/ron/RONDCVN1DA)
+  - [Russian dataset](https://www.faithcomesbyhearing.com/audio-bibles/download/rus/RUSS76N2DA)
+  - [Spanish dataset](https://www.faithcomesbyhearing.com/audio-bibles/download/spn/SPNBDAN1DA)
 
   1.2. The audios were converted from multi to single channel and forced aligned by using [this](https://github.com/getalp/multilingual-speech2speech-dataset/blob/master/scripts/force-align.py) script. 
 
+  1.3 The raw chapter text files are not available for download anymore at the website. Thus, we provide them at dataset/LANGUAGE/raw_txt/. For new languages, chapter text files can be extracted from [this webpage](https://www.faithcomesbyhearing.com/audio-bibles/bible-recordings). These .txt files (chapter level) should be put on the same folder than the audios.
 
 ### 2) Aligning the data with [Maus forced aligner](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic)
 For the covered languages, we make available the output from the Maus forced aligner in LANGUAGE/maus\_textgrid/. For new languages, please check the Website.
