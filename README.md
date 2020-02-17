@@ -25,7 +25,7 @@ Inside the dataset folder, for each language we provide:
   - [Russian dataset](https://www.faithcomesbyhearing.com/audio-bibles/download/rus/RUSS76N2DA)
   - [Spanish dataset](https://www.faithcomesbyhearing.com/audio-bibles/download/spn/SPNBDAN1DA)
 
-  1.2. The audios were converted from multi to single channel and forced aligned by using [this](https://github.com/getalp/multilingual-speech2speech-dataset/blob/master/scripts/force-align.py) script. 
+  1.2. The audios were converted from multi to single channel and forced aligned by using [this](https://github.com/getalp/mass-dataset/blob/master/scripts/force-align.py) script. 
 
   1.3. The raw chapter text files are not available for download anymore at the website. Thus, we provide them at dataset/LANGUAGE/raw_txt/. For new languages, chapter text files can be extracted from [this webpage](https://www.faithcomesbyhearing.com/audio-bibles/bible-recordings). 
   These .txt files (chapter level) should be put on the same folder than the audios.
@@ -34,13 +34,19 @@ Inside the dataset folder, for each language we provide:
 For the covered languages, we make available the output from the Maus forced aligner in LANGUAGE/maus\_textgrid/. For new languages, please check the Website.
 
 ### 3) Obtaining speech alignment on a verse level
-For each language, the audios were sliced in verses considering the output of 1.3. and the generated texgrids (2.). More details available [here](https://github.com/getalp/multilingual-speech2speech-dataset/blob/master/scripts/alignment/).
+For each language, the audios were sliced in verses considering the output of 1.3. and the generated texgrids (2.). More details available [here](https://github.com/getalp/mass-dataset/blob/master/scripts/alignment/).
 
 ### 4) ID equivalence across languages
 For translating the IDs in English, we provide the simple python script below.
+
 ~~~~
 python3 scripts/fetch_data.py <language folder> <output folder> <language code>
 ~~~~
+
+### 5) Generate a CSV file listing the verses available for each language
+
+Use [this](https://github.com/getalp/mass-dataset/blob/master/scripts/check-verses.py) script to tenerate a CSV files listing the verses available for each language.
+As not all the verses of a given language exist in another language, this CSV file can be use to get a list of verses common to all languages.
 
 ## Paper Experiments
 
