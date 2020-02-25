@@ -52,6 +52,17 @@ As not all the verses of a given language exist in another language, this CSV fi
 
 The speech-to-speech retrieval baseline model proposed at the paper is available [here](https://github.com/getalp/BibleNet).
 
+## Citation
+
+If you use this corpus in your experiments, please use the following bibtex for citation
+
+@inproceedings{boito2020mass,
+    title={MaSS: A Large and Clean Multilingual Corpus of Sentence-aligned Spoken Utterances Extracted from the Bible},
+    author={Marcely Zanon Boito and William N. Havard and Mahault Garnerin and Éric Le Ferrand and Laurent Besacier},
+    booktitle = {Language Resources and Evaluation Conference (LREC) 2020},
+   year={2020},
+ }
+ 
 ## Team and Contact
 
 The people behind the (325) project:
