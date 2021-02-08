@@ -16,14 +16,14 @@ Inside the dataset folder, for each language we provide:
 ### 1) Downloading audio chapters from [bible.is](bible.is).
 
   1.1. The audios used in our work are available in the following links:
-  - [Basque dataset](https://www.faithcomesbyhearing.com/audio-bibles/download/eus/EUSEABN1DA)
-  - [English dataset](https://www.faithcomesbyhearing.com/audio-bibles/download/eng/ENGESVN1DA)
-  - [Finnish dataset](https://www.faithcomesbyhearing.com/audio-bibles/download/fin/FIN38VN1DA)
-  - [French dataset](https://www.faithcomesbyhearing.com/audio-bibles/download/frn/FRNTLSN2DA)
+  - [Basque dataset](https://www.faithcomesbyhearing.com/audio-bible-resources/mp3-downloads?language=Euskara&version=EUSEABN1DA)
+  - [English dataset](https://www.faithcomesbyhearing.com/audio-bible-resources/mp3-downloads?language=English&version=ENGESVN1DA)
+  - [Finnish dataset](https://www.faithcomesbyhearing.com/audio-bible-resources/mp3-downloads?language=Finnish&version=FIN38VN1DA)
+  - [French dataset](https://www.faithcomesbyhearing.com/audio-bible-resources/mp3-downloads?language=French&version=FRNTLSN2DA)
   - [Hungarian dataset](https://www.faithcomesbyhearing.com/audio-bibles/download/hun/HUNHBSN1DA)
-  - [Romanian dataset](https://www.faithcomesbyhearing.com/audio-bibles/download/ron/RONDCVN1DA)
-  - [Russian dataset](https://www.faithcomesbyhearing.com/audio-bibles/download/rus/RUSS76N2DA)
-  - [Spanish dataset](https://www.faithcomesbyhearing.com/audio-bibles/download/spn/SPNBDAN1DA)
+  - [Romanian dataset](https://www.faithcomesbyhearing.com/audio-bible-resources/mp3-downloads?language=Romanian&version=RONDCVN1DA)
+  - [Russian dataset](https://www.faithcomesbyhearing.com/audio-bible-resources/mp3-downloads?language=Russian&version=RUSS76N2DA)
+  - [Spanish dataset](https://www.faithcomesbyhearing.com/audio-bible-resources/mp3-downloads?language=Spanish&version=SPNBDAN1DA)
 
   1.2. The audios were converted from multi to single channel and forced aligned by using [this](https://github.com/getalp/mass-dataset/blob/master/scripts/force-align.py) script. 
 
