@@ -20,7 +20,7 @@ Inside the dataset folder, for each language we provide:
   - [English dataset](https://www.faithcomesbyhearing.com/audio-bible-resources/mp3-downloads?language=English&version=ENGESVN1DA)
   - [Finnish dataset](https://www.faithcomesbyhearing.com/audio-bible-resources/mp3-downloads?language=Finnish&version=FIN38VN1DA)
   - [French dataset](https://www.faithcomesbyhearing.com/audio-bible-resources/mp3-downloads?language=French&version=FRNTLSN2DA)
-  - [Hungarian dataset](https://www.faithcomesbyhearing.com/audio-bibles/download/hun/HUNHBSN1DA)
+  - [Hungarian dataset](https://www.faithcomesbyhearing.com/audio-bible-resources/mp3-downloads?language=Hungarian&version=hunhbsn1da)
   - [Romanian dataset](https://www.faithcomesbyhearing.com/audio-bible-resources/mp3-downloads?language=Romanian&version=RONDCVN1DA)
   - [Russian dataset](https://www.faithcomesbyhearing.com/audio-bible-resources/mp3-downloads?language=Russian&version=RUSS76N2DA)
   - [Spanish dataset](https://www.faithcomesbyhearing.com/audio-bible-resources/mp3-downloads?language=Spanish&version=SPNBDAN1DA)
