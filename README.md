@@ -1,6 +1,6 @@
 # MaSS - Multilingual corpus of Sentence-aligned Spoken utterances
 
-This is the repository for the CMU multilingual speech extension data set presented on the paper entitled *[MaSS: A Large and Clean Multilingual Corpus of Sentence-aligned Spoken
+This is the repository for the CMU multilingual speech extension data set presented in the paper entitled *[MaSS: A Large and Clean Multilingual Corpus of Sentence-aligned Spoken
 Utterances Extracted from the Bible](https://arxiv.org/pdf/1907.12895.pdf)*.
 
 ## Data
@@ -56,12 +56,19 @@ The speech-to-speech retrieval baseline model proposed at the paper is available
 
 If you use this corpus in your experiments, please use the following bibtex for citation
 
-@inproceedings{boito2020mass,
-    title={MaSS: A Large and Clean Multilingual Corpus of Sentence-aligned Spoken Utterances Extracted from the Bible},
-    author={Marcely Zanon Boito and William N. Havard and Mahault Garnerin and Éric Le Ferrand and Laurent Besacier},
-    booktitle = {Language Resources and Evaluation Conference (LREC) 2020},
-   year={2020},
- }
+@inproceedings{zanon-boito-etal-2020-mass,
+    title = {{M}a{SS}: {A} {L}arge and {C}lean {M}ultilingual {C}orpus of {S}entence-aligned {S}poken {U}tterances {E}xtracted from the {B}ible},
+    author = {Zanon Boito*, Marcely and Havard*, William and Garnerin, Mahault and Le Ferrand, Éric and Besacier, Laurent},
+    booktitle = {Proceedings of the 12th Language Resources and Evaluation Conference},
+    month = may,
+    year = {2020},
+    address = {Marseille, France},
+    publisher = {European Language Resources Association},
+    url = {https://aclanthology.org/2020.lrec-1.799},
+    pages = {6486--6493},
+    language = {English},
+    isbn = {979-10-95546-34-4},
+}
  
 ## Team and Contact
 
