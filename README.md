@@ -72,7 +72,7 @@ If you use this corpus in your experiments, please use the following bibtex for 
 }
 ```
 
-## Team and Contact
+## Team
 
 The people behind the (325) project:
 
@@ -81,5 +81,3 @@ The people behind the (325) project:
 * Mahault GARNERIN
 * Eric Le FERRAND
 * [Laurent BESACIER](https://orcid.org/0000-0001-7411-9125)
-
-You can contact them at first.last-name@univ-grenoble-alpes.fr
