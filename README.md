@@ -56,6 +56,7 @@ The speech-to-speech retrieval baseline model proposed at the paper is available
 
 If you use this corpus in your experiments, please use the following bibtex for citation
 
+```
 @inproceedings{zanon-boito-etal-2020-mass,
     title = {{M}a{SS}: {A} {L}arge and {C}lean {M}ultilingual {C}orpus of {S}entence-aligned {S}poken {U}tterances {E}xtracted from the {B}ible},
     author = {Zanon Boito*, Marcely and Havard*, William and Garnerin, Mahault and Le Ferrand, Éric and Besacier, Laurent},
@@ -69,15 +70,16 @@ If you use this corpus in your experiments, please use the following bibtex for 
     language = {English},
     isbn = {979-10-95546-34-4},
 }
- 
+```
+
 ## Team and Contact
 
 The people behind the (325) project:
 
-* ![ORCiD Logo](https://zenodo.org/static/img/orcid.png) [Marcely ZANON BOITO](https://orcid.org/0000-0003-0134-6719)
-* ![ORCiD Logo](https://zenodo.org/static/img/orcid.png) [William N. HAVARD](https://orcid.org/0000-0002-1226-4156)
+* [Marcely ZANON BOITO](https://orcid.org/0000-0003-0134-6719)
+* [William N. HAVARD](https://orcid.org/0000-0002-1226-4156)
 * Mahault GARNERIN
 * Eric Le FERRAND
-* ![ORCiD Logo](https://zenodo.org/static/img/orcid.png) [Laurent BESACIER](https://orcid.org/0000-0001-7411-9125)
+* [Laurent BESACIER](https://orcid.org/0000-0001-7411-9125)
 
 You can contact them at first.last-name@univ-grenoble-alpes.fr
